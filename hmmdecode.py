@@ -1,15 +1,24 @@
 import sys
 import os
 import math
-from _collections import defaultdict
-import time
-from collections import OrderedDict
+from collections import defaultdict
 
 from itertools import islice
 
 
+def default_value():
+    return 1
+
+
+transition = defaultdict(default_value)
+emission = defaultdict(default_value)
+tagcountemit = defaultdict(default_value)
+
+tagsofword = dict()
+listoftags = list()
+
+
 def take(n, iterable):
-    "Return first n items of the iterable as a list"
     return list(islice(iterable, n))
 
 
@@ -17,18 +26,11 @@ def fix_tag(word, tag, tag_prob):
     word = str(word)
     tag = str(tag)
 
-    most_prob = take(2, tag_prob)
+    most_prob = take(2, tag_prob)[1:]
     if len(tag) == 0:
-        tag = most_prob[1]
+        tag = most_prob[0]
 
     return word, tag
-
-
-transition = defaultdict(int)
-emission = defaultdict(int)
-tagcountemit = defaultdict(int)
-tagsofword = {}
-listoftags = []
 
 
 def store(line, c):
@@ -102,7 +104,7 @@ def Viterbi():
                                 try:
                                     probval = first_avg[0] / first_avg[1]
                                 except ZeroDivisionError:
-                                    probval = first_avg[0]
+                                    probval = -2.5
                             else:
                                 probval = math.log(float(tprob), 10) + math.log(
                                     float(emission[t1]), 10
@@ -122,6 +124,7 @@ def Viterbi():
                                         previousword[
                                             tuple([observation, k[1], index])
                                         ] = second_avg[0]
+
                                 else:
                                     previousword[
                                         tuple([observation, k[1], index])
@@ -168,9 +171,9 @@ def Viterbi():
                                         )
                                     tempdict[tuple([keys[0], keys[1], index])] = val2
 
-                        tempdictsorted = OrderedDict(
+                        tempdictsorted = dict(
                             sorted(tempdict.items(), key=lambda x: x[1], reverse=True)
-                        )  # desc sort
+                        )
                         tempdict2 = {}
                         tagdict = {}
                         for k in tempdictsorted:
