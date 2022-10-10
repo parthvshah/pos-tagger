@@ -82,6 +82,8 @@ def Viterbi():
             tokens = line.strip().split(" ")
             start = "<s>"
             counter = 0
+            first_avg = [0, 0]
+            second_avg = [0, 0]
             for observation in tokens:
                 tmplist = {}
                 if counter == 0:
@@ -91,21 +93,32 @@ def Viterbi():
                             tprob = transition[t]
                             t1 = (observation, currtag)
                             if float(tprob) == 0.0 or float(emission[t1]) == 0.0:
-                                probval = -6
+                                # probval = -6
+                                try:
+                                    probval = first_avg[0]/first_avg[1]
+                                except ZeroDivisionError:
+                                    probval = first_avg[0]
                             else:
                                 probval = math.log(float(tprob), 10) + math.log(
                                     float(emission[t1]), 10
                                 )
+                                first_avg[0] += probval
+                                first_avg[1] += 1
                             previousword[tuple([observation, currtag, index])] = probval
                     else:
                         for k in transition:
                             if k[0] == "<s>" and k[1] != "<s>":
                                 if transition[k] == 0:
-                                    previousword[tuple([observation, k[1], index])] = -2
+                                    try:
+                                        previousword[tuple([observation, k[1], index])] = second_avg[0]/second_avg[1]
+                                    except ZeroDivisionError:
+                                        previousword[tuple([observation, k[1], index])] = second_avg[0]
                                 else:
                                     previousword[
                                         tuple([observation, k[1], index])
                                     ] = math.log(transition[k], 10)
+                                    second_avg[0] += math.log(transition[k], 10)
+                                    second_avg[1] += 1
 
                 else:
                     if observation in tagsofword:
@@ -171,15 +184,16 @@ def main():
     count = 0
     if os.path.exists("hmmoutput.txt"):
         os.remove("hmmoutput.txt")
+
     with open("hmmmodel.txt") as f:
         for line in f:
-            if line.startswith("<Emission Probabilities"):
+            if line.startswith("*Emission Probabilities"):
                 count = 1
-            elif line.startswith("<Transition Probabilites"):
+            elif line.startswith("*Transition Probabilites"):
                 count = 2
-            elif line.startswith("<Tags"):
+            elif line.startswith("*Tags"):
                 count = 3
-            elif line.startswith("<Tag Counts"):
+            elif line.startswith("*Tag Counts"):
                 count = 4
             else:
                 store(line, count)

@@ -1,5 +1,11 @@
 import sys
 
+from itertools import islice
+
+def take(n, iterable):
+    "Return first n items of the iterable as a list"
+    return list(islice(iterable, n))
+
 test_f = open(sys.argv[1], "r")
 truth_f = open(sys.argv[2], "r")
 
@@ -31,5 +37,5 @@ misclassifications = OrderedDict(
     sorted(misclass_dict.items(), key=lambda x: x[1], reverse=True)
 )
 
-print(misclassifications)
+print(take(10, misclassifications.items()))
 print("Accuracy: ", correct / total)

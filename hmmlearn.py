@@ -41,7 +41,7 @@ def atomic_update(dictionary, key):
 def write_state():
     with open("hmmmodel.txt", "w+") as f:
         # Emmisions
-        f.write("<Emission Probabilities>\n")
+        f.write("*Emission Probabilities*\n")
         for key in emission_matrix:
             value = float(
                 (emission_matrix[key]) / (float(emission_tag_count[str(key[1])]))
@@ -49,7 +49,7 @@ def write_state():
             f.write(str(key[0]) + " " + str(key[1]) + " " + str(value) + "\n")
 
         # Transitions
-        f.write("<Transition Probabilites>\n")
+        f.write("*Transition Probabilites*\n")
         for i in itertools.combinations_with_replacement(tags, 2):
             if (i not in transition_matrix) and (i[1] != "<s>"):
                 transition_matrix[i] = 0
@@ -62,12 +62,12 @@ def write_state():
             f.write(str(key[0]) + " " + str(key[1]) + " " + str(val) + "\n")
 
         # Tags
-        f.write("<Tags>\n")
+        f.write("*Tags*\n")
         for key, value in word_tags.items():
             f.write(key + " " + ",".join([str(i) for i in value]) + "\n")
 
         # Tag counts
-        f.write("<Tag Counts>\n")
+        f.write("*Tag Counts*\n")
         for key, value in emission_tag_count.items():
             f.write(key + " " + str(value) + "\n")
 

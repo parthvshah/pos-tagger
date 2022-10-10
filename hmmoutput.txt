@@ -1,511 +1,564 @@
-ただし/CC 、/SYM 50/CD 周年/XSC ソング/NN に/PS 変更/VV 後/NB は/PK 、/SYM ED/NN も/PK 歌/NN つき/XS の/PN もの/NB が/PS 使わ/VV れ/AV た/AV 。/SYM
-私/NP は/PK 初めて/RB だっ/AV た/AV ん/PNB だ/AV けど/PC 思っ/VV て/PC い/AV た/AV より/PS も/PK 魚/NN は/PK 新鮮/JN でし/XV た/AV 。/SYM
-平成/XPC 10/CD 年度/XSC NHK/NNP 全国/NN 学校/NN 音楽コンクール/PN 中学校/NN の/PN 部/XP 課題/NN 曲/XS 。/SYM
-セントラル/S ・/SYM リーグ/NN 審判員/NN の/PN 水落/NN 朋大/PS は/PK 実兄/VV 。/SYM
-多彩/JN な/XV ライブアクト/NN とともに/PP 、/SYM 祝日/NN 前/XS の/PN 渋谷/NNP の/PN 夜/NN を/PS 盛り上げ/VV て/PC くれ/AV そうだ/AV 。/SYM
-今作品/NN で/PS は/PK 大会/NN で/PS の/PM パラメータ/NN UP/NNP が/PS 非常/JN に/XV 大きく/JJ 、/SYM ALL/NN 999/NN へ/PS の/PM 育成/NN は/PK 回復/VV アイテム/NN を/PS 投与/S し/VV つつ/PC 、/SYM 冬眠/NN 、/SYM 復活/NN を/PS 繰り返し/VV 大会/NN に/PS 連続/VV し/XV て/PC 出す/AV という/PQ 方法/NN が/PS 取ら/S れ/AV た/AV 。/SYM
-ゲーム/NN 入力/VV の/PNB レスポンス/S を/PS よく/JJ する/VV ため/NB に/PS は/PK 、/SYM これ/NP を/PS 1/CD 秒/XSC 間/XS に/PS 通常/NN 30/CD 回/XSC 以上/NB 行う/VV 必要/NN が/PS あり/VV 、/SYM 実際/NN に/PS 得/VV られ/AV た/AV データ/NN の/PN 回数/NN と/PQ 値/XS は/PK ゲーム/NN コントローラ/NN 内/XS の/PN 抵抗/NN や/PH 回路/NN 上/XS の/PN ノイズ/NN や/PH CPU/NN スピード/NN 、/SYM ゲーム/NN コントローラ/PN 全体/NN の/PN 容量/S から/PC くる/AV RC/SP 回路/NN ・/SYM 時/NN 定数/NN に/PS 依存/VV する/XV 。/SYM
-姉/NN と/PS 同じ/JR 先生/NN だっ/AV た/AV ので/PC 、/SYM 話/NN やすかっ/AV た/AV です/AV 。/SYM
-同僚/NN 教師/NN の/PN すみれ/S と/PQ 彩/S は/PK そんな/JR 夕子/S と/PQ 意気投合/S し/AV 、/SYM 問題/NN を/PS 解決/VV する/XV ため/PC 行動/NN を/PS 共に/RB する/VV 。/SYM
-ほか/NN の/PN 複数/NN の/PN 信者/NN も/PK 女性/NN 宅/NN 近く/NR で/PS 付きまとい/S 行為/NN を/PS し/VV て/PC い/AV た/AV と/PQ み/VV られ/AV ,/SYM 統一教会/NNP の/PN 組織的/JN な/XV 関与/NN の/PN 有無/NN を/PS 慎重/S に/PS 調べ/VV て/PC いる/AV 。/SYM
-背中/NN に/PS 背負っ/S た/AV ブースター/S を/PS 使っ/VV て/PC 空中/NN 飛行/NN を/PS 行う/VV 。/SYM
-また/CC 、/SYM 最新版/NN の/PN ウェブ/NN ブラウザ/NN を/PS 利用/VV し/XV て/PC い/AV て/PC も/PK 、/SYM OS/NN や/PH コンポーネント/NN 側/XS に/PS セキュリティ/NN ホール/NN が/PS 存在/VV すれ/XV ば/PC 、/SYM そこ/NP を/PS 突か/S れる/AV 可能性/NN が/PS ある/VV 。/SYM
-しかも/CC 、/SYM 熱々/S の/PM 料理/NN は/PK とても/RB 美味しかっ/JJ た/AV です/AV 。/SYM
-取り調べ/S 段階/NN で/PS は/PK 黙秘/S を/PS 貫き/S “/SYM 全て/NN は/PK 裁判官/S の/PN 前/NB で/PS 話す/VV ”/SYM と/PQ し/VV て/PC い/AV た/AV 被告/NN は/PK ,/SYM 犯行/NN を/PS 認め/VV た/AV ものの/PC 教祖/NN へ/PS の/PM 逮捕状/S 発布/VV の/PN 経緯/NN に関し/PS “/SYM 捜査当局/S の/PM 不手際/S ,/SYM 失態/S ”/SYM と/PQ 元/JR 同僚/NN ら/XS を/PS 非難/VV ,/SYM 法廷/NN は/PK 一時/NR 元/JR 警視/S の/PM 独壇場/S と/PQ なっ/VV た/AV 。/SYM
-今回/NR 、/SYM 日本/NNP の/PN メディア/NN も/PK この/JR テスト/NN に/PS 参加/VV する/XV こと/NB が/PS でき/VV た/AV ので/PC 、/SYM 最新/NN バージョン/NN の/PN 出来/NN 具合/NN を/PS レポート/NN し/VV て/PC いき/AV たい/AV 。/SYM
-大正/S 期/NN から/PS 、/SYM ノンフィクション/S 、/SYM 推理小説/S など/PA を/PS 訳/VV し/XV た/AV 。/SYM
-市内/NN の/PN ユダヤ人/NN は/PK 1942/CD 年/XSC まで/PA に/PS その/JR 全員/NN が/PS 逃亡/S する/AV か/PE 、/SYM 強制収容所/S に/PS 送致/S さ/XV れる/AV か/PE の/PN いずれ/NP か/PF であっ/AV た/AV 。/SYM
-ほとんど/NR は/PK 浅海生/S だ/XV が/PC 、/SYM 水深/NN 数/XS 百/CD m/XSC ほど/PA の/PN 深海/S まで/PK 生息/VV する/XV もの/NB も/PK いる/AV 。/SYM
-価格/NN に/PS 見/VV 合う/AV 満足感/S を/PS 感じ/VV ます/AV 。/SYM
-一方/CC B/NNP 国/XS で/PS は/PK 輸出/NN により/PS 小麦/S の/PM 量/NN が/PS 減る/VV ので/PC 、/SYM 小麦/S の/PM 価格/NN は/PK 上がる/VV 。/SYM
-インターナショナル/NN ・/SYM マネジメント/S ・/SYM グループ/NN を/PS はじめ/VV と/PQ する/VV 投資家/S によって/PS 所有/VV し/XV て/PC いる/AV が/PC 、/SYM 中でも/RB 元/JR テニス選手/NN ピート・サンプラス/S と/PQ アンドレ・アガシ/S も/PK 投資/NN さ/VV れ/AV て/PC いる/AV 。/SYM
-聖書/NN に/PS 当てはめ/S た/AV 場合/NB 、/SYM 最も/RB 分かり/VV やすい/AJ の/PNB が/PS ノアの方舟/S 伝説/NN である/AV 。/SYM
-海/NN は/PK 油膜/S を/PS 貼っ/VV て/PC 青白く/AV 光っ/S て/PC おり/AV 、/SYM 無数/S の/PM 漂着物/S が/PS 流れ/VV て/PC いる/AV 。/SYM
-一/CD つ/XSC に/PS ,/SYM 書籍/NN や/PH 講演会/NN ,/SYM 施設/NN ,/SYM HP/NNP など/PA で/PS 教祖/NN と/PS 幹部/NN の/PN 本音/S ,/SYM 生活/NN ,/SYM 人間性/S など/PA の/PN 真実/NN の/PN 手に入れる/S こと/VV です/AV 。/SYM
-麺棒/NN は/PK 直径/XPC 2/CD ～/XSC 3/CD cm/NNP 、/SYM 長さ/NN 1/CD m/XSC 程度/NN の/PN もの/NB が/PS 一般的/JN と/PQ いう/VV 。/SYM
-グレ/NNP た/AV の/PNB は/PK 、/SYM 母/NN を/PS 亡くし/S 父/NN が/PS 仕事/NN で/PS 忙しい/JJ 事/NN が/PS 原因/NN らしい/AV 。/SYM
-スタッフ/NN さん/XS も/PK 親切/JN に/XV 接し/VV て/PC くれ/AV た/AV ので/PC 、/SYM 緊張/VV せ/AV ず/AV に/PS 居心地/NN が/PS 良かっ/JJ た/AV です/AV 。/SYM
-元/JR 広島/NNP 県議会/PN 議員/NN 。/SYM
-地域別/NN で/PS は/PK 「/SYM 高台/S 」/SYM を/PS 選ん/VV だ/AV の/PNB は/PK 田老/NN 66/S ・/SYM 0/CD %/XSC 、/SYM 仙台/NNP 39/CD ・/SYM 6/CD %/XSC と/PS 地域/NN 差/XS が/PS 大きかっ/S た/AV 。/SYM
-演芸/NN で/PS は/PK ,/SYM 昨年/NR の/PN 後夜祭/S で/CC 大/XP 受け/VV を/PS とっ/VV た/AV 米粒/SYM 写経/S が/PS 登場/VV 。/SYM
-ロングヘアー/NN の/PN 色黒/S の/PM 女性/NN 。/SYM
-この/JR 頃/NB の/PN 三河/S 地方/NN は/PK 一向/S 一揆/NN で/PS 荒れ/VV て/PC い/AV た/AV 。/SYM
-ここ/NP 数/CD 年/XSC ,/SYM 統一/NN 協会/NN の/PN 関連会社/NN による/PS 霊感商法/NN で/PS 信者/NN の/PN 逮捕/NN 者/XS が/PS 続出/S し/VV て/PC い/AV ます/AV 。/SYM
-やはり/RB 、/SYM 個室/NN って/PQ 隔たり/S が/PS ある/VV ので/PC プライベート/JN な/XV 話/NN や/PH ビジネス/NN の/PN 大事/JN な/XV 話/NN も/PK お/XP 食事/NN や/PH お/XP 酒/XS を/PS 飲み/VV ながら/PC できる/AV と/PQ いう/VV の/PNB が/PS とても/RB 大きな/JR メリット/NN である/AV こと/NB が/PS 分かり/VV まし/AV た/AV 。/SYM
-精神科/S へ/PS 通院/S する/XV 人/NN の/PN 中/NB に/PS は/PK 、/SYM 病院/NN へ/PS 通院/S し/VV たり/PC 予約/NN 時間/NN まで/PA の/PN 間/NB 待ち/S 続ける/VV だけ/PA で/PS も/PK 消耗/S する/XV 人/NN も/PK い/AV ます/AV 。/SYM
-また/CC 、/SYM 前/NR 年/XPC 16/CD 本/XSC だっ/AV た/AV ホームラン/S は/PK 19/CD 本/XSC まで/PA 増え/VV た/AV 。/SYM
-久しぶり/JN に/XV うまい/S コーヒー/NN が/PS 飲/VV め/AV まし/AV た/AV 。/SYM
-これ/NP は/PK ほとんど/NR の/PN ユーザー/NN に/PS は/PK 問題なかっ/S た/AV が/PC 、/SYM 一部/NN の/PN ゲーム/NN で/PS は/PK コピー/NN プロテクト/S 用/XS の/PN 未/NN フォーマット/S 領域/NN や/PH ディスク/NN に/PS たくさん/NN の/PN データ/NN を/PS 詰め/S 込む/AV 方法/NN と/PS し/VV て/PC 拡張/NN トラック/NN を/PS 使用/VV し/XV て/PC おり/AV 、/SYM カスタム/NN フォーマット/PS ユーティリティ/S で/PS は/PK 80/CD トラック/NN の/PN ディスク/NN に/PS 86/S の/PM トラック/NN を/PS 作る/VV フォーマット/S が/PS 容量/S 拡張/NN の/PN 手段/NN と/PS し/VV て/PC 一般的/JN に/XV 選/VV べ/AV た/AV 。/SYM
-現在/NN は/PK 空き/NN 名跡/S と/PQ なっ/VV て/PC いる/AV 。/SYM
-元文/S 3/CD 年/XSC の/PN 一門/NN 家/XS 新設/NN 時/XS は/PK 加治木/S 家/NN と/PS 垂水/S 家/NN が/PS この/JR 家格/S と/PQ さ/VV れ/AV た/AV が/PC 、/SYM 同年/NN に/PS 成立/VV し/XV た/AV 重富/S 家/XS も/PK 加わり/S 、/SYM 重富/S 家/XS の/PN 前身/S 、/SYM 越前/NN 島津/S 家/NN が/PS 室町幕府/S の/PM 直勤/S だっ/XV た/AV ため/PC 、/SYM 一門/NN 家/XS 筆頭/S と/PQ さ/VV れ/AV た/AV 。/SYM
-色/NN の/PN 指定/NN に/PS teal/S と/PQ 指定/VV する/XV と/PC 、/SYM 16/CD 進数/XSC 表記/NN で/PS #/SYM 008080/S と/PQ 表現/VV さ/XV れる/AV 色/NN が/PS 発色/S さ/XV れる/AV 。/SYM
-晩年/NN は/PK 霧ケ峰/NN 牧場/S で/PS 余生/S を/PS 過ごし/VV た/AV と/PQ いわ/VV れ/AV て/PC いる/AV 。/SYM
-以上/NN の/PN 操作/NN を/PS 再帰的/S に/PS 繰り返す/VV と/PC 以下/NN の/PN ような/AV 決定/NN 木/NN が/PS 出力/NN さ/VV れる/AV 。/SYM
-どこ/NP に/PS する/VV か/PE 迷っ/S て/PC る/AV 方/NB が/PS い/VV たら/AV 、/SYM ぜひ/RB と/PQ も/PK ここ/NP を/PS オススメ/VV し/XV ます/AV 。/SYM
-これ/NP は/PK おそらく/RB タバコ/NN を/PS 普及/VV さ/XV せ/AV た/AV ウォルター/S ・/SYM ローリー/S 卿/XS が/PS 伝説/NN の/PN 黄金/S の/PM 都市/NN エル・ドラード/S を/PS 求め/VV て/PC ガイアナ/S の/PM オリノコ川/S を/PS 遡っ/S た/AV 1580/S 年/XS の/PN 遠征/NN の/PN 栄誉/S を/PS 称え/S た/AV もの/NB と/PS 見/VV られ/AV て/PC いる/AV 。/SYM
-16/CD 日/XSC の/PN 東京株式市場/S も/PK 主力/NN 輸出/NN 株/NN は/PK さえ/PK ない/JJ 。/SYM
-これら/NP が/PS 順に/S 収縮/VV する/XV こと/NB で/PS 食物/S を/PS 胃/S に/PS 送り出す/S ような/AV 動き/NN を/PS する/VV 。/SYM
-実際/RB 廃止/VV さ/XV れ/AV た/AV 区間/NN の/PN 復旧/NN 再開/S も/PK 京義/S ・/SYM 東海/NNP 線/XS とともに/PP 検討/VV さ/XV れ/AV 、/SYM 1991/CD 年/XSC に/PS すでに/RB 用地/VV 買取/S や/PH 設計/NN など/PA が/PS 済まさ/S れ/AV て/PC い/AV た/AV が/PC 、/SYM 地形/NN 的/JN 理由/NN で/PS 見送ら/S れ/AV て/PC き/AV た/AV 。/SYM
-蔵前/NN 国技館/S 跡地/NN は/PK 東京都/NNP に/PS 売却/VV し/XV 、/SYM その/JR 売却益/S が/PS 両国国技館/S 建設/NN の/PN 資金/NN と/PS なっ/VV た/AV 。/SYM
-ヴィクトル/S ・/SYM ユゴー/S など/RB フランス/NNP ・/SYM ロマン派/S を/PS 専門/NN と/PS し/VV た/AV 。/SYM
-イーアス/NN の/PN 中/NB に/PS ある/VV 映画館/S な/VV ので/PC 、/SYM 駐車場/NN が/PS 広い/JJ の/PNB も/PK Good/NNP 。/SYM
-府中/NNP や/PH 国立/NN の/PN 辺り/S の/PM 土地/NN が/PS 得意/JN と/PQ の/PM こと/NB で/PS 、/SYM 色々と/RB 紹介/VV し/XV て/PC もらう/AV こと/NB が/PS でき/VV まし/AV た/AV 。/SYM
-日本/NNP 貝類学/S 会/XS 役員/S 、/SYM 東京/NNP 貝類/S 同好会/S 名誉会長/S を/PS 務め/VV た/AV 貝類/S 収集家/S と/PQ し/VV て/PC も/PK 知ら/VV れ/AV た/AV 。/SYM
-富士通/NN は/PK 、/SYM 産業機械/S だけ/PA で/PS なく/JJ 、/SYM 社会/NN インフラ/NN や/PH 物流/S 業界/NN など/PA に対して/PS M/NNP 2/CD M/NNP サービス/NN を/PS 提供/VV する/XV 。/SYM
-第一次世界大戦/NN 終結/S 後/NR 、/SYM ヴェルサイユ/S 条約/NN によって/PS 大砲/S の/XV 保有/VV を/PS 禁止/VV さ/XV れ/AV た/AV ドイツ/NNP から/PS 戦争賠償/S と/PQ し/VV て/PC ベルギー/NNP が/PS 残存/VV 砲/NN を/PS 接収/S し/VV て/PC 装備/VV し/XV た/AV 。/SYM
-やはり/RB 、/SYM おすすめ/NN は/PK 焼き物/S です/AV ね/PE 。/SYM
-いなべ市/NN 藤原町/S 坂本/NNP -/SYM 同/XP 市/XS 藤原町/S 下野尻/S を/PS 以下/NN の/PN 路線バス/NN が/PS 通過/VV する/XV 。/SYM
-ロイツェ/NN は/PK 沖縄戦/S 終結/S 後/XS の/PN 7月/NR 10/CD 日/XSC に/PS 慶良間/S を/PS 離れ/VV て/PC グアム/S 、/SYM 真珠湾/NNP を/PS 経由/VV し/XV て/PC サンフランシスコ/NNP に/PS 到着/VV し/XV 、/SYM 8月/NR 3/CD 日/XSC から/PS ハンターズ/S ・/SYM ポイント/NN 海軍/NN 造船所/NN で/PS 修理/NN が/PS 開始/VV さ/XV れ/AV た/AV が/PC 、/SYM 終戦/NN により/PS 修理/NN は/PK 停止/VV さ/XV れ/AV た/AV 。/SYM
-その/JR 際/NB ,/SYM 国会議員/NN に対して/PS 請願/S を/PS 行う/VV 予定/NN と/PS 見/VV られ/AV て/PC い/AV ます/AV 。/SYM
-かつて/RB は/PK 、/SYM 農業/NN が/PS 圧倒的/JN で/XV 、/SYM バーデン/S ＝/SYM ヴュルテンベルク/S 州/NN 内/XS で/PS 最も/RB 脆弱/S な/XV 経済/NN 基盤/S の/PM 郡/NN であっ/AV た/AV が/PC 、/SYM 近年/NN は/PK 構造変化/S を/PS 成し遂げ/S て/PC いる/AV 。/SYM
-人/NN を/PS 人/NN と/PS し/VV て/PC 思わ/VV ない/AV ような/AV ,/SYM 尋常/S で/PS は/PK ない/JJ この/JR 現実/NN を/PS みなさん/NP に/PS お/XP 伝えし/VV たい/AV の/PNB です/AV 。/SYM
-ハンマー/S は/PK やめ/VV て/PC !/SYM
-大きな/JR 拍手/NN が/PS 巻き/S 起こり/VV まし/AV た/AV 。/SYM
-リミテッド/S ・/SYM シリーズ/NN の/PN 『/SYM マーベル/S 1602/S 』/SYM で/PS 、/SYM 「/SYM スティーブン/S ・/SYM ストレンジ/S 卿/XS 」/SYM は/PK 専属/NN 医師/NN 兼/XP 魔術師/S と/PQ し/VV て/PC エリザベス/S 1/CD 世/XSC に/PS 仕え/S た/AV 。/SYM
-果肉/S は/PK 橙色/S で/CC 、/SYM 肉質/S は/PK やや/RB 硬い/S が/PS 多汁/S である/AV 。/SYM
-戸籍/S 上/NB は/PK 女性/NN と/PS し/VV て/PC 生まれ/VV た/AV が/PC 、/SYM 幼い/JJ 頃/NB から/PS 「/SYM 自分/NN は/PK 男性/NN である/AV 」/SYM との/S 性/XS 自認/S を/PS 持っ/VV て/PC い/AV た/AV 。/SYM
-中日新聞社/NN が/PS 後援/S し/VV て/PC いる/AV 。/SYM
-カラフル/S で/CC 色合い/NN が/PS いい/JJ デザイン/NN が/PS あっ/VV た/AV ので/PC 気に入り/S まし/AV た/AV 。/SYM
-クルマ/S にまつわる/PP エピソード/NN を/PS Twitter/SP で/PS 投稿/VV する/XV 同/XP キャンペーン/NN 。/SYM
-ビッグ/NN ・/SYM モーラ/S が/PS 破壊/VV さ/XV れ/AV た/AV とき/NB に/PS は/PK 、/SYM 彼ら/NP の/PN 策略/S の/PN ため/NB に/PS 、/SYM 既に/RB かつて/RB の/PM 威光/S は/PK なく/JJ なっ/VV て/PC い/AV た/AV 。/SYM
-北朝鮮/NNP について/PS は/PK ホーム/NN で/PS の/PM 対戦/NN も/PK すんなり/S と/PS は/PK いか/VV ない/AV 。/SYM
-定期的/JN に/XV イベント/NN し/VV て/PC る/AV らしく/AV て/PC 要/S チェック/VV です/AV 。/SYM
-中日/NR の/PN 次期/S 監督/NN に/PS 決まっ/VV て/PC いる/AV 高木/NNP 守道/S 氏/NN から/PS ラブ/NN コール/S を/PS 送ら/VV れ/AV て/PC いる/AV 福留/S に/PC 、/SYM 巨人/NN も/PK 再び/RB 手/NN を/PS 伸ばす/S こと/NB に/PS なる/VV かどうか/PF 。/SYM
-施設/NN は/PK 大阪市/NNP が/PS 所有/VV し/XV 、/SYM 指定/NN 管理者/NN は/PK 財団法人/S 大阪市/NNP スポーツ/NN ・/SYM みどり/S 振興/NN 協会/NN である/AV 。/SYM
-私/NP は/PK 住民/NN に/PS 事実/NN を/PS 伝える/VV の/PNB が/PS 仕事/VV です/AV から/PC 。/SYM
-ヨーロッパ/NNP 各国/NN の/PN 航空機/NN メーカ/S の/PM コンソーシアム/S である/AV エアバス社/S は/PK 、/SYM 政治的/JN な/XV 理由/NN により/PS ヨーロッパ/NNP 各地/NN に/PS 部品/NN 工場/NN を/PS 保有/VV し/XV て/PC おり/AV 、/SYM 最終/NN 組み立て/VV の/XV ため/PC 機体/NN 部品/NN の/PN 輸送/NN が/PS 課題/NN であっ/AV た/AV 。/SYM
-途中/NR で/PS ジュール/S が/PS 亡くなっ/VV た/AV ため/PC 兄/NN エドモン/S が/PS 完成/VV 。/SYM
-同社/NN の/PN 不燃/S 木材/S は/PK 浅野/S 木材/S 工業/NN の/PN 浅野/S 成昭/S が/PS 開発/VV し/XV 、/SYM 2001/CD 年/XSC に/PS 日本/NNP で/PS 初めて/RB 国土交通省/NNP から/PS 不燃材/S 料/XS の/PN 認定/NN を/PS 受け/VV た/AV 。/SYM
-堀田/NN は/PK 仙台/NNP 藩/NN 伊達/S 家/NN を/PS 「/SYM 家元/S 」/SYM と/PQ 宇和島/S 藩/NN 伊達/S 家/NN を/PS 「/SYM 家別レ/S 」/SYM と/PQ する/VV といった/PQ 調停案/S を/PS 示し/VV た/AV 。/SYM
-ホームページ/NN が/PS 出来/VV た/AV みたい/AV です/AV 。/SYM
-また/CC 、/SYM 10月/NR に/PS は/PK 販売網/S の/PM 強化/NN と/PS 顧客/NN へ/PS の/PM サービス/NN の/PN 充実/NN を/PS 図る/VV ため/PC 、/SYM 神奈川県/NNP 藤沢市/S に/XV 営業所/NN を/PS 開設/VV 。/SYM
-JBS/NNP 日本/NNP 福祉/NN 放送/NN は/PK 社会福祉法人/S “/SYM 視覚障害者/S 文化/NN 振興/NN 協会/NN ”/SYM が/PS 運営/VV する/XV 視覚障害者/S 専用/NN 放送/NN だ/AV 。/SYM
-1986/CD 年/XSC より/PS 開発/NN は/PK フェイズ/NN 2/CD に/PS 移行/VV し/XV 機体/NN の/PN 改修/NN 作業/NN が/PS 行わ/VV れ/AV た/AV 。/SYM
-米議会/S 内/NB で/PS も/PK ビンラディン/S が/PS 殺害/VV さ/XV れ/AV た/AV こと/NB を/PS 確認/VV する/XV うえ/NB でも/AV 公表/VV す/XV べき/AV だ/AV と/PQ の/PM 声/NN が/PS 高まっ/VV て/PC い/AV た/AV 。/SYM
-ただし/CC 、/SYM 個別/NN の/PN 作品/NN に関する/PS 話題/NN は/PK エロゲー/S 作品/NN 別板/S で/PS 扱う/VV 。/SYM
-そのよう/JN な/XV 活動/NN を/PS 止める/VV どころか/PH ,/SYM 顕進/S 氏/XS は/PK ,/SYM 自分/NN は/PK 創始者/S と/PQ 協力/VV し/XV て/PC おり/AV ,/SYM 真の/JR 御/XP 父母/S 様/XS の/PN 遺さ/S れ/AV た/AV _/NN もの/NB を/PS 維持/VV し/XV よう/AV と/PQ し/VV て/PC いる/AV の/PNB だ/AV という/PQ 錯覚/S を/PS ,/SYM 積極的/JN に/XV 助長/S し/VV て/PC き/AV て/PC い/AV ます/AV 。/SYM
-私/NP は/PK クートラ/S 医師/NN の/PN 所有/VV する/XV ストリックランド/S の/PM 果物/S 絵/NN を/PS 見/VV て/PC 恐ろしさ/S を/PS 感じ/VV て/PC い/AV た/AV 。/SYM
-その/JR 保健室/NN の/PN 養護教諭/S が/PC ,/SYM 生徒/NN から/PS バカ/S に/PX さ/XV れ/AV て/PC い/AV た/AV 様子/NN が/PS うかが/S え/AV ます/AV 。/SYM
-今回/NR が/PS 初/NN の/PN ツアー/NN 競技/NN 挑戦/VV だ/AV 。/SYM
-やはり/RB 、/SYM 日常的/S に/PS 利用/VV さ/XV れる/AV こと/NB が/PS 多い/JJ 業者/NN だけ/PA あっ/VV て/PC 、/SYM 非常/JN に/XV 慣れ/VV た/AV 感じ/NN は/PK あり/VV ます/AV 。/SYM
-流出/S し/PC た/AV もの/NB と/PS さ/VV れる/AV 資料/NN 群/XS の/PN 中/NB に/PS ,/SYM “/SYM 日本/NNP における/PP 国産/NN テロリスト/NN の/PN 脅威/S について/PS ”/SYM と/PQ いう/VV タイトル/NN の/PN PDF/SP ファイル/NN が/PS あり/VV まし/AV た/AV 。/SYM
-しかしながら/CC 、/SYM 中心部/NN の/PN 温度/NN は/PK 、/SYM 約/XPC 5,000/S °C/XSC である/AV 。/SYM
-歯/NN の/PN かみ合わせ/S を/PS 考え/VV て/PC 治療/NN を/PS し/VV て/PC くれる/AV 歯科/NN な/AV ので/PC 、/SYM 満足/NN の/PN いく/AV 治療/NN を/PS し/VV て/PC もらえ/AV ます/AV 。/SYM
-そして/CC 、/SYM 寛永/S 期/XSC 以降/NR の/PN 蝦夷/S 地/XS 幕領/S 化/XS の/PN 中/NB で/PS 「/SYM 松前/S 稼/S 」/SYM と/PQ 呼ば/VV れ/AV た/AV 、/SYM 蝦夷/S 地/NN へ/PS の/PM 労働力/S 移動/NN が/PS 可能/JN で/XV あり/XA 、/SYM 飢餓/S 期/XS の/PN 困窮/S を/PS 一時的/JN に/XV 回避/VV する/XV こと/NB が/PS でき/VV た/AV 。/SYM
-建設中/S や/PH 計画中/S の/PM ライン/NN が/PS さらに/RB 8/CD つ/XSC ある/VV と/PQ いう/VV 。/SYM
-ぬーとぴあ/NN の/PN シェアメイト/S は/PK 、/SYM 優太/S を/PS 除き/VV なんと/S 全員/NN 女性/NN 。/SYM
-体育科/S 2/CD 年/XSC 2/CD 組/XSC 所属/NN の/PN 少年/NN 。/SYM
-誕生日/NN 用/XS に/PS ホール/NN ケーキ/NN を/PS 予約/VV し/XV て/PC くれ/AV た/AV の/PNB です/AV が/PC 、/SYM これ/NP が/PS 美味/NN !/SYM
-組/NN 内外/NN から/PS 高い/JJ 評価/NN を/PS 受け/VV て/PC い/AV た/AV やり手/S で/CC 、/SYM 二代目/S 海江田/NNP 組/XS で/PS は/PK 実質的/JN な/XV 運営/NN を/PS 担っ/VV て/PC い/AV た/AV 。/SYM
-実際/NN は/PK ガセ/S の/PM 情報/NN だっ/AV た/AV の/PNB だ/AV が/PC 、/SYM レコード/NN は/PK 自主/S 回収/S と/PQ なり/VV 、/SYM ナゴム/S 閉社/S へ/PS の/PM 決定打/S の/PM ひとつ/NN と/PS なっ/VV て/PC しまう/AV 。/SYM
-HDCD/NNP 対応/NN デジ/S フィル/S の/PM 殆ど/RB 全て/NN の/PN IC/NN で/PS は/PK 必ず/RB -/XPC 1/CD dB/S 絞っ/S て/PC いる/AV ので/PC 、/SYM 通常/NN の/PN 音楽/NN CD/NN 盤/XS を/PS 再生/VV し/XV た/AV とき/NB 、/SYM その/JR D/NNP //S A/NNP 変換/NN 回路/NN の/PN フルスケール/S は/PK 用い/VV られ/AV て/PC い/AV ない/AV こと/NB に/PS なる/VV 。/SYM
-われわれ/NP の/PN 組織/NN が/PS つぶれれ/S ば/PC 良い/JJ と/PQ 日共/NN や/PH 権力/NN が/PS 願望/S を/PS もっ/VV て/PC も/PK 今/NR の/PN ところ/NB 手/NN を/PS 下す/S 方法/NN が/PS ない/JJ 。/SYM
-外/NN に/PS 出る/VV の/PNB は/PK 、/SYM 産後/S 1/CD か月/XSC で/PS 始め/VV た/AV ヨガ/S の/PM レッスン/NN に/PS 通う/VV 程度/NN 。/SYM
-来年/NR の/PN 春/NN 、/SYM すぐ/RB 近く/NR に/PS ある/VV 大きな/JR 公園/NN で/PS 、/SYM 子供/NN たち/XS と/PS 一緒/NN に/PS 桜/NNP を/PS みる/VV の/PNB が/PS 、/SYM 今/NR から/PS とても/RB 楽しみ/VV です/AV 。/SYM
-これ/NP は/PK 後/NR に/PS 本居/S 宣長/S によって/PS 、/SYM 現在/NN と/PS 同じ/VV ような/AV 位置/NN に/PS 訂正/S さ/XV れ/AV た/AV 。/SYM
-まんまと/S お/XP 店/XS 側/XS の/PN 思惑/S に/PS ハマっ/S て/PC いる/AV 私/NP でし/AV た/AV 。/SYM
-小規模/JN の/XV 駅前広場/S を/PS 持つ/VV 。/SYM
-身長/NN 172/CD cm/NNP 、/SYM 体重/NN 60/CD kg/NNP 。/SYM
-胸部/NN は/PK 格納庫/S に/PS なっ/VV て/PC おり/AV 、/SYM 弾薬/S など/RB 物資/NN を/PS 積む/S こと/NB が/PS 可能/JN 。/SYM
-このよう/JN な/XV 大型/NN の/PN ゲル/S 、/SYM 大型/NN の/PN ゲル/S を/PS 中心/NN と/PS し/VV た/AV 遊牧民/S の/PM 宮廷/NN の/PN こと/NB を/PS ふつう/S オルド/S と/PQ 呼ん/VV で/XV おり/AV 、/SYM モンゴル/S 帝国/NN の/PN ハーン/NNP たち/XS は/PK 非常/JN に/XV 大きな/JR ゲル/S を/PS オルド/S と/PQ し/VV て/PC い/AV た/AV こと/NB が/PS 知ら/VV れる/AV 。/SYM
-2011/CD 年/XSC 3/CD 月期/XSC に/PS LED/SP 関連/NN 照明/NN 事業/NN で/PS 22/CD 億/CD 円/XSC の/PN 売り上げ/NN を/PS 目指す/VV 。/SYM
-1987/CD 年/XSC の/PN 第/XPC 1/CD 回/XSC 授賞式/NN 以来/NR 、/SYM この/JR 賞/XS は/PK アフリカ/S 系/XSC アメリカ人/S の/PM ミュージシャン/S にとって/PP 、/SYM 大変/RB 重要/JN な/XV 存在/NN と/PS なっ/VV て/PC いる/AV 。/SYM
-また/CC 同/JR 小説/NN で/PS は/PK 藍染/S に/PS なすりつけ/S られ/AV た/AV 罪/NN は/PK 、/SYM 元柳斎/S の/PM 尽力/NN も/PK あっ/VV て/PC 藍染/S の/PM 謀略/S が/PS 認め/VV られ/AV た/AV こと/NB から/PS 鉄裁/S ・/SYM 夜/NN 一/XS の/PN 罪状/S 共々/SYM 取り消し/S と/PQ なっ/VV た/AV こと/NB 、/SYM 商店/NN も/PK 尸魂界/S 公認/NN と/PS なっ/VV た/AV 上/NB 、/SYM 破面/S 篇/NN で/PS 喜助/S の/PM 存在/NN が/PS 広く/JJ 知れ渡っ/S た/AV 為/NB 、/SYM 現世/S 駐在/S 任務/NN の/PN 死神/NN が/PS 多数/NR 訪れる/VV ように/AV 手/NN が/PS 足り/VV なく/AV なり/AV つつ/PC ある/VV 程/PA 忙しく/S なっ/VV て/PC いる/AV こと/NB が/PS 語ら/VV れ/AV て/PC いる/AV 。/SYM
-また/CC 、/SYM 未来/NN の/PN 高度/NN に/PS 進化/VV し/XV た/AV 人工知能/S は/PK 本質的/S に/XV 自己/NN 書き換え/NN を/PS 行う/VV はず/NB だ/AV と/PQ 主張/VV する/XV 者/NN も/PK いる/AV 。/SYM
-体/NN 表面/NN は/PK 水/NN に/PS ぬれ/S て/PC も/PK 毛/NN の/PN 根元/S は/PK 油分/S により/PS 撥水/S 効果/NN を/PS もち/RB 、/SYM これ/NP により/PS 野生動物/NN など/PA は/PK 厳しい/JJ 環境/NN の/PN 寒暖/S の/PM 変化/NN から/PS 体内/NN の/PN 恒常性/S を/PS 守っ/S て/PC いる/AV 。/SYM
-形態/NN と/PS し/VV て/PC は/PK コンビニ/S ATM/NN に/PS 類似/S し/VV て/PC いる/AV 。/SYM
-生まれつい/S て/AV “/SYM 針/S ”/SYM を/PS 持っ/VV て/PC おり/AV 、/SYM それ/NP が/PS 彼女/NP の/PN 能力/NN に/PS 反映/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-「/SYM CS/SP 5/CD 」/SYM シリーズ/NN の/PN 中/NB でも/AV Web/NNP デザイナー/S 向け/XS 製品/NN である/AV 「/SYM WebPremium/SP 」/SYM に/PS 含まれる/VV アプリケーション/S について/PS の/PM 全体像/S と/PC 、/SYM それぞれ/NP の/PN 製品/NN の/PN 役割/NN について/PS 紹介/VV し/XV て/PC いこ/VV う/AV 。/SYM
-日本/NNP 基督教団/S 阿佐ヶ谷/S 教会/NN の/PN 牧師/NN を/PS 務める/VV 。/SYM
-405/S 法廷/NN ,/SYM 吉田/NNP 被告/NN は/PK 前回/NN 公判/S 時/XS の/PN 手錠/S に/PS 腰縄/S の/PM 姿/NN と/PS は/PK 異なり/VV 上下/NN 黒/NN の/PN スーツ/NN 姿/NN で/PS 現れ/VV た/AV 。/SYM
-まず/RB 予選/NN 7/CD 位/XSC の/PN #/SYM 1/CD ポルシェ/S が/PS 抜群/NN の/PN スタート/NN を/PS 決め/VV 、/SYM オープニング/NN ラップ/NN の/PN グランプリ/NN コース/NN の/PN 間/NB に/PS トップ/NN に/PS 浮上/VV 。/SYM
-バイオリン/S 弓毛/SYM 替/S を/PS やっ/VV て/PC い/AV ます/AV 。/SYM
-施設/NN に/PS 宿泊/VV し/XV た/AV 人/NN も/PK い/AV た/AV よう/AV です/AV 。/SYM
-マダガスカル/S ・/SYM コモロ/S 。/SYM
-どこ/NP まで/PA も/PK 自分/NN しか/PK い/AV ない/AV 、/SYM 底/NN なし/NN の/PN 孤独/NN 。/SYM
-低公害車/NN は/PK それ/NP ほど/PA 多く/NR は/PK ない/JJ が/PC 、/SYM ハイブリッドバス/S や/PH CNGバス/SP が/PS 導入/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-8月/NR 31/CD 日/XSC の/PN 今日/NR 行っ/VV て/PC き/AV まし/AV た/AV 。/SYM
-初めて/RB 行っ/VV た/AV お/XP 店/XS でし/AV た/AV が/PC 、/SYM 価格/NN も/PK 出来/NN も/PK 満足/JN し/XV て/PC い/AV ます/AV 。/SYM
-超/XP 長距離/NN 戦/XS に/PS 特化/VV し/XV て/PC いる/AV 分/NB 、/SYM 自分/NN から/PS 近い/JJ 所/NN に/PS は/PK 攻撃/VV でき/AV ない/AV 。/SYM
-1934/CD 年/XSC に/PS トーキー/S に/XV 初出演/NN 。/SYM
-願い/NN が/PS あっ/VV て/PC 来/VV て/PC いる/AV !/SYM
-結婚/NN 11/CD 年/XSC 目/XS の/PN 夫/NN 浮気/S 報道/NN が/PS 持ち上がっ/S た/AV とき/NB 、/SYM ヴィクトリア/S は/PK 彼/NP を/PS 信じ/VV て/PC い/AV た/AV そうだ/AV が/PC 、/SYM 寝/S も/PK 歯/NN も/PK ない/JJ こと/NB を/PS 噂/NN する/AV 世間/NN に対し/PS 行き/VV 場/NN の/PN ない/JJ 怒り/NN が/PS 湧き上がっ/S て/PC き/AV た/AV の/PNB も/PK 事実/RB だっ/AV た/AV そう/AV 。/SYM
-まずは/CC ,/SYM 1996/CD 年/XSC の/PN 教団/NN 本部/NN 移転/NN が/PS 隆法/NNP 氏/XS による/PS “/SYM 霊言/NN ”/SYM に/PS 振り回さ/S れ/AV た/AV という/PQ “/SYM ドタバタ/S 劇/S ”/SYM の/PN お話/S 。/SYM
-一方/CC ポリュネイケス/S の/PM 子/NN テルサンドロス/S は/PK 戦争/NN に/PS 勝利/VV し/XV た/AV 後/NB 、/SYM トロイア/S 戦争/NN に/PS 参加/VV し/XV た/AV が/PC 、/SYM ギリシア/NNP 軍/XS は/PK 間違っ/S て/AV ミューシア/S に/PS 上陸/VV し/XV 、/SYM テーレポス/S 王/NN と/PS 戦争/NN に/PS なっ/VV た/AV 。/SYM
-現在/NN は/PK 主に/RB 飼育/VV 下/NN 繁殖/S 個体/S が/PS 流通/VV する/XV 。/SYM
-靴屋/S の/PM 父/NN は/PK 、/SYM マックス/S が/PS 5/CD 歳/XSC の/PN 時/NB に/PS 家族/NN を/PS 捨て/VV 、/SYM マックス/S は/PK パン/NN や/PH 新聞/NN の/PN 配達/S で/PS 家計/S を/PS 助け/VV た/AV 。/SYM
-全員/NN 起立/S し/VV て/PC 迎える/VV 。/SYM
-大学/NN で/PS 学生/NN に/PS 教え/VV て/PC い/AV た/AV 経験/NN から/PS か/PF 人当たり/S も/PK 柔らかく/JJ 実直/S な/XV 人物/NN である/AV 。/SYM
-今日/NR は/PK ランチ/NN に/PS お/XP 刺身/NN が/PS 食べ/VV たかっ/AV た/AV ので/PC 、/SYM 前々/NN から/PS 気/NN に/PS なっ/VV て/PC い/AV た/AV こちら/NP に/PS お/XP 邪魔/VV し/XV まし/AV た/AV 。/SYM
-微塵/NN の/PN 良さ/NN も/PK ない/JJ !/SYM
-説明/NN も/PK 丁寧/JN で/XV 分かり/VV やすく/AJ 、/SYM 対応/NN も/PK とっても/RB 良かっ/JJ た/AV です/AV 。/SYM
-そこ/NP に/PS 当事者/S 意識/NN が/PS 生まれ/VV ,/SYM 社会/NN が/PS 実際/NN に/PS 動い/VV て/PC いく/AV 。/SYM
-場所/NN は/PK 多少/S わかり/VV づらい/AJ ん/PNB です/AV けど/PC 、/SYM 感じ/NN の/PN いい/JJ ところ/NB でし/AV た/AV
-駅/NN から/PS 遠く/JJ 、/SYM お/XP 酒/XS を/PS 楽しむ/VV に/XV は/PK 不便/JN な/XV リッチ/S な/AV の/PNB が/PS 最大/NN の/PN ネック/NN です/AV が/PC 、/SYM ドライバー/NN を/PS 一人/RB 連れ/VV て/PC でも/AV 行き/AV たい/AV お/XP 店/XS です/AV ☆/SYM
-その/JR ため/NB 、/SYM 三菱/NNP の/PN 携帯電話/NN に/PS は/PK 、/SYM アニメっちゃ/S の/PM メール/NN 用/XS 画像/NN 素材/NN や/PH アプリ/S が/PS いくつか/RB 添付/S さ/XV れ/AV て/PC いる/AV 。/SYM
-興行収入/NN は/PK 32/CD 億/CD 円/XSC 。/SYM
-多く/NR の/PN 欠陥/S を/PS 抱え/VV て/PC い/AV た/AV ため/PC 生産/NN 数/XS は/PK 100/CD 門/NN と/PS 少なく/JJ 、/SYM 短い/JJ 期間/NN 運用/VV さ/XV れ/AV た/AV M/NNP 7/CD プリースト/S や/PH セクストン/S に/PS 置き換え/VV られる/AV 形/NN で/PS 一線/NN から/PS 退い/S た/AV 。/SYM
-本気/JN で/XV 譲っ/S て/PC ほしい/AJ という/PQ 人/NN は/PK いる/AV の/PNB かしらん/S ?/SYM
-この/JR 会/NN が/PS “/SYM 家系/NN の/PN おはなし/S ”/SYM なる/VV 講演会/NN を/PS 毎月/S 公共施設/S で/PS 開い/VV て/PC いる/AV と/PQ の/PM 情報/NN が/PS 潜入/VV 取材/NN を/PS 敢行/S し/PC た/AV 。/SYM
-横浜市/NNP 近辺/S で/PS 英会話/S を/PS 習い/S たい/AV という/PQ 人/NN に/PS は/PK かなり/NR いい/JJ の/PNB で/PS は/PK ない/JJ でしょ/AV う/AV か/PE ?/SYM
-青雉/NN に/PS 助け/VV られ/AV た/AV 。/SYM
-一方/CC ,/SYM 淑徳大学/S に/PS 飯田/NNP 氏/XS を/PS 紹介/VV し/XV た/AV コンサルタント/S は/PK ,/SYM 自団体/S の/PM ウェブ/NN サイト/NN など/PA から/PS 飯田/NNP 氏/XS 関連/NN の/PN 記述/NN を/PS 削除/VV 。/SYM
-JT/NN に/PS よる/VV と/PC 、/SYM 廃作/S の/PM 募集/NN は/PK 2004/CD 年/XSC に/PS 続い/VV て/PC 2/CD 度/XSC 目/XS 。/SYM
-従来/NR の/PN 同社/NN 製/XS より/PS 素材/NN の/PN 伸長/S 率/NN が/PS 35/CD %/XSC 向上/VV し/XV 、/SYM 着脱/S し/VV やすく/AJ なっ/VV た/AV と/PQ いう/VV 。/SYM
-球状/NN 星団/S と/PQ し/VV て/PC は/PK まばら/S な/AV 方/NB で/PS 、/SYM 口径/NN 20/CD cm/NNP 程度/NN の/PN 望遠鏡/S で/PS 周辺部/S は/PK 完全/NN に/PS 分離/VV でき/AV 、/SYM 口径/NN 30/CD cm/NNP で/PS は/PK 中心部/NN まで/PA 分離/VV できる/AV 。/SYM
-窓/NN 側/XS の/PN 席/NN で/PS 若い/JJ 女性/NN が/PS 信者/NN から/PS 入会/S を/PS 強く/JJ 勧め/VV られ/AV て/PC いる/AV 様子/NN が/PS 確認/VV でき/AV た/AV 。/SYM
-山田/NNP が/PS 新作/S 小説/NN を/PS 発表/VV し/XV なく/AV なっ/AV て/PC から/PS 、/SYM 忍法帖/S シリーズ/NN に/PS 比べ/VV て/PC 正当/S に/PS 評価/VV さ/XV れ/AV て/PC い/AV た/AV と/PQ は/PK 言い/VV 難い/S 作品/NN 群/XS の/PN 再評価/S が/PS 始まっ/VV た/AV 。/SYM
-その/JR 呼びかけ/VV に/XV 共感/S し/PC た/AV 淡井/S 真紀/S 、/SYM 田中/NNP リタ/S 、/SYM 高原/NN 零/S 、/SYM 板倉/S あやの/S が/PS 秘密/NN の/PN アジト/S に/PS 集結/S し/PC た/AV 。/SYM
-下記/NN に/PS 主/JN な/XV 代表作/S を/PS 記述/NN する/AV 。/SYM
-憑い/S て/PC いる/AV “/SYM 虫/NN ”/SYM は/PK 巨大/JN ムカデ/S 。/SYM
-現役/NN 時/XS の/PN ポジション/NN は/PK ゴールキーパー/S 。/SYM
-この/JR 時代/NN から/PS 、/SYM 日本列島/S に/XV 人類/NN が/PS 住ん/VV だ/AV 遺跡/NN や/PH 遺物/NN が/PS 多く/JJ 発見/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-高橋/NNP 由美子/S さん/XS は/PK 創刊/VV し/XV た/AV 1990/CD 年/XSC から/PS 登場/VV 。/SYM
-クイズ/NN を/PS 行う/VV 場所/NN や/PH 形式/NN の/PN 関係/NN 上/XS 、/SYM 早押し/S テーブル/NN を/PS 設置/VV する/XV こと/NB が/PS 困難/JN な/XV 場合/NB は/PK 、/SYM 早押し/S ボタン/NN の/PN ボックス/NN を/PS 挑戦者/S の/PM 手/NN に/PS 持たせ/VV て/PC クイズ/NN を/PS 行っ/VV た/AV 。/SYM
-一方/CC 、/SYM 8/CD 市/XP 町/XS 以外/NB で/PS 放射線量/S が/PS 高い/JJ 場所/NN が/PS 見つかっ/VV た/AV 場合/NB も/PK 、/SYM 面積/NN が/PS 広い/JJ 場合/NB に/PS は/PK 「/SYM 国/NN と/PS の/PM 協議/NN で/PS 検討/VV 」し/S 、/SYM 局所的/S なら/AV 「/SYM 補助金/NN など/PA の/PN 対象外/S 」/SYM と/PQ の/PM 認識/NN が/PS 示さ/VV れ/AV た/AV 。/SYM
-先日/NR は/PK ありがとう/UH ござい/VV まし/AV た/AV 。/SYM
-_/NN 部下/NN は/PK ヘビー/NN ナイト/NN と/PS バッティ/S 、/SYM ブルームハッター/S 、/SYM トライデントナイト/S 。/SYM
-レジ/S にて/PS 受け取る/S 「/NN プリペイド/S 番号/NN 通知/S 票/XSC 」/SYM の/PN QR/SP コード/NN より/PS 携帯/VV サイト/NN に/PS ログイン/S 。/SYM
-通信教育/NN で/PS 挫折/S し/PC た/AV ので/PC 資格/NN まで/PA とれる/S の/PNB か/PF 心配/JN でし/XV た/AV が/PC 、/SYM 無事/NN 合格/VV し/XV 、/SYM 仕事/NN も/PK 決まり/S まし/AV た/AV !/SYM
-試読/S も/PK でき/VV ます/AV !/SYM
-南アフリカ/S で/PS 開か/VV れる/AV サッカー/NN の/PN ワールドカップ/NN に/PS 合わせ/VV て/PC 、/SYM 旅行会社/S で/PS は/PK 日本代表/NN の/PN 試合/NN を/PS 観戦/S する/XV ツアー/NN を/PS 販売/VV し/XV て/PC い/AV ます/AV が/PC 、/SYM 現地/NN の/PN 治安/NN が/PS 悪い/JJ こと/NB など/PA を/PS 理由/NN に/PS 参加/NN を/PS 見送る/VV サポーター/NN も/PK 多く/JJ 、/SYM 開幕/NN まで/PA あと/NN 6/CD 日/XSC に/PS 迫っ/S た/AV 今/NR も/PK ツアー/NN が/PS 売れ残る/S 状況/NN が/PS 続い/VV て/PC い/AV ます/AV 。/SYM
-一方/CC 、/SYM BOφWY/SP 、/SYM JUDYANDMARY/SP など/RB 人気/NN バンド/NN が/PS 解散/NN し/VV て/PC いく/AV なか/NB で/PS 、/SYM こうした/JR バンド/NN の/PN ファン/NN が/PS 新た/JN に/XV コピー/NN バンド/NN を/PS 結成/VV する/XV ケース/NN も/PK 目立つ/S ように/AV 各地/NN で/PS 活動/NN を/PS 継続/VV し/XV て/PC いる/AV 。/SYM
-診察/NN を/PS し/VV ながら/PC さ/VV さっと/S 診察/NN データ/NN を/PS 書き込ん/S で/PC いる/AV ような/AV ので/PC 、/SYM 患者/NN と/PS 患者/NN の/PN 待ち/S 時間/NN は/PK 少ない/JJ ように/AV 思い/VV ます/AV 。/SYM
-10/CD 年/XSC W杯/SP 南アフリカ/S 大会/NN 後/XS の/PN 昨/S 夏/NN も/PK 獲得/NN に/PS 動い/VV た/AV Aマドリード/SP が/PC 、/SYM ここ/NP に/PS 来/VV て/PC 再び/RB 獲得/VV に/XV 乗り出し/S て/PC いる/AV こと/NB が/PS 判明/VV 。/SYM
-この/JR 選考/S について/PS 労働基準法/S 違反/NN に/PS 抵触/S する/XV 疑い/NN が/PS ある/VV と/PQ し/VV て/PC 、/SYM 厚生労働省/S が/PS 調査/NN を/PS 開始/VV し/XV た/AV 。/SYM
-広大/S で/CC 対象/NN と/PS なる/VV 亡者/S も/PK 多い/JJ ため/PC 政令/S 指定/NN 地獄/NN と/PS なっ/VV て/PC いる/AV が/PC 、/SYM 亡者/S は/PK 地表/S に/PS 落ちる/S まで/PK 2000/CD 年/XSC 落下/S し/PC 続ける/AV ため/PC 実際/NN に/PS 服役/S する/XV 数/NN は/PK それ/NP ほど/PA で/PS も/PK なく/JJ 、/SYM 仕事/NN 自体/NB は/PK まだ/RB ヒマ/S な/AV 方/NB である/AV 。/SYM
-内容/NN は/PK 、/SYM 下表/S の/PN 通り/NB 。/SYM
-冷戦/S 中/NB だっ/AV た/AV ため/PC 、/SYM 西側/NN の/PN 状況/NN は/PK 国家/NN にとって/PP も/PK 国民/NN にとって/PP も/PK 指標/NN であっ/AV た/AV が/PC 、/SYM 東ドイツ/S は/PK 西ドイツ/S の/PM 経済成長/S の/PM 速度/NN に/PS 、/SYM 端/NN から/PS 追いつい/S て/PC おら/AV ず/AV 、/SYM この/JR こと/NB は/PK 国民/NN を/PS 怒らせ/S た/AV 。/SYM
-ジェボム/NN の/PN 俳優/NN および/CC 歌手/NN 活動/NN など/PA 、/SYM 芸能/NN 活動/NN 全般/NN を/PS 支援/VV する/XV 見通し/NN だ/AV 。/SYM
-美声/NN で/PS は/PK ない/JJ の/PNB に/PS 演歌/S の/PM 心/NN と/PS いう/VV か/PE 魂/NN の/PN 叫び/S と/PQ いう/VV か/PE 、/SYM とにかく/RB こちら/NP に/PS ズシーン/S と/PQ 響い/S て/PC くる/AV ような/AV 歌唱力/S の/PM 持ち主/S だっ/XV た/AV 。/SYM
-ネバダ/NN と/PS は/PK 「/SYM 雪/NN に/PS 覆わ/VV れ/AV た/AV 」/SYM という/PQ 意味/VV であり/AV 、/SYM 地域/NN の/PN 雪/NN を/PS 冠し/VV た/AV 山々/S を/PS 指す/VV もの/NB だっ/AV た/AV 。/SYM
-ホテル/NN ・/SYM コルテシア/S 東京/NNP で/PS 挙式/NN 予定/NN の/PN 客/NN 。/SYM
-サクラ/NN も/PK 動員/VV さ/XV れ/AV て/PC い/AV た/AV ようだ/AV 。/SYM
-せまい/NN 待合室/S の/PM 受付/NN で/PS 、/SYM 症状/NN を/PS 口頭/S で/CC 言/NN わさ/S れ/AV まし/AV た/AV 。/SYM
-KGB/NN の/PN 文書/NN に/PS は/PK 、/SYM 死因/S は/PK 「/SYM 動脈硬化/S に/PS 伴う/VV 循環器疾患/S 」/SYM と/PQ 記録/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-FBI/SP が/PS ポールセン/S を/PS 追い/S 始め/VV た/AV 時/NB 、/SYM 彼/NP は/PK 逃亡者/S と/PQ し/VV て/PC 地下/NN に/PS 潜っ/S て/PC い/AV た/AV 。/SYM
-再/XP 装填/S は/PK 人力/S である/AV 。/SYM
-スタッフ/NN の/PN 方/NB や/PH お/XP 店/XS の/PN 雰囲気/NN 良かっ/JJ た/AV です/AV 。/SYM
-現代/NN で/PS も/PK イラン/NNP や/PH パキスタン/S で/PS は/PK この/JR ナスタアリーク/S 体/NN が/PS 使わ/VV れ/AV て/PC いる/AV よう/AV です/AV 。/SYM
-市政/NN 委員会/NN が/PS 火薬/S は/PK 植民地/NN の/PN 財産/NN であり/AV 、/SYM イギリス/NNP 国王/NN の/PN もの/NB で/PS は/PK ない/JJ と/PQ 主張/VV し/XV て/PC 、/SYM 火薬/S の/PM 返還/NN を/PS 要求/VV し/XV た/AV 。/SYM
-薬/NN の/PN 事/NN 全然/RB わかり/VV ませ/AV ん/PNB でした/AV が/PC 、/SYM 丁寧/JN に/XV 案内/NN し/VV て/PC もらい/AV 、/SYM 買い/VV たい/AV 物/NN が/PS 買/S え/AV まし/AV た/AV 。/SYM
-だから/CC ,/SYM 日本/NNP が/PS 軍備/S を/PS し/VV ちゃ/S いか/VV ん/AV と/PQ いう/VV ん/AV だっ/AV たら/AV ,/SYM もう/RB 自衛隊/NN なんて/PQ やめ/VV て/PC まえ/NN 。/SYM
-なお/CC 、/SYM 町田/S 修/S は/PK 「/SYM 店長/NN くん/XS 」/SYM と/PQ し/VV て/PC 同社/NN の/PN キャラクター/NN と/PS なっ/VV て/PC いる/AV 。/SYM
-NBA/NNP の/PN コーチ/NN の/PN 中/NB に/PS は/PK 試合/NN 中/XS に/PS 大きな/JR 声/NN や/PH 身振り/S 手振り/S で/CC 選手/NN に/PS 指示/NN を/PS する/VV 者/NN も/PK 多い/JJ が/PC 、/SYM スコット/S は/PK 腕組み/S を/PS し/VV た/AV まま/NB 寡黙/JN に/XV 試合/NN の/PN 行方/S を/PS 見守る/S 。/SYM
-設立/NN は/PK 1965/CD 年/XSC 。/SYM
-彼女/NP の/PN 存在/NN は/PK 、/SYM ゲーテ/S の/PN ほか/NB シラー/S 、/SYM ヘルダー/S など/PA 同時代/S の/PM ヴァイマル/S の/PM 文人/S たち/NN に/PS 大きな/JR 影響/NN を/PS 与え/VV た/AV 。/SYM
-2500/S 円/XS の/PN コース/NN で/PS 、/SYM 私/NP は/PK お/XP 肉/NN ・/SYM 相方/S が/PS お/XP 魚/NN を/PS 選び/VV まし/AV た/AV 。/SYM
-その/JR ため/NB 人間界/S で/PS の/PM 舞台/NN は/PK 里帰り/S のみ/PA と/PS なる/VV 。/SYM
-ヴァイオリニスト/CC 。/SYM
-他の/JR 軍団/NN 員/XS と/PS 違っ/VV て/PC シュララ/S 軍団/NN から/PS 足/NN を/PS 洗い/S たい/AV と/PQ 思っ/VV て/PC おり/AV 、/SYM 登場/NN 目的/NN は/PK ケロロ/S 小隊/S に/PS 捕らえ/VV られ/AV た/AV 兄/NN を/PS 救う/VV こと/NB であっ/AV た/AV 。/SYM
-*/SYM 1902/S 年/XSC -/SYM ドイツ/NNP 選手権/NN が/PS スタート/VV 。/SYM
-週/NN に/PS 3/CD 回/XSC は/PK 行っ/VV て/PC ます/AV 。/SYM
-ノンビリ/S キング/NN 十三/S 世/XS の/PN 部屋/NN 。/SYM
-現在/NR 、/SYM その/JR 名称/NN は/PK アトレティコ/S の/PM 下部組織/S の/PM 名前/NN と/PS し/VV て/PC 残っ/VV て/PC いる/AV 。/SYM
-特に/RB 六/CD 代/XSC 目/XS 尾上/S 梅幸/S を/PS 相方/S と/PQ し/VV た/AV 演目/S は/PK 名高い/S 。/SYM
-東日本大震災/NNP を/PS きっかけ/NN に/PS 東京電力/NNP 福島/S 第/XPC 1/CD 原発/NN の/PN 危機的/S な/XV 状況/NN が/PS 続い/VV て/PC いる/AV 。/SYM
-何故か/S 教員/NN 用/XS の/PN 大型/NN の/PN 三角定規/S を/PS 持っ/VV て/PC いる/AV 事/NN が/PS 多い/JJ 。/SYM
-最初/NN の/PN 2/CD ヶ月/XSC 間/XS ,/SYM 自社/NN の/PN サービス/NN を/PS 理解/VV する/XV ため/NB って/PQ 事/NN で/PS ユーザー/NN サポート/NN を/PS 担当/VV し/XV まし/AV た/AV 。/SYM
-2011/CD 年/XSC 1月/NR で/PS レギュラー/NN 放送/NN が/PS 終了/VV し/XV 、/SYM 今後/NR は/PK 特番/NN 前/XS の/PN 特別番組/S と/PQ し/VV て/PC 放送/VV さ/XV れる/AV 。/SYM
-その後/NR 、/SYM 他の/JR 音楽番組/S を/PS 担当/VV し/XV 、/SYM TBS/NNP を/PS 退職/S 。/SYM
-これ/NP が/PS 無い/JJ 場合/NB 、/SYM 作業者/S は/PK 死に/VV 至る/VV 致命傷/S を/PS 負う/VV 場合/NB も/PK ある/XA 。/SYM
-SME/SP が/PC 、/SYM 生産性/S の/PM 向上/NN と/PS 革新/NN を/PS 進め/VV 、/SYM 経済/NN の/PN 牽引/S 役/NN と/PS なる/VV こと/NB を/PS 目的/NN と/PS し/VV て/PC いる/AV 。/SYM
-当時/NR 3/CD 回/XSC 連続/NN で/PS オーダー/S ミス/NN 。/SYM
-また/CC 、/SYM 香辛料/S を/PS 輸入/VV する/XV ため/PC 、/SYM さかん/S に/PS マカッサル/S 王国/NN と/PS も/PK 交易/S を/PS おこなっ/VV た/AV 。/SYM
-彼等/NN の/PN 遺体/NN は/PK 数日/NN 間/XS 晒さ/S れ/AV て/PC 、/SYM 最終的/JN に/XV ノグ山/S に/PS 埋葬/S さ/XV れ/AV た/AV 。/SYM
-伊勢丹/S 時代/NN に/PS カリスマ/S バイヤー/S と/PQ し/VV て/PC 名/NN を/PS 馳せ/S 、/SYM その後/NR 、/SYM 様々/JN な/XV 再建/NN 、/SYM ブランド/NN 創成/S 、/SYM 売り場/S プロデュース/NN など/PA を/PS 手がけ/VV て/PC き/AV た/AV 藤巻/S 幸夫/S 氏/XS 。/SYM
-ちなみに/CC ここ/NP に/PS は/PK 載せ/VV き/AV れ/AV ませ/AV ん/PNB でした/AV が/PC ,/SYM ラッパ/S を/PS 吹い/S て/PC いる/AV 天使/NN は/PK コンクリート/NN 製/XS 。/SYM
-佐脇/NN 有紀/S 裁判長/S は/PK ,/SYM 吉田/NNP 被告/NN について/PS “/SYM 本件/NN に/PS 果たし/VV た/AV 役割/NN は/PK 主導的/S で/PS 積極的/JN ”/SYM と/PQ し/VV ,/SYM 元/JR 警察官/NN と/PS し/VV て/PC “/SYM 犯行/NN の/PN 情状/S も/PK 悪い/JJ ”/SYM と/PQ し/VV ながら/PC も/PK ,/SYM 被告/NN が/PS 素直/S に/XV 犯行/NN を/PS 認め/VV 二度/NN と/PS 犯罪/NN を/PS 起こさ/S ない/JJ と/PQ 反省/VV し/XV て/PC いる/AV こと/NB や/PH 弁護士会/NN に/PS 100/CD 万/CD 円/XSC を/PS 寄付/VV し/XV た/AV こと/NB など/PA を/PS 総合/VV 考慮/VV し/XV 執行猶予/NN 付き/XS の/PN 判決/NN と/PS なっ/VV た/AV と/PQ 述べ/VV た/AV 。/SYM
-髪/NN は/PK 薄茶色/S で/PS 毛先/S が/PS 渦巻き/S カール/NN に/PS なっ/VV た/AV 髪型/NN を/PS し/VV て/PC いる/AV 。/SYM
-2月/NR 17/CD 日/XSC に/PS グアムアプラ/S 港/XS に/PS 寄港/S し/AV 、/SYM グアム/S 到着/VV 後/NB は/PK 燃料/S と/PS 物資/NN を/PS 補給/S し/VV て/PC 2月/NR 17/CD 日/XSC に/PS 出港/S 。/SYM
-表題/S 曲/XSC 『/SYM 港/NNP の/PN 五/CD 番/XSC 町/XS 』/SYM の/PN 作詞/S は/PK 阿久/S 悠/S 、/SYM 作曲/NN は/PK 彩木/S 雅夫/S である/AV 。/SYM
-安く/JJ て/PC うまいです/S 。/SYM
-マイクスタンド/NN は/PK 彼/NP の/PN 背後/NN から/PS 伸び/VV 、/SYM 頭上/S を/PS 通っ/VV て/PC 眼前/S に/PS 降ろす/S 可動/S 式/XS の/PN もの/NB を/PS 使用/VV 、/SYM 必要/NN に/PS 応じ/VV て/PC 都度/S 、/SYM ドラム/S ・/SYM テク/S が/PS マイクスタンド/S を/PS 操作/VV し/XV て/PC いる/AV 。/SYM
-宗教法人/NN 格/XS の/PN 取り消し/S 云々/S は/PK ,/SYM 結局/NR の/PN ところ/NB ,/SYM その/JR 宗教/NN の/PN 持つ/VV 教義/NN そのもの/NN について/PS ,/SYM 善悪/S の/PM 判断/NN を/PS 加える/S こと/NB に/PS なる/VV だろ/AV う/AV 。/SYM
-同氏/NN は/PK ドジャース/S で/CC 2/CD 度/XSC ワールドシリーズ/S を/PS 制覇/S 。/SYM
-男性/NN による/PS 、/SYM 番組/NN 名/XS ・/SYM 曲/NN 名/XS 等/XS の/PN 簡単/JN な/XV 英語/NN ナビゲート/S が/PS あっ/VV た/AV が/PC 、/SYM WEB/SP 上/NB で/PS 情報/NN が/PS 一切/NR 公開/VV さ/XV れ/AV て/PC おら/AV ず/AV 、/SYM 氏名/NN 等/XS は/PK 一切/NR 不明/JN で/XV ある/XA 。/SYM
-そして/CC 回答/NN の/PN 最後/NN に/PS ,/SYM 週刊誌/S の/PM 編集/NN 部/XS に対して/PS ,/SYM こんな/JR 一文/S 。/SYM
-日本/NNP で/PS は/PK 江戸時代/NNP から/PS 昭和/NN にかけて/PS 、/SYM 主に/RB 農家/NN 以外/NB で/PS 飼い猫/S の/PM 首輪/S の/PM 喉/S の/PM 部分/NN に/PS 鈴/S を/PS 一/CD つ/XSC つける/S こと/NB が/PS 行わ/VV れ/AV て/PC き/AV た/AV 。/SYM
-既に/RB 高麗/S の/PM 太祖/S の/PN 時期/NR から/PS 、/SYM 貴族/NN は/PK 王権/NN に対する/PS 強力/JN な/XV 挑戦者/S だっ/XV た/AV 。/SYM
-1800/S 年代/NN は/PK 旧制/S 高等学校/NN の/PN 医学部/NN 薬学/NN 科/XS と/PS し/VV て/PC 設置/VV さ/XV れ/AV た/AV が/PC 、/SYM 1900/S 年代/NN に/PS は/PK 旧制/S 高等学校/NN から/PS 医学/NN 専門学校/NN が/PS 分離/VV さ/XV れ/AV た/AV 、/SYM また/CC 私立/NN の/PN 薬学/NN 専門学校/NN も/PK 設置/VV さ/XV れ/AV た/AV 。/SYM
-店員/NN の/PN 教育/NN が/PS 残念/JN な/XV 店/NN 。/SYM
-昭和/NN が/PS 最も/RB 輝い/S て/PC い/AV た/AV 昭和/XPC 30/CD 年代/XSC 中盤/NR 以降/NR の/PN 日用雑貨/S 、/SYM 菓子/NN の/PN パッケージ/NN 、/SYM ビール瓶/S や/PH 飲料水/S の/PM 缶/S 、/SYM そして/CC ポスター/S に/XV パネル/NN など/PA 。/SYM
-後藤/NNP の/PN 事/NN が/PS 大好き/JN に/XV なっ/AV て/PC しまっ/AV た/AV 様々/JN な/XV 作戦/NN を/PS 使い/VV 嫌わ/S れ/AV よう/AV という/PQ 企画/VV 。/SYM
-大き/S さ/NB が/PS 全く/RB 違う/VV 海老/S とか/PH 調理/NN 側/XS は/PK 何故/S 平気/S な/XV ん/AV だろ/AV 。/SYM
-でも/CC 、/SYM リユーアル/S し/PC た/AV ゲストハウス/S 風/XS の/PN ロビー/NN ?/SYM
-2008/CD 年/XSC に/PS 入り/VV 、/SYM 楽天/S が/PS イーバンク銀行/S と/PQ 資本提携/S を/PS 行う/VV こと/NB と/PS なり/VV 、/SYM イーバンク銀行/S が/PS 新規/NN に/PS 発行/VV する/XV 第三者/S 割当/S の/PM 優先株/S を/PS 楽天/S が/PS 引き受ける/S こと/NB に/PS なり/VV 、/SYM 同/JR 年/XPC 9/CD 月/XSC 30/CD 日付/NN で/PS 社長/NN を/PS 含む/VV 一部/NN 経営陣/S も/PK 楽天/S の/PM 役員/S から/PS 起用/VV さ/XV れ/AV た/AV 。/SYM
-導入/NN にあたって/PS は/PK 10/CD 回線/NN 以上/NB 299/S 回線/NN 以下/NN が/PS 条件/NN であり/AV 2/CD 回線/NN から/PS 、/SYM および/CC 300/CD 回線/NN 以上/NB も/PK 導入/VV できる/AV ソフトバンクモバイル/S オフィス/NN と/PS 比べる/VV と/PC 条件/NN を/PS 問わ/VV れる/AV 。/SYM
-2007/CD 年/XSC から/PS は/PK 、/SYM 加藤/NNP ピン/NN の/PN 仕事/NN が/PS 多い/JJ 。/SYM
-突如/RB 、/SYM 臆病/S な/VV 人格/S と/PQ なっ/VV て/PC 弱体化/S し/VV て/PC しまう/AV 負/S の/PM 時間/NN と/PS 呼ば/VV れる/AV 一定/NN の/PN 時間/NN が/PS ある/VV の/PNB が/PS 、/SYM この/JR 種族/NN の/PN 最大/NN の/PN 弱点/NN 。/SYM
-昨年/NR の/PN 12月/NR 30/CD 日/XSC 、/SYM 日中/NN は/PK 病棟/S 当番/S だっ/XV た/AV 鈴木/NNP は/PK 、/SYM 夕方/NR 当直/S 勤務/NN に/PS 入っ/VV た/AV 。/SYM
-“/SYM 創価学会/NNP ”/SYM の/PN ラベル/NN の/PN 記事/NN に/PS は/PK ,/SYM しばしば/RB “/SYM 創価学会/NNP に/PS 人気/NN の/PN 霊園/S ”/SYM という/PQ 広告/NN が/PS 表示/VV さ/XV れ/AV て/PC い/AV ます/AV 。/SYM
-それ/NP で/PS も/PK 小原/S は/PK 1963/CD 年/XSC 4月/NR に/PS 持っ/VV て/PC い/AV た/AV 金/NN は/PK 事件/NN と/PS 無関係/S と/PQ 言い張っ/S た/AV が/PC 、/SYM 平塚/S ら/XS は/PK 「/SYM これ/NP だけ/PA 材料/NN を/PS 突きつけ/S られ/AV て/PC まだ/RB 逃れ/S られる/AV と/PQ 思っ/VV て/PC いる/AV の/PNB か/PF 」/SYM と/PQ 小原/S を/PS 追い詰め/S 、/SYM それ/NP から/PS ほど/PA なく/JJ し/VV て/PC 小原/S は/PK 金/NN が/PS 吉/NN 展/S ちゃん/XS 事件/NN と/PS 関係/NN の/PN ある/VV もの/NB だ/AV と/PQ 供述/NN し/VV た/AV 。/SYM
-同/JR 基金/S で/PS は/PK 、/SYM ひとり/NN 親/NN 家庭/NN の/PN 就業/S 支援/NN も/PK 新規/NN に/PS 実施/VV 。/SYM
-でも/CC 、/SYM まずは/CC ハーフ/NN ドリア/S で/PS は/PK なく/JJ 1/CD 人/XSC 前/NR の/PN ドリア/S を/PS お/XP 試し/NN 下さい/AV 。/SYM
-出場/NN 国/XS は/PK 6/CD カ国/XSC 。/SYM
-文字/NN を/PS 取り扱う/S 範囲/NN は/PK 10/CD FFFF/SP まで/PA である/AV 。/SYM
-2010/CD 年/XSC 11月/NR 28/CD 日/XSC の/PN DDT/SP ・/SYM 後楽園/S ホール/NN 大会/NN で/PS 首/NN を/PS 負傷/VV し/XV 「/SYM 後/NR 縦/S 靱帯/SYM 骨化/S 症/XS 」/SYM と/PQ 診断/VV さ/XV れる/AV 。/SYM
-郡/XP 内/XS に/PS は/PK 自然/NN 湖/XS が/PS 無い/JJ が/PC 、/SYM 多く/NR の/PN 河川/NN が/PS ある/VV 。/SYM
-クラブ/NN の/PN 経営/NN を/PS 支える/VV 大きな/JR 柱/NN の/PN 一/CD つ/XSC である/AV 入場料/S 収入/NN も/PK 、/SYM 2005/CD 年/XSC を/PS ピーク/NN に/PS 年々/S 減少/VV し/XV て/PC おり/AV ます/AV 。/SYM
-福音書/NN は/PK ヘンリー/NN 8/CD 世/XSC の/PN 命令/NN による/PS 修道院/NN の/PN 解散/NN 時/XS に/PS ダラム/S 大聖堂/S から/PS 持ち出さ/S れ/AV 、/SYM 17/CD 世紀/XSC 初頭/NN に/PS 英国/NNP 議会/NN の/PN 書記官/S 、/SYM トーマス/S ・/SYM ウォーカー/NNP から/PS ロバート/S ・/SYM コットン/NN の/PN 手/NN に/PS 渡り/VV 、/SYM 18/CD 世紀/XSC に/PS は/PK 大英博物館/S に/PS 納め/S られ/AV 、/SYM 更に/RB そこ/NP から/PS ロンドン/NNP の/PN 大英/S 図書館/NN に/PS 移さ/VV れ/AV た/AV 。/SYM
-2011/CD 年/XSC の/PN 日本/NNP トンデモ/S 本/XP 大賞/NN は/PK ,/SYM ニコニコ/NNP 生放送/NN の/PN 投票/NN だけ/PA で/PS なく/JJ ,/SYM 会場/NN の/PN 新宿/NNP ロフト/S プラスワン/S で/PS の/PM 投票/NN も/PK 影響/VV する/XV ので/PC ,/SYM これ/NP だけ/PA で/PS 大川隆法/NNP 氏/XS の/PN 受賞/NN が/PS 決まっ/VV た/AV わけ/NB で/PS は/PK あり/VV ませ/AV ん/AV 。/SYM
-横浜横須賀道路/NN と/PS 新/XP 湘南/S バイパス/NN は/PK 、/SYM 終日/S 5/CD 割/XSC 引/S 。/SYM
-月/NN の/PN お/XP 社/XS から/PS 脱走/VV し/XV た/AV シモーヌ/S という/PQ 名/NN の/PN 女/NN 精霊/S 使い/NN を/PS 探し/VV て/PC いる/AV 。/SYM
-すべて/NR 私/NP の/PN せい/NB で/PS とんでもない/JJ ご/XP 迷惑/NN ばかり/PA お/XP かけし/S ,/SYM この/JR 期/XSC に/PS 及ん/VV で/PC も/PK 足/NN を/PS ひっぱる/S ばかり/PA で/PS ,/SYM もう/RB 本当に/RB お/XP 詫び/NN の/PN 言葉/NN も/PK あり/VV ませ/AV ん/AV 。/SYM
-現在/NN は/PK 女優/NN と/PS なり/VV 、/SYM 最近/NR は/PK ドラマ/NN で/PS 母親/NN 役/XS が/PS 多い/JJ 。/SYM
-東京/NNP らしい/AV シンプル/JN な/XV 銭湯/S 。/SYM
-ベン/NN が/PS 処刑/VV さ/XV れ/AV 、/SYM ウィラ/S が/PS 地元/NN の/PN アイスクリーム/S 屋/XS で/PS 働い/VV て/PC 生計/S を/PS 立てる/S ように/AV なっ/AV た/AV 或る/S 日/NNP 、/SYM クリーサップ/S の/PM 街/NN に/PS ハリー/S が/PS 突然/RB あらわれ/VV た/AV 。/SYM
-徳島市/NN の/PN 東部/NN に/PS 位置/VV し/XV 、/SYM 吉野川/S 下流/S デルタ/S 地帯/NN の/PN 一角/S を/PS なす/VV 。/SYM
-地元/NN の/PN 農家/NN の/PN 方/NB が/PS 作っ/VV た/AV 野菜/NN の/PN コーナー/NN が/PS 好き/JN です/XV 。/SYM
-※/SYM GI/SP 昇格/NN 後/XS の/PN 年度/NN に/PS 限定/VV 。/SYM
-第/XPC 3/CD 次/XSC 以降/NR の/PN 平成/XPC 23/CD 年度/XSC 補正予算/S 案/NN に/PS NEMIC/SP 整備/NN の/PN ため/NB の/PN 調査費/S 計上/VV を/PS 目指し/VV て/PC いる/AV 。/SYM
-「/SYM ありがとう/UH ござい/VV ます/AV 」/SYM と/PQ お/XP 礼/NN を/PS 言い/VV 、/SYM 笑顔/NN で/PS 味わっ/VV て/PC い/AV た/AV 。/SYM
-主/JN な/XV 項目/NN に関する/PS 最終案/S の/PM 内容/NN は/PK 以下/NN の/PN とおり/NB 。/SYM
-先/NN を/PS 歩い/VV て/PC い/AV た/AV ミニスカート/S の/PM 女性/NN が/PS NK/SP プリント/NN の/PN 前/NB で/PS 自動車/NN に/PS はね/VV 飛ばさ/S れる/AV 。/SYM
-『/SYM ミューミューニャーニャー/S 』/SYM は/PK NHK/NNP の/PN 幼児/NN 向け/XS 番組/NN 『/SYM おかあさんといっしょ/S 』/SYM の/PN 人形劇/S の/PM コーナー/NN 。/SYM
-同年/NN は/PK リザーブ/S チーム/NN で/PS 6/CD 回/XSC プレー/VV し/XV た/AV 。/SYM
-女性/NN 教会/NN 員/XS が/PS 立候補/VV し/XV た/AV 松戸/S 市議選/S で/PS も/PK ,/SYM 足立/NNP 教会/NN の/PN 信者/NN が/PS 大量/JN 動員/VV さ/XV れ/AV て/PC い/AV た/AV 。/SYM
-2000/CD 年/XSC の/PN シドニー/S オリンピック/NN で/PS は/PK いずれ/NP も/PK 予選/NN 敗退/VV だっ/AV た/AV 。/SYM
-東京/NNP の/PN 中/NB でも/AV 新宿/NNP という/PQ いい/JJ 立地/NN であり/AV ながら/PC 、/SYM お/XP 料理/NN の/PN 味/NN や/PH ドレス/NN の/PN 素敵/JN さ/XV を/PS 考える/VV と/PC とても/RB 良心的/JN な/XV 結婚式場/S という/PQ 感じ/NN が/PS し/VV まし/AV た/AV 。/SYM
-陳/NN 敦仁/S :/SYM 統/S 振/S 株式/NN 有限会社/S 理事長/NN 。/SYM
-水曜日/S と/PS 金曜日/NN に/PS 図書室/S で/PS 貸し出し/S の/PM 作業/NN を/PS し/VV て/PC いる/AV 。/SYM
-本/XP 作/XS の/PN 隠し/NN キャラクター/NN の/PN 1/CD 人/XSC 。/SYM
-セキュリティ/NN の/PN 点/NN で/PS も/PK 、/SYM 安心/JN し/XV て/PC 住/NN める/AV よう/AV 、/SYM オートロック/S システム/NN を/PS はじめ/VV 、/SYM 防犯カメラ/NN 、/SYM ディンプルキー/S ・/SYM 鎌/NN デッド/S 錠/S 、/SYM エレベータ/S に/PS は/PK 防犯/NN モニタ/S が/PS 設置/VV さ/XV れ/AV て/PC い/AV ます/AV 。/SYM
-超新星/S の/PM 所属/NN 事務所/NN ,/SYM 株式会社/NN maroo/S 企画/VV です/AV 。/SYM
-2012/CD 年/XSC 現在/NR 、/SYM 外車/S だけ/PA で/PS も/PK ランボルギーニ/NNP ・/SYM ミウラ/S P/NNP _/NN 400/CD SV/SP 、/SYM フェラーリ/S ・/SYM F/NNP _/NN 512/S M/NNP 、/SYM ベンツ/S 、/SYM BMW/SP の/PN 4/CD 台/XSC を/PS 保有/VV し/XV 、/SYM 中でも/RB ランボルギーニ/NNP ・/SYM ミウラ/S は/PK 1971/S 年/XP 生産/NN の/PN 車体/NN で/PS 41/CD 年/XSC が/PS 経過/VV し/XV た/AV 時点/NN で/PS も/PK 走行/NN 可能/JN と/PQ 、/SYM 極めて/RB 良好/JN な/XV コンディション/S である/AV 。/SYM
-今後/NR とも/XS 超新星/S を/PS 応援/VV いただき/AV ます/AV よう/AV ,/SYM よろしく/RB お/XP 願い/VV いたし/XV ます/AV 。/SYM
-山頂/NN まで/PA の/PN 距離/NN は/PK 、/SYM 4.8/S km/NNP である/AV 。/SYM
-さっさと/NN 潰れろ/S !/SYM
-台湾/NNP 守備/NN 混成/S 第/XPC 2/CD 旅団/NN 長/XS を/PS 経/VV て/PC 、/SYM 日露戦争/S に/XV 歩兵/NN 第/XPC 1/CD 旅団/NN 長/XS と/PS し/VV て/PC 出征/S し/AV 、/SYM 南山/S の/PM 戦い/NN に/PS 参戦/VV 。/SYM
-主/JN な/XV 内容/NN は/PK 本格的/JN な/XV 古典/S 演奏/NN から/PS 和楽器/S を/PS 使っ/VV た/AV ロック/NN や/PH ポップス/S の/XV 紹介/VV と/PC 、/SYM DJ/SP による/PS 大学/NN 生活/NN や/PH 舞台/NN で/PS の/PM エピソード/NN トーク/NN 。/SYM
-連合/NN は/PK 緒戦/S の/PM 勢い/NN を/PS 失い/VV 、/SYM 双方/NN の/PN 首都/NN を/PS めぐり/VV バージニア州/S で/PS 行わ/VV れ/AV て/PC い/AV た/AV 東部/NN 戦線/NN は/PK 膠着/S 状態/NN に/PS 陥る/S 一方/CC 、/SYM 南/NNP 軍/XS の/PN 西部/NN 戦線/NN に/PS ほころび/S が/PS 生じ/VV た/AV 。/SYM
-とりわけ/RB バグダード/S で/PS は/PK 神学/S 教授/NN の/PN ガザーリー/S など/PA が/PS 活躍/VV し/XV た/AV 。/SYM
-これ/NP にあたる/S 語/XS と/PS し/VV て/PC は/PK ملك/S が/PS あり/VV 、/SYM 字義/S と/PQ し/VV て/PC は/PK 「/SYM 今/NR まさに/S 持っ/VV て/PC いる/AV 」/SYM という/PQ 意味/VV 合い/AV に/PC なる/AV 。/SYM
-先日/NR ,/SYM 坂本/NNP 弁護士/NN 失踪/S 事件/NN 直後/NN の/PN テレビ放送/S の/PM VTR/SP や/PH 波野村/S で/PS の/PM 反対/NN 集会/NN の/PN 映像/NN を/PS 観る/S 機会/NN が/PS あっ/VV た/AV 。/SYM
-一部/NN を/PS 抜粋/S し/PC ます/AV 。/SYM
-調子/S に/PS 乗り/VV やすく/AJ 、/SYM 危険/JN な/XV 獣/NN 相手/NN に/PS ピンチ/NN に/PS 陥る/S こと/NB も/PK 。/SYM
-白馬/S に/PS 入る/VV 入り口/NN の/PN スキー場/S で/PS も/PK あっ/VV て/PC とても/RB 奇麗/S で/PS やる/VV こと/NB いっぱい/NN !/SYM
-普段/NN は/PK 成績/NN が/PS 悪く/JJ 遅刻/S を/PS 繰り返す/VV 問題児/S で/CC 、/SYM 第/XPC 1/CD 話/NN で/PS は/PK 喧嘩/NN で/PS 相手/NN を/PS 骨折/S さ/XV せ/AV て/PC 自宅/NN 謹慎/S まで/PK 受け/VV て/PC い/AV た/AV が/PC 、/SYM その/JR 反面/S 、/SYM 正義感/S が/PS 強く/JJ 仲間/NN から/PS の/PM 信頼/NN も/PK 厚い/JJ 。/SYM
-また/CC 、/SYM 同/JR ライブ/NN へ/PS 向け/VV 、/SYM 両/XP バンド/NN の/PN カップリング/S 楽曲/NN と/PS 映像/NN を/PS 収録/VV し/XV た/AV CD/NN &/SYM DVD/NN パッケージ/NN 『/SYM Phoenix/SP Rising/SP 』/SYM が/PS 10月/NR 12/CD 日/XSC に/PS リリース/VV さ/XV れる/AV 。/SYM
-出演者/NN も/PK 特有/NN の/PN 風/NN と/PS 降りしきる/S 雨/NN に/PS 悩ま/VV せ/AV られ/AV た/AV 。/SYM
-コダール/NN の/PN 完成/NN 型/XS である/AV コダール/S i/NNP も/PK 『/SYM 揺れる/S イン/NN トゥ/S ・/SYM ザ/NNP ・/SYM ブルー/NN 』/SYM で/PS ビル/NN の/PN 倒壊/S に対して/PS ラムダ/S ・/SYM ドライバ/S を/PS 発動/VV さ/XV せ/AV オーバーヒート/S を/PS 起こし/VV て/PC いる/AV が/PC 、/SYM 検査/NN の/PN 結果/NN 何/NN の/PN 異常/NN も/PK 見/VV られ/AV なかっ/AV た/AV ため/PC 、/SYM こちら/NP は/PK ガウルン/S による/PS ブラフ/S と/PQ 見/VV られる/AV 。/SYM
-意識/NN を/PS 取り戻し/VV た/AV 友作/S は/PK 階段/NN から/PS 落ち/VV た/AV 後/NB 、/SYM 危篤/S 状態/NN だっ/AV た/AV 時間/NN と/PS 同じ/JR 57/CD 分/XSC 間/XS だけ/PA 他人/NN の/PN 心/NN の/PN 声/NN が/PS 聞こえる/S 能力/NN を/PS 手に入れ/VV て/PC い/AV た/AV 。/SYM
-全国/NN 霊感商法/NN 対/XS 策/XS 弁護士/NN 連絡会/S の/PM 渡辺博/S 弁護士/NN は/PK 2009/CD 年/XSC 7月/NR ,/SYM 統一/NN 日報/S の/PM 取材/NN に/PS “/SYM 統一教会/NNP は/PK 民団/S や/PH 総/XP 連/S といった/PQ 在日韓国人/S 組織/NN の/PN 活動/NN に/PS も/PK 入り込み/S ,/SYM 信者/NN 獲得/NN を/PS 進め/VV て/PC いる/AV ”/SYM と/PQ 語っ/VV て/PC いる/AV 。/SYM
-編成/NN 番号/NN は/PK 2/CD 両/XSC ・/SYM 3/CD 両/XSC 単位/NN で/PS 付/NN 番/NN さ/VV れ/AV 、/SYM 識別/S 記号/S 「/NN HE/SP 」/SYM を/PS 冠し/VV 「/SYM HE/SP -/NN 104/S 」/SYM の/PN ように/AV 表す/VV 。/SYM
-信者/NN にとって/PP は/PK ありがたい/S 存在/VV な/XV ので/PC あろ/S う/AV が/PC ,/SYM 正直/JN カリスマ性/S は/PK 感じ/VV られ/AV なかっ/AV た/AV 。/SYM
-単に/RB 「/SYM 属人主義/S 」/SYM という/PQ 積極的/JN 属人主義/S を/PS 指す/VV 場合/NB が/PS 多い/JJ 。/SYM
-この/JR 特別/NN 代表/NN は/PK 、/SYM 現在/NR 知ら/VV れ/AV て/PC いる/AV サイト/NN は/PK 日本/NNP や/PH 韓国/NNP の/PN 北朝鮮/NNP 支持者/S が/PS 運営/VV し/XV て/PC いる/AV と/PQ 明らか/JN に/XV し/VV た/AV と/PQ いう/VV 。/SYM
-幸福/NN の/PN 科学/NN の/PN 広報/NN 担当者/NN に/PS よる/VV と/PC ,/SYM 今回/NR の/PN 広告/NN 掲載/NN は/PK “/SYM フライデー/S 事件/NN ”/SYM 以来/NR ,/SYM 19/CD 年/XSC ぶり/XS と/PS の/PM こと/NB です/AV 。/SYM
-統一/NN 協会/NN 広報/NN に/PS 問い合わせ/NN た/AV 。/SYM
-PRACTICE/SP モード/NN は/PK ステージ/NN 3/CD で/PS 終了/VV だ/AV が/PC 、/SYM クリア/NN 時/XS に/PS ベル/S を/PS 50/CD 個/XSC 以上/NB 保持/S し/VV て/PC いれ/AV ば/PC ステージ/NN 4/CD 以降/NR に/PS 進める/VV 。/SYM
-主人公/NN の/PN 隣/NN の/PN アパート/S に/PS 引っ越し/S て/PC き/AV た/AV 幼稚園/S の/PM 先生/NN 。/SYM
-アンジェロ/NN の/PN 一人娘/S である/AV ジェニファー/S は/PK 、/SYM 命/NN の/PN 危険/NN から/PS 遠ざける/S ため/NB に/PS 、/SYM 幼い/JJ 頃/NB に/PS 養女/S に/PS 出さ/VV れ/AV て/PC い/AV た/AV 。/SYM
-桜井/S 高校/NN は/PK ランナー/S 1.3/SYM 塁/S から/PS 内野/S ゴロ/S で/PS 先制/VV し/XV ます/AV 。/SYM
-5/CD 人/XSC 以上/NB だ/AV と/PQ きつい/S かもしれ/AV ない/AV けど/PC 、/SYM 少/XP 人数/NN の/PN 時/NB に/PS は/PK また/RB 使い/VV たいです/AV 。/SYM
-シーズン/NN 終了後/NN 球団/NN 社長/NN の/PN ジョン/NNP ・/SYM ショー/S は/PK 辞任/VV し/XV 、/SYM 12月/NR 22/CD 日/XSC に/PS は/PK ジェイ/S ・/SYM ジグムンド/S に/PS 代わっ/VV て/PC ビリー/NNP ・/SYM ディバニー/S が/PS ゼネラルマネージャー/S と/PQ なっ/VV た/AV 。/SYM
-1462/CD 年/XSC 、/SYM アラゴン/S 王/NNP フアン/NNP 2世/NN と/PS 、/SYM 最初/NN の/PN 妃/S である/AV ナバラ/S 女王/NN ブランカ/S 1/CD 世/XSC と/PS の/PM 間/NB の/PN 王子/NN カルラス/S が/PC 、/SYM ナバラ/S 王位/NN を/PS 巡っ/VV て/PC 争う/VV こと/NB に/PS なっ/VV た/AV 。/SYM
-大部分/NN が/PS 6/CD 車線/S で/CC 、/SYM 品川/S 埠頭/S の/PM 連絡/NN 道/XS である/AV 。/SYM
-旅/NN の/PN 途中/NR で/PS 出会う/S モンスター/NN を/PS 模し/S た/AV 家具/S を/PS 、/SYM マイハウス/S に/PS 設置/VV 可能/JN 。/SYM
-さらに/RB その後/NR 、/SYM ビデオ/NN による/PS 撮影/VV が/PC 主流/S と/PQ なる/VV に/XV 従い/S 、/SYM ビデオ/NN 機材/S を/PS 組み込ん/S だ/XV 総合的/S な/XV システム/NN と/PS し/VV て/PC の/PM スタジオ/NN が/PS 主流/S と/PQ なっ/VV た/AV 。/SYM
-外見/NN は/PK 田舎/NN の/PN 一般/NN 住宅/NN の/PN ノリ/S です/XV が/PC 、/SYM 津幡/S の/PM 店/NN と/PS は/PK 思/VV え/AV ない/AV クオリティー/NN です/AV 。/SYM
-九州大学/S 大学院/NN 法学/NN 研究/NN 院/XS 准教授/S を/PS 経/VV て/PC 、/SYM 現在/NR 同/JR 教授/NN 。/SYM
-実に/RB 狡猾/S な/VV やり口/S だ/AV 。/SYM
-車両/NN 手配/NN 上/XS の/PN 都合/NN から/PS ホンダ/S 車/NN 以外/NB の/PN 他社/NN の/PN 車両/NN を/PS 使用/VV する/XV 際/NB に/PS は/PK 、/SYM 車両/NN の/PN 前部/S ・/SYM 後部/NN に/PS 番組/NN タイトル/NN ロゴ/NN 付き/XS の/PN 板/XS を/PS 被せ/S て/PC い/AV た/AV 。/SYM
-日本/NNP 向け/XS に/PS は/PK 脱脂粉乳/S 、/SYM 雑穀/S 類/XS を/PS 食料/S と/PQ し/VV て/PC 送っ/VV た/AV 。/SYM
-今後/NR は/PK 高校野球/NN など/PA アマチュア/NN 野球/NN の/PN 公式戦/S の/PN 他/NB 、/SYM プロ野球/NN の/PN 二/CD 軍/XSC 公式戦/S を/PS 誘致/S する/XV 方針/NN である/AV 。/SYM
-そもそも/NN 港/XS 市/XS 支配者/NN は/PK 、/SYM 外来/NN 商人/NN と/PS 領域/NN 内/XS の/PN 住民/NN と/PS を/PS 仲立ち/S する/AV こと/NB こそ/PK が/PS 自ら/NR の/PN 拠っ/S て/AV 立つ/S 基盤/S であっ/AV た/AV 。/SYM
-そして/CC 現場/NN へ/PS 着く/S と/PS 不思議/JN な/XV 光/NN に/PS 包ま/S れる/AV 。/SYM
-私/NP は/PK よく/JJ 通っ/VV て/PC ます/AV が/PC 、/SYM 親切/JN 丁寧/JN に/XV 対応/VV し/XV て/PC くださっ/AV て/PC 安心/VV です/AV 。/SYM
-大学/NN 在学中/NR に/PS 、/SYM 最初/NN の/PN 文学賞/S を/PS 受賞/VV する/XV 。/SYM
-私たち/NP は/PK ビュッフェスタイル/S だっ/XV た/AV の/PNB です/AV が/PC 、/SYM いろいろ/JN な/XV プラン/NN で/PS やっ/VV て/PC くれる/AV みたい/AV です/AV 。/SYM
-豚/NN が/PS 美味しかっ/JJ た/AV ので/PC 、/SYM また/CC 行き/VV ます/AV 。/SYM
-同/JR 百貨店/S は/PK 「/SYM 成長/VV し/XV て/PC いく/AV 東京スカイツリー/S を/PS リアル/JN に/XV 体感/S し/VV て/PC もらい/AV たい/AV 」/SYM と/PQ し/VV て/PC いる/AV 。/SYM
-ウエイト/NN が/PS 増え/VV 、/SYM トレードマーク/S だっ/XV た/AV 金髪/S の/PM ロングヘア/S も/PK すっかり/S 薄く/S なっ/VV た/AV こと/NB から/PS 、/SYM それ/NP まで/PA の/PN 伊達男/S キャラクター/NN を/PS 完全/JN に/XV 払拭/S 。/SYM
-ヨーロッパ/NNP で/PS 重要/JN な/XV ロマネスク/S 建築/NN の/PN 一/CD つ/XSC で/PS 、/SYM ユネスコ/S の/PM 世界遺産/S に/PS 登録/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-本当に/RB 健康/JN な/XV 人/NN は/PK ,/SYM 身体/NN だけ/PA で/PS なく/JJ 肌/NN も/PK きれい/JN です/XV 。/SYM
-2/CD 万人/NN を/PS 収容/NN 可能/JN 。/SYM
-これ/NP で/PS も/PK 関係/NN が/PS ない/JJ と/PQ 言える/VV の/PNB か/PF ?/SYM
-お/XP 医者/NN さん/XS も/PK 、/SYM 日/XP 大/NN の/PN 大学病院/S で/PS 脳神経外科/S にて/PS 手術/NN など/PA の/PN 実績/NN が/PS 多数/NR あり/VV 、/SYM 脳神経外科/S を/PS 経/VV て/PC 同じく/JJ 耳鼻科/S の/PM 教授/NN に/PS スカウト/NN さ/VV れ/AV 脳/NN の/PN 近く/NR の/PN 部位/S である/AV 耳鼻咽喉科/S にて/PS 実績/NN を/PS 積ん/VV だ/AV 優秀/JN な/XV 先生/NN と/PS 聞い/VV て/PC い/AV ます/AV 。/SYM
-それに/CC ,/SYM 病気/NN を/PS 治す/S 力/XS も/PK 知識/NN も/PK ない/JJ 人間/NN が/PS さも/S 病気/NN を/PS 治/VV せる/AV か/PE の/PNB ように/AV 言っ/VV て/PC い/AV た/AV だけ/PA な/AV ので/PC あれ/VV ば/PC ,/SYM そもそも/NN 10/CD 円/XSC だ/AV って/PQ 払う/VV 筋合い/S は/PK ない/JJ でしょ/AV う/AV 。/SYM
-若い/JJ 脳細胞/S に/PS 与える/VV 傷/NN は/PK ,/SYM 一生/NR 消え/VV ない/AV でしょ/AV う/AV 。/SYM
-1225/CD 年/XSC に/PS バーベンベルク/S 家/XS の/PN オーストリア/NNP 公/XS レオポルト/S 6/CD 世/XSC の/PN 娘/NN マルガレーテ/S と/PQ 結婚/VV 、/SYM ハインリヒ/S 8/CD 世/XSC と/PS フリードリヒ/S 4/CD 世/XSC を/PS 儲け/S た/AV が/PC いずれ/NP も/PK 若く/JJ し/VV て/PC 早世/S し/PC た/AV 。/SYM
-午前中/NN の/PN 西光寺/S と/PQ 違っ/VV て/PC ,/SYM かなり/NR 広大/S な/XV 境内/NN だっ/AV た/AV ため/PC ,/SYM 門/NN の/PN 外/NN から/PS は/PK モニター/NN も/PK 見え/VV ず/AV スピーカー/NN から/PS の/PM 声/NN も/PK 聞き取/S れ/AV ませ/AV ん/AV 。/SYM
-松濤/S 本部/NN で/PS は/PK 拉致/NN 問題/NN 対/XS 策/XS 委員長/NN 補佐/NN を/PS 務め/VV て/PC いる/AV ようだ/AV 。/SYM
-この/JR 日/XSC は/PK 、/SYM 被害者/NN の/PN 会/NN の/PN 14/CD 人/XSC と/PS 弁護士/NN 3/CD 人/XSC が/PS 市役所/S を/PS 訪れ/VV 、/SYM 福地/S 直樹/S 弁護士/NN が/PS 「/SYM 真相/S 究明/S と/PS 被害/NN 救済/NN の/PN ため/NB 、/SYM 必要/JN な/XV 措置/NN を/PS 講じ/S て/PC 欲しい/AJ 」/SYM と/PQ 述べ/VV て/PC 要請書/S を/PS 提出/VV 。/SYM
-魔法使い/NN へ/PS の/PM 直接/NN 干渉/S に/PS 特化/VV し/XV た/AV 唯一/NN の/PN 魔法/NN 大系/S 。/SYM
-しかし/CC 、/SYM 国民/NN 各層/S に/PS は/PK その/JR 考え/NN 方/XS が/PS 次第に/RB 浸透/VV し/XV て/PC 行き/AV 、/SYM 自由民権運動/S の/PM 気運/S が/PS 高まる/S きっかけ/NN と/PS なっ/VV た/AV 。/SYM
-また/CC 髪型/NN も/PK 京/NN 風/XS の/PN 引き/NN 鬢/S で/PS は/PK なく/JJ 、/SYM 江戸/NNP 風/XS の/PN 出し/NN 鬢/S であっ/AV た/AV 。/SYM
-1940/CD 年/XSC 7月/NR 、/SYM オデッサ/S 軍管区/S の/PN 第/XPC 35/CD 狙撃/S 軍団/NN 長/XS と/PS なり/VV 、/SYM ベッサラビア/S の/PM 占領/NN に/PS 参加/VV し/XV た/AV 。/SYM
-スタンディング/NN で/PS わいわい/RB も/PK 2/CD F/NNP テーブル/NN 席/XS で/PS まったり/S でも/CC 楽し/VV める/AV 泡/S な/VV ドリンク/S 専門/NN の/PN スタンディング/S バー/NN 。/SYM
-ところが/CC 2/CD ちゃん/XS ねる/S の/PM 幸福/NN の/PN 科学/NN 統合/NN スレッド/NN で/PS は/PK ,/SYM この/JR “/SYM 主催者/NN 発表/NN 数/XS ”/SYM に/PS 疑問/NN の/PN 声/NN が/PS 挙がり/S まし/AV た/AV 。/SYM
-実験室/NN を/PS 1/CD カ所/XSC に/PS 集め/VV た/AV オープン/NN ラボ/S 方式/NN を/PS 採用/VV し/XV た/AV 。/SYM
-JR東日本/NNP の/PN クモハ/S 123-1/S と/PS は/PK 種/NN 車/XS が/PS 同じ/JN で/XV 、/SYM 番号/NN も/PK 続/S 番/NN と/PS なっ/VV て/PC いる/AV が/PC 、/SYM 外観/NN は/PK 大きく/JJ 異なる/VV 。/SYM
-十六/S 日/XS の/PN 卒業式/NN が/PS 中止/NN に/PS なっ/VV た/AV 文教大学/S 越谷/S 校舎/NN の/PN 四/CD 年生/XSC ら/XS 学生/NN 有志/S 約/RB 二百/S 人/NN が/PS 越谷市/S 内/XS の/PN 駅/NN や/PH スーパー/NN の/PN 前/NB など/PA に/PS 立ち/VV 、/SYM 被災者/S 救援/NN の/PN ため/NB に/PS 募金/S を/PS 呼び掛け/S た/AV 。/SYM
-東京都/NNP 生まれ/XS 。/SYM
-幸福/NN の/PN 科学/NN の/PN 教え/NN を/PS 信じ/VV お/XP 布施/S を/PS し/VV ,/SYM さらに/RB 今回/NR の/PN デモ/NN に/PS 参加/VV し/XV た/AV に/PS も/PK かかわら/VV ず/AV ,/SYM 教団/NN に/PS 守っ/S て/PC もらえ/AV ない/AV の/PNB で/PS は/PK ,/SYM 信者/NN が/PS 気の毒/S です/AV 。/SYM
-大阪駅/NNP から/PS 徒歩/NN 10/CD 分/XSC 圏内/S の/PM スパホテル/S で/CC 、/SYM 一/CD 人/XSC 旅行/NN で/PS も/PK 利用/VV できる/VV し/XV 友達/NN と/PS も/PK 利用/VV し/XV た/AV カプセルホテル/S です/AV 。/SYM
-今回/NR 、/SYM アメリカ/NNP 側/XS は/PK 6/CD カ国/XSC 協議/NN の/PN 再開/S に/PS 必要/JN な/XV 条件/NN を/PS 示す/VV ため/NB の/PN 「/SYM 予備的/S な/VV 米朝/S 協議/VV だ/AV 」/SYM と/PQ し/VV て/PC い/AV て/PC 、/SYM 北朝鮮/NNP の/PN 出方/S を/PS 慎重/S に/PS 見極める/S 方針/NN です/AV 。/SYM
-1985/CD 年/XSC 8月/NR 28/CD 日/XSC 生/XS 。/SYM
-オハイオ州/S 政府/NN の/PN コンピュータ/NN に/PS SETI@home/SP を/PS インストール/S し/VV て/PC 使用/VV し/XV た/AV ため/NB に/PS 解雇/NN さ/VV れ/AV た/AV 例/NN が/PS ある/VV 。/SYM
-大震災/NN に/PS 対応/VV し/XV た/AV 特措法/S の/PM 議論/NN も/PK 行っ/VV て/PC おり/AV 、/SYM しかる/S べく/AV 対応/VV し/XV たい/AV 」/SYM と/PQ 答え/VV まし/AV た/AV 。/SYM
-それ/NP に対し/PS 、/SYM ヨハンネス/S の/PM 要求/NN は/PK 「/SYM 奴隷/NN 500/CD 人/XSC 、/SYM 牛/NN 5/CD 万/CD 頭/XSC 、/SYM 馬/NN 1,000/CD 頭/XSC の/PN 貢物/S と/PC 、/SYM メネリク/S を/PS 上半身/S 裸/S に/PS し/VV た/AV 上/NB で/PS 罪人/S の/PM 首枷/S を/PS つ/VV け/AV て/PC 謝罪/VV さ/XV せる/AV 」/SYM という/PQ もの/NB だっ/AV た/AV 。/SYM
-以来/NR 、/SYM 約/XPC 10/CD カ月/XSC ぶり/XS に/PS 横田/S が/PS 復活/VV 。/SYM
-MTX/NN の/PN 適応/S が/PS 無い/JJ 患者/NN に対する/PS 第/XPC 二/CD 選択/NN 薬/NN と/PS し/VV て/PC 用い/VV られる/AV こと/NB が/PS 多い/JJ 。/SYM
-体力/S と/PS ボール/NN パワー/NN が/PS 高い/JJ が/PC 、/SYM 素早/S さ/NB が/PS 低い/JJ 。/SYM
-しかし/CC 彼/NP の/PN ホームレス/S 支援/NN 活動/NN が/PS 悪い/JJ こと/NB だ/AV と/PQ は/PK 思/VV え/AV ませ/AV ん/AV 。/SYM
-その日/NR は/PK たまたま/RB サービス/NN で/PS 生肉/S を/PS 出し/VV て/PC 頂い/AV た/AV が/PC 、/SYM 味/NN 、/SYM 食感/NN とも/XS に/PS 大した/S 事/NN は/PK なかっ/JJ た/AV 。/SYM
-1967/CD 年/XSC 、/SYM アレクサンダー/S は/PK 連邦/S 上院議員/S ハワード/S ・/SYM ベイカー/S の/PM 議会/NN 補佐官/S と/PQ し/VV て/PC 勤務/VV し/XV た/AV 。/SYM
-自然/NN を/PS 愛する/VV ため/PC 、/SYM 同様/NR の/PN 性格/NN を/PS 持つ/VV タイガトロン/S と共に/PP 行動/VV する/XV こと/NB が/PS 多い/JJ が/PC 、/SYM 「/SYM 基地/S は/PK 性/NN に/PS 合わ/VV ない/AV 」/SYM と/PQ 零す/S タイガトロン/S と/PQ 違い/VV 、/SYM 特に/RB 合わ/VV ない/AV 素振り/S は/PK 見せ/VV て/PC い/AV ない/AV 。/SYM
-県/XP 指定/NN 重要文化財/NN ・/SYM くま/S も/PK と/PQ アート/NN ポリス/S 選定/VV 既存/S 建造物/S 。/SYM
-病院/NN に/PS 数/XP 治療/NN も/PK 受け/VV ず/AV に/PC なくなっ/S て/PC い/AV ます/AV 。/SYM
-同時/NN 上映/NN は/PK 『/SYM ・ふ・た・り・ぼ・っ・ち・/S 』/SYM 。/SYM
-飲ん/VV だ/AV 後/NB に/PS 行き/VV たく/AV なる/AV 。/SYM
-官位/NN は/PK 従/NN 四/CD 位/XSC 上/XS ・/SYM 参議/S 。/SYM
-日本/NNP に/PS 馴染み/S 、/SYM 短い/JJ 間/NB に/PS 日本語/NN を/PS 覚え/VV た/AV セルギイ/S は/PK 、/SYM 日露戦争/S の/PM 結果/NN 、/SYM 日本/NNP が/PS 獲得/VV し/XV た/AV 樺太/S で/PS 没収/VV さ/XV れ/AV た/AV 資産/NN を/PS 信徒/S に/XV 返還/NN する/VV ため/PC 、/SYM 正/XP 教徒/S の/PM スポークスマン/S と/PQ し/VV て/PC 活動/VV し/XV た/AV 。/SYM
-ちなみに/CC 、/SYM 大阪市/NNP は/PK 現在/NR の/PN 長居公園/S に/PS 1951/CD 年/XSC 11月/NR 、/SYM 大阪/NNP 競馬場/NN を/PS 利用/VV し/XV て/PC 、/SYM 市営/S の/PM 長居/NN オートレース/S 場/XS も/PK 開設/VV し/XV た/AV が/PC 、/SYM 爆音/S に/PS かかる/VV 周辺/NN 環境問題/S や/PH 経営/NN 不振/S を/PS 理由/NN に/PS 、/SYM わずか/RB 5/CD ヶ月/XSC で/PS 廃止/VV し/XV た/AV 。/SYM
-幸福実現党/NNP で/PS は/PK ,/SYM 唯一/NN の/PN 国会議員/NN であっ/AV た/AV 大江/NNP 康弘/S 参議院議員/S も/PK 昨年/NR 末/XS に/PS 離党/NN し/VV て/PC い/AV ます/AV 。/SYM
-この/JR 後/NB 結成/VV し/XV た/AV 「/SYM アテナ&ロビケロッツ/S 」/SYM 「/SYM ガーディアンズ4/S 」/SYM 、/SYM また/CC 2009/CD 年/XSC 6月/NR に/PS チャンプルユニット/S と/PQ し/VV て/PC 結成/VV さ/XV れ/AV た/AV タンポポ#/S ・/SYM プッチモニV/S ・/SYM ZYX-α/SP ・/SYM 続・美勇伝/S に/PS も/PK 選抜/NN 参加/VV し/XV た/AV メンバー/NN が/PS いる/VV 。/SYM
-玉子/NN チリソース/S も/PK 気/NN に/PS なっ/VV た/AV 。/SYM
-その後/NR 、/SYM 1948/CD 年/XSC 8月/NR 25/CD 日/XSC の/PN 代議員/S 選挙/NN によって/PS 北朝鮮/NNP 最高人民会議/S が/PS 設立/VV さ/XV れ/AV 、/SYM 9月/NR 3/CD 日/XSC に/PS は/PK 北朝鮮/NNP 憲法/NN が/PS 公式/JN 採択/S さ/XV れ/AV た/AV 。/SYM
-最後/NN に/PS 穀物/S の/PM 珈琲/NN と/PS デザート/NN まで/PA 付い/VV て/PC くる/AV の/PNB です/AV 。/SYM
-ディスク/NN を/PS 取り外し/S 可能/JN な/XV ハードディスク/NN の/PN こと/NB 。/SYM
-NPTL/NN は/PK RedHat/SP Enterprise/SP Linux/NNP の/PN バージョン/NN 3/CD から/PS 搭載/VV さ/XV れ/AV 、/SYM 現在/NN で/PS は/PK GNUC/SP ライブラリ/S の/PM 一部/NN と/PS なっ/VV て/PC いる/AV 。/SYM
-フェレット/NN 装甲車/S の/PM 設計/NN と/PS 形状/NN は/PK 前任/S の/PM ダイムラー/S 偵察/NN 車/XS と/PS の/PM 共通点/S が/PS 多い/JJ が/PC 、/SYM フェレット/S 装甲車/S は/PK ダイムラー/S 偵察/NN 車/XS より/PS も/PK 戦闘/NN 区画/S が/PS 広く/JJ 小さな/JR 機関銃/S 付/XS の/PN 砲塔/NN を/PS 装備/VV し/XV て/PC いる/AV 。/SYM
-作中/NN で/PS は/PK 、/SYM 皇/S 一心/S や/PH 率いる/VV 集団/NN の/PN 社会階級/S の/PM 明確/JN な/XV 描写/NN は/PK さ/VV れ/AV て/PC い/AV ない/AV 。/SYM
-また/CC “/SYM 名/NN 進/S 信徒/S 会/XS ”/SYM の/PN 所在地/NN について/PS も/PK “/SYM わかり/VV ませ/AV ん/AV ”/SYM 。/SYM
-いつも/RB 飲み/VV 慣れ/VV て/PC いる/AV 祖父/NN が/PS 、/SYM 突然/RB 、/SYM 割っ/S て/PC ある/VV と/PQ 言い/VV 出し/AV た/AV の/PNB です/AV 。/SYM
-ポール・ウェラー/S から/PS セッション/NN や/PH オープニングアクト/S の/PM オファー/S を/PS 受ける/VV など/PA 、/SYM 高い/JJ 評価/NN を/PS 得/VV て/PC いる/AV 。/SYM
-しかし/CC 、/SYM 憲法/NN 訴訟/NN という/PQ 類型/S 自体/NB が/PS 存在/VV し/XV ない/AV と/PQ し/VV て/PC も/PK 、/SYM 憲法/NN 判断/NN の/PN 重要性/S から/PC 、/SYM 憲法/NN 訴訟/NN に/PS 特有/NN の/PN 理論/NN を/PS 考察/S する/VV 学問/S 分野/NN が/PS ある/VV 。/SYM
-最も/RB 知ら/VV れ/AV た/AV 蔵本/S モデル/NN の/PN 形式/NN は/PK 次/NN の/PN ような/AV 支配/NN 方程式/NN に/PS 従う/VV 。/SYM
-彼/NP に関する/PS 本/NN を/PS 何/CD 冊/XSC も/PK 読み/VV まし/AV た/AV し/AV ,/SYM 彼/NP の/PN プレゼン/S を/PS YouTube/NNP で/PS 見/VV て/PC は/PK 興奮/NN し/VV て/PC い/AV まし/AV た/AV 。/SYM
-アメリカ/NNP の/PN 研究者/S や/PH 中国/NNP の/PN 臨床試験/S で/CC ,/SYM 免疫/NN システム/NN の/PN 病気/NN である/AV リューマチ/NN に/PS も/PK 効果/NN が/PS すぐれ/VV て/PC いる/AV という/PQ こと/NB も/PK 証明/VV さ/XV れ/AV まし/AV た/AV 。/SYM
-新宿/NNP の/PN 高速バス/S を/PS 利用/VV する/XV とき/NB は/PK 必ず/RB 足/NN を/PS 運ん/VV で/XV しまう/AV 。/SYM
-お/XP 店/XS の/PN 雰囲気/NN も/PK 活気/S が/PS ある/VV 感じ/NN が/PS 気に入っ/VV て/PC い/AV ます/AV 。/SYM
-1979/CD 年/XSC 、/SYM DEC/SP を/PS 辞め/S て/AV 作家/NN 専業/S と/PQ なり/VV 、/SYM フロリダ州/NNP オーランド/NNP に/PS 移住/S し/PC た/AV 。/SYM
-板門店/S 内/XS および/CC 共同/NN 警備/NN 区域/NN において/PP は/PK 、/SYM 韓国軍/S を/PS 中心/NN と/PS し/VV た/AV 国連軍/S と/PC 、/SYM 北朝鮮軍/S の/PM 両軍/S が/PS 境界線/S を/PS 隔て/S て/AV 顔/NN を/PS 合わせ/VV 警備/NN に/PS つい/VV て/PC いる/AV 。/SYM
-以上/NN の/PN 方面/NN は/PK 、/SYM 当/XP 駅/XS は/PK 途中/NR バス停/S である/AV 。/SYM
-子ども/NN が/PS 熱/NN を/PS だし/VV とても/RB 親切/JN に/XV 診/VV て/PC いただき/AV まし/AV た/AV 。/SYM
-そこ/NP で/PS 今月/NR 19/CD 日/XSC に/PS 開か/VV れ/AV た/AV “/SYM 家系/NN の/PN お/XP はな/S し/AV ”/SYM 講演会/NN に/PS 参加/VV し/XV た/AV 。/SYM
-当初/NR は/PK 2008/CD 年/XSC 4月/NR 1/CD 日/XSC から/PS 2011/CD 年/XSC 3月/NR 31/CD 日/XSC まで/PA の/PN 3/CD 年間/XSC の/PN 契約/NN で/PS 命名/NN 権/XS が/PS 売却/VV さ/XV れ/AV た/AV が/PC 、/SYM 2010/CD 年/XSC 12月/NR -/XPC 2011/CD 年/XSC 1月/NR にかけて/PS 実施/VV さ/XV れ/AV た/AV 同/JR ホール/NN の/PN 命名/NN 権/XS 募集/NN に/PS 穴吹興産/S 1/CD 社/XSC しか/PK 応募/VV が/PC なかっ/AV た/AV ため/PC 、/SYM 同社/NN と/PS の/PM 間/NB で/PS 2011/CD 年/XSC 4月/NR 1/CD 日/XSC から/PS 2016/S 年/XSC 3月/NR 31/CD 日/XSC の/PN 5/CD 年間/XSC の/PN 契約/NN で/PS 命名/NN 権/XS が/PS 売却/VV さ/XV れ/AV た/AV 。/SYM
-昔話/NN を/PS 聞く/VV と/PC 興奮/NN し/VV て/PC 発砲/S する/AV 。/SYM
-由来/NN は/PK ヤコブ/S から/PC 。/SYM
-ブルジョア/S 教育/NN を/PS 最も/RB 推進/VV し/XV て/PC いる/AV の/PNB は/PK ,/SYM 日本共産党/S である/AV 。/SYM
-部屋/NN へ/PS 入る/VV と/PC ドライヤー/S や/PH 鏡/NNP が/PS あり/VV 、/SYM 明らか/JN に/XV 宿泊/VV 用/XS の/PN 部屋/NN といった/PQ 感じ/VV でし/AV た/AV 。/SYM
-それ/NP に/PS 加え/VV て/PC ,/SYM 毎月/S の/PM 損失/NN を/PS 50/CD %/XSC 以上/NB 軽減/NN する/AV ため/NB の/PN 大規模/JN な/XV 努力/NN が/PS なさ/VV れ/AV まし/AV た/AV 。/SYM
-その/JR ほか/NB の/PN 主要/NN 任務/NN と/PS し/VV て/PC は/PK 「/SYM レーベンスボルン/S 」/SYM と/PQ 「/SYM アーネンエルベ/S 」/SYM の/PN 実質的/JN な/XV 運営/NN が/PS あっ/VV た/AV 。/SYM
-警視庁/NN や/PH 証券取引/S 等/XS 監視/S 委員会/NN と/PS 合同/VV で/XV 一斉/S 捜索/NN する/AV 見通し/NN 。/SYM
-2005/CD 年/XSC に/PS オランダ/S の/PM スパルタ/S ・/SYM ロッテルダム/S へ/PS 移籍/VV し/XV た/AV 。/SYM
-2013/CD 年/XSC 、/SYM 栃木/S SC/SP の/PM シニア/S アドバイザー/NN に/PS 就任/VV 。/SYM
-元々/NN は/PK 、/SYM 済美/S 女子/NN 高等学校/NN であっ/AV た/AV が/PC 、/SYM 2004/CD 年/XSC 4月/NR から/PS 男女共学/S 部/XSC 普通科/S を/PS 設置/VV し/XV 、/SYM 名称/NN が/PS 済美/S 高等学校/NN と/PS なっ/VV た/AV 。/SYM
-ハーダー/NN は/PK 第二次世界大戦/NN の/PN 戦功/S で/CC 6/CD 個/XSC の/PN 従軍/S 星/NNP 章/NN を/PS 受章/S し/PC た/AV 。/SYM
-かつて/RB は/PK 、/SYM 塩山/S -/NN 丹波/S -/NN 奥多摩/S 駅/NN という/PQ 形/NN で/PS 山梨交通/S と/PQ の/PM 相互乗り入れ/S を/PS 行っ/VV て/PC い/AV た/AV が/PC 、/SYM 利用客/S の/PM 減少/NN など/PA により/PS 、/SYM 1972/CD 年/XSC で/PS 廃止/NN に/PS なっ/VV て/PC いる/AV 。/SYM
-所属/NN 事務所/NN は/PK 米朝/S 事務所/NN 。/SYM
-狭い/JJ お/XP 店/XS だ/AV けど/PC 、/SYM パン/NN だけ/PA じゃ/PS なく/JJ 結構/RB 変わっ/VV た/AV かりんとう/S なんか/NN も/PK 売っ/S て/PC まし/AV た/AV 。/SYM
-拉致/NN 監禁/NN 強制/S 改宗/VV は/PK 犯罪/NN だ/AV !/SYM
-京成本線/NN 町屋/S 駅/XS -/XPC 千住大橋/S 駅/XS の/PN 間/NB に/PS 存在/VV し/XV て/PC い/AV た/AV 。/SYM
-製品/NN 生産者/S たち/XS は/PK まだ/RB 自ら/NR の/PN ウェブ/NN サイト/NN で/PS 広告/VV する/XV という/PQ 手段/NN を/PS 持っ/VV て/PC おら/AV ず/AV 、/SYM 宣伝/NN に/PS は/PK 「/SYM AOLKeywords/SP 」/SYM を/PS 利用/VV し/XV て/PC い/AV た/AV 。/SYM
-1819/CD 年/XSC から/PS 1821/S 年/XSC まで/PA の/PN 間/NB に/PS ヴィルヘルムス/S 運河/S が/PS 造ら/S れ/AV 、/SYM 特に/RB ハイルブロンナー/S 製紙/S によって/PS 発展/VV し/XV た/AV 工業地域/S の/PM 立地/NN に/PS 寄与/VV し/XV た/AV 。/SYM
-教団/NN 内/XS で/PS は/PK “/SYM 科学技術/NN 省/XS 次官/S ”/SYM の/PN 地位/NN に/PS あり/VV まし/AV た/AV 。/SYM
-強い/JJ 香り/NN を/PS 持つ/VV 植物/NN である/AV 。/SYM
-女性/NN も/PK 大丈夫/S です/AV 。/SYM
-従来/NR 予想/NN は/PK 微増/S の/PN 19/CD 億/CD 円/XSC 。/SYM
-この方/NN は/PK ,/SYM 本紙/NN </S 沖縄/NNP 知事選/NN めぐり/VV 大江/NNP 議員/NN と/PS 幸福実現党/NNP が/PS 対立/VV 登場/VV さ/XV れ/AV た/AV 方/NB です/AV 。/SYM
-1708/CD 年/XSC に/PS カルロ/S が/PS 死ぬ/VV と/PC 、/SYM マントヴァ/S 公位/S は/PK 廃位/S さ/XV れ/AV 、/SYM ゴンザーガ/S 家/XS は/PK 永久/S に/PS マントヴァ/S を/PS 失い/VV 、/SYM 以後/NR ハプスブルク家/S 支配/NN と/PS なっ/VV た/AV 。/SYM
-ちょっと/RB し/VV た/AV 遊具/S も/PK ある/VV ので/PC 小さな/JR 子ども/NN さん/XS も/PK いい/JJ と/PQ 思い/VV ます/AV 。/SYM
-SEX/NN が/PS 強/JJ すぎる/AV の/PNB かも知れ/AV ない/AV 。/SYM
-所属/NN 事務所/NN は/PK Breath/SP 。/SYM
-紳助/S さん/XS は/PK 、/SYM 先月/NR 23/CD 日/XSC の/PN 引退/NN 記者会見/NN で/PS 、/SYM 十/CD 数/CD 年/XSC 前/NR に/PS あっ/VV た/AV トラブル/NN を/PS 解決/VV し/XV て/PC くれ/AV た/AV の/PNB が/PS 、/SYM 暴力団/S 関係者/NN だっ/AV た/AV こと/NB を/PS 明らか/JN に/XV し/VV た/AV 。/SYM
-自分/NN の/PN 身/NN は/PK 自分/NN で/PS 守ろ/VV う/AV !/SYM
-清/NNP 代/XS は/PK 湖北省/S が/PS 置か/VV れ/AV 、/SYM その/JR まま/NB 現代/NN の/PN 行政区分/S に/PS なっ/VV て/PC いる/AV 。/SYM
-戦死/VV 後/NB に/PS 彼/NP の/PN 妻/NN から/PS 譲ら/VV れる/AV 「/SYM ナイト/NN シールド/NN 」/SYM は/PK 、/SYM 彼/NP の/PN 形見/S で/PS も/PK ある/XA 。/SYM
-建造物/S も/PK 仏像/NN も/PK 中国/NNP 明朝/S 時代/NN を/PS 偲ば/S せ/VV て/PC い/AV ます/AV 。/SYM
-これ/NP から/PS は/PK 花/NN こう/RB さん/NN を/PS ずっと/RB 利用/VV し/XV たい/AV と/PQ 思っ/VV て/PC い/AV ます/AV 。/SYM
-また/CC 、/SYM この/JR 番組/NN は/PK 公開/VV 録音/NN スタイル/NN が/PS とら/VV れ/AV て/PC おり/AV 、/SYM 当初/NR は/PK 改装/VV 前/NB の/PN 第/XPC 3/CD スタジオ/NN で/PS ギャラリー/S も/PK 5/CD ~/XPC 6/CD 人/XSC だっ/AV た/AV が/PC 、/SYM その後/NR 常時/NR 10/CD 人/XSC 以上/NB 集まる/VV ように/AV 更に/RB ギャラリー/S の/PM 数/NN が/PS 増え/VV た/AV ため/PC 広い/JJ 第/XPC 1/CD スタジオ/NN に/PS 移っ/S て/PC 収録/VV する/XV ように/AV なっ/AV た/AV 。/SYM
-同/JR コーナー/NN の/PN 放送開始/NN と/PS 終了/VV 時/NB に/PS は/PK 、/SYM この/JR 定点/S カメラ/NN の/PN 映像/NN と/PS は/PK 別/JN に/XV 部屋/NN 全体/NN を/PS 映す/S 別/XS の/PN 固定/NN カメラ/NN の/PN 映像/NN を/PS 使用/VV し/XV て/PC いる/AV 。/SYM
-この/JR 曲/NN は/PK 、/SYM 1964/CD 年/XSC の/PN テレビドラマ/NN 版/XS の/PN 主題歌/NN である/AV と/PQ 誤解/VV さ/XV れ/AV やすい/AJ が/PC 、/SYM ドラマ/NN で/PS 使用/VV さ/XV れ/AV た/AV の/PNB は/PK シンプル/JN な/XV インストルメンタル/S BGM/NN 曲/XS のみ/PA で/PS 、/SYM 青山/S 和子/S が/PS 歌う/VV この/JR レコード/NN 企画/NN と/PS は/PK 全く/RB 別/NN の/PN プロジェクト/NN である/AV 。/SYM
-ローズクランズ/NN は/PK イウカ/S で/PS は/PK 縮小/VV さ/XV れ/AV た/AV ミシシッピ/S 軍/NN を/PS 率い/VV 、/SYM コリンス/S で/PS は/PK テネシー/S 軍/NN から/PS の/PM 2/CD 個/XSC 師団/NN の/PN 支援/NN を/PS 受け/VV た/AV 。/SYM
-バニラ/S アイス/NN が/PS 大/XP 好物/S 。/SYM
-インターネット/NN における/PP 個人/NN の/PN 報道/NN 活動/NN の/PN 意義/NN と/PS 実状/S を/PS 全く/RB 無視/S し/PC た/AV ,/SYM あまり/RB に/PX 時代錯誤/S な/VV 最高裁/S の/PM 判決/NN を/PS ,/SYM 本紙/NN は/PK 強く/JJ 非難/VV し/XV ます/AV 。/SYM
-しかし/CC 、/SYM 正恩/S 氏/XS は/PK 軍/NN 大将/NN と/PS し/VV て/PC 登場/VV し/XV 、/SYM 活動/NN を/PS 部隊/NN 視察/NN から/PS 始め/VV た/AV 。/SYM
-その/JR 3/CD 分の/XPC 2/CD 近く/NR が/PS 統一/NN 協会/NN 関係者/NN の/PN よう/AV でし/AV た/AV 。/SYM
-状況/NN によって/PS は/PK 統一教会/NNP 擁護/NN の/PN 論陣/S を/PS 張ろ/S う/AV と/PQ 思っ/VV て/PC い/AV ます/AV 。/SYM
-治療/NN は/PK ステロイド/S の/PM 内服/S が/PS 中心/NN だ/AV と/PQ いう/VV 。/SYM
-彼女/NP は/PK 、/SYM ロサンゼルス/S で/AV の/PNB より/PS 高い/JJ ステータス/S を/PS 得/VV られる/AV 仕事/NN の/PN オファー/S を/PS 受け入れ/VV た/AV の/PNB だっ/AV た/AV 。/SYM
-「/SYM 唯識三十頌/S 」/SYM で/PS は/PK 上述/NN の/PN 八識説/S を/PS 唱え/S 、/SYM 部分的/S に/PS 深層心理学/S 的/NN 傾向/NN や/PH 生物学/S 的/NN 傾向/NN を/PS 示し/VV た/AV 。/SYM
-1928/S 年/XSC 10月/NR から/PS 1929/S 年/XSC 11月/NR にかけて/PS 初代/NN 駐/XP トルコ/NNP 大使/NN である/AV 小幡/S 酉吉/S の/PM 帰朝/S に/PX と/PQ も/PK ない/JJ 臨時/NN 代理/NN 大使/NN を/PS 務め/VV 、/SYM この/JR 間/NB に/PS 参事官/S へ/VV と/PQ 昇格/VV し/XV た/AV 。/SYM
-彼女たち/NN は/PK 「/SYM 負け犬/S 」/SYM を/PS 自称/NN し/VV ながら/PC 、/SYM その実/S オタク/S を/PS 恋愛/VV 対象/NN に/PS し/VV よう/AV と/PC せ/AV ず/AV ヒエラルキー/S の/PM 下位/NN に/PS おき/VV 、/SYM 自己/NN の/PN 精神的/JN 安寧/S を/PS 得/VV て/PC いる/AV に/PC 過ぎ/AV ず/AV 、/SYM その/JR オタク/S を/PS 否定/VV する/XV 価値観/S も/PK 「/SYM 恋愛/NN 資本主義/NN 」/SYM に/PS 洗脳/S さ/XV れ/AV て/PC いる/AV に/PC 過ぎ/AV ない/AV と/PQ 主張/VV し/XV た/AV 。/SYM
-民主党/NNP 公約/S が/PS あて/VV に/XV なら/XA ない/AV の/PNB は/PK まだ/RB ある/VV 。/SYM
-だが/CC 、/SYM 最後/NN は/PK 仲間/NN 達/XS の/PN 願い/NN を/PS 受け/VV て/PC 復活/VV し/XV た/AV メビウス/S の/PM メビュームシュート/S と/PQ ウルトラ/S 兄弟/NN の/PN 合体/NN 光線/NN を/PS 受け/VV て/PC 再び/RB 消滅/VV し/XV た/AV 。/SYM
-しかし/CC プラセボ/NNP 効果/NN は/PK ,/SYM 患者/NN を/PS 騙す/S からこそ/S 生まれる/VV 効果/NN です/AV 。/SYM
-遊学/S 館/XS は/PK 県/XP 予選/NN 会/XS 後/XS に/PS 3/CD 年/XSC の/PN 亀樋/S 哲生/S 、/SYM 吉田/NNP 圭佑/S の/PM 両/XP 選手/NN ら/XS 主力/NN 3/CD 人/XSC が/PS 故障/VV し/XV て/PC 欠場/S し/PC た/AV 。/SYM
-属/NN 品/XS と/PS し/VV て/PC 負/S 紐付き/S の/PM 収容/NN 嚢/S が/PS 存在/VV し/XV 、/SYM 行軍/S 時/XSC など/PA に/PS は/PK 狙撃/S 眼鏡/NN を/PS 銃/NN から/PS 外し/VV これ/NP に/PS 収容/NN し/VV た/AV 。/SYM
-宇高/NN 航路/S において/PP は/PK 、/SYM 初/NN の/PN 車載/S 客船/S で/PS も/PK あっ/VV た/AV 。/SYM
-車/NN の/PN 販売/NN 、/SYM 板金/S 、/SYM 塗装/NN 等/XS を/PS 行っ/VV て/PC い/AV ます/AV 。/SYM
-柱/NN の/PN 円周/S は/PK 、/SYM 大人/NN 5/CD 人/XSC が/PS 手/NN を/PS 伸ばし/S て/PC 抱え/VV て/PC も/PK 届か/S ない/JJ くらい/PA の/PN 大きさ/NN である/AV 。/SYM
-有名/JN な/XV 先生/NN 方/XS が/PS 講師/NN と/PS し/VV て/PC 来/VV られ/AV て/PC い/AV ます/AV 。/SYM
-悲観的/NN に/PS なる/VV と/PC は/PK ,/SYM 階級/NN 的/JN 意識/NN が/PS ない/JJ こと/NB である/AV が/PC ,/SYM 本来/NN 敵/NN である/AV もの/NB を/PS 味方/NN と/PS 思っ/VV た/AV 時/NB ,/SYM その/JR 失望/S が/PS 悲観的/S に/PX さ/XV せる/AV 。/SYM
-好物/S は/PK マシュマロ/S 。/SYM
-私/NP は/PK ,/SYM 幸福/NN の/PN 施設/NN しか/PK 知ら/VV なく/AV て/PC 恐縮/S です/XV が/PC ,/SYM 安心/JN し/XV て/PC 過ご/S せる/AV 所/NN だ/AV と/PQ 思う/VV 。/SYM
-こじんまりし/S た/AV 、/SYM アットホーム/JN な/XV 良い/JJ 雰囲気/NN で/PS 食事/NN が/PS 出来/VV ます/AV 。/SYM
-クアラルンプール/NN で/PS 開催/VV さ/XV れる/AV マラソン/NN は/PK この/JR ほか/NB 「/SYM KL/SP マラソン/NN 」/SYM など/PA 、/SYM 複数/NN の/PN 大会/NN が/PS ある/VV 。/SYM
-SF/NN 作品/NN など/PA で/PS 、/SYM 宇宙船/S の/PM 航行/S が/PS 著しく/JJ 困難/JN な/XV 空間/NN に/PS 「/SYM サルガッソ/S 」/SYM の/PN 名/NN が/PS 冠さ/S れる/AV こと/NB が/PS ある/VV 。/SYM
-英語/NN の/PN 公用語/S 化/VV 云々/S より/PS も/PK 、/SYM まずは/CC 国際/NN 感覚/NN を/PS 身/NN に/PS つ/VV ける/AV 社員教育/S の/PN 方/NB が/PS 優先/VV す/XV べき/AV だろ/AV う/AV 。/SYM
-本/XP 作/XS より/PS 昔/NR の/PN 話/NN である/AV 『/SYM ドラゴンクエスト/S III/SP 』/SYM の/PN 時代/NN で/PS は/PK 魔物/NN に/PS 滅ぼさ/S れ/AV て/PC おら/AV ず/AV 活気/S の/XV ある/XA 町/XS と/PS し/VV て/PC 存在/VV し/XV て/PC い/AV た/AV 。/SYM
-2009/CD 年/XSC 11月/NR 28/CD 日/XSC 、/SYM サード/S アルバム/NN 、/SYM 『/SYM Hell/SP Chose/SYM Me/SP 』/SYM の/PN レコーディング/S を/PS 終える/S 。/SYM
-今年/NR 7月/NR から/PS 、/SYM 宝塚歌劇/S の/PM 専門チャンネル/S 「/NN タカラヅカ/S ・/SYM スカイ/NN ・/SYM ステージ/NN 」/SYM の/PN 案内役/S スカイ/NN ・/SYM フェアリーズ/S を/PS 務め/VV て/PC いる/AV 。/SYM
-取締/S 機/NN によって/PS 撮影/VV さ/XV れる/AV と/PC 、/SYM 数日/NN から/PS 遅くとも/S 30/CD 日/XSC 以内/NN に/PS 警察/NN から/PS 当該/JR 車両/NN の/PN 所有者/NN に/PS 出頭/S 通知/S が/PS 送付/VV さ/XV れる/AV 。/SYM
-享年/NN 84/CD 。/SYM
-当初/NR は/PK 熊田/S の/PM 傍若無人/S ぶり/XS に/PS ブーイング/S の/PM 嵐/S だっ/XV た/AV 観衆/S も/PK 、/SYM 「/SYM まとも/JN に/XV 戦う/VV の/PNB なら/AV 」/SYM という/PQ 条件付き/S で/PS 熊田/S 応援/NN に/PS 回り/VV 、/SYM 場内/NN は/PK 熊田/S コール/S と/PQ 仲本/S コール/S に/PS 二分/S さ/XV れ/AV た/AV 。/SYM
-脳梗塞/NN の/PN 症状/NN で/PS 入院/VV し/XV て/PC い/AV た/AV 60/CD 歳/XSC 代/XS の/PN 男性/NN が/PS 、/SYM 食事/NN で/PS 出さ/VV れ/AV た/AV おかゆ/S を/PS 喉/S に/PS 詰まら/S せ/XV た/AV 。/SYM
-幼い/JJ ゆえ/S か/PE 、/SYM 大人/NN っぽ/S さ/NB に/PS 憧れ/VV て/PC いる/AV 。/SYM
-ネタ/NN 番組/NN の/PN ように/AV 、/SYM 3/CD 段/XSC オチ/S を/PS 考える/VV コーナー/NN で/PS は/PK ない/JJ 。/SYM
-バター/S 珈琲/NN の/PN 味/NN が/PS 好き/JN な/XV 方/NB に/PS は/PK お/XP 薦め/VV だ/AV が/PC 、/SYM 外連/S 味/NN の/PN 無い/JJ 、/SYM 王道/S の/PM 珈琲/NN を/PS 求める/VV 方/NB に/PS は/PK 向か/VV ない/AV 。/SYM
-対称/S 性/NN を/PS 評価/VV する/XV パターン/NN 、/SYM 生え際/S を/PS 評価/VV する/XV パターン/NN 、/SYM 鼻/NN や/PH 口/NN の/PN 大きさ/NN を/PS 評価/VV する/XV パターン/NN など/PA が/PS ある/VV 。/SYM
-この/JR 講話/S と/PQ 面談/S は/PK 皆様/NP に/PS 大変/RB 好評/JN です/XV 。/SYM
-ハムスター/NN の/PN 診察/NN を/PS し/VV て/PC くれる/AV 病院/NN は/PK 少なく/JJ とても/RB 助かり/VV まし/AV た/AV 。/SYM
-休養/NN を/PS 挟ん/S で/PS 京成/S 杯/XSC オータム/S ハンデキャップ/S に/XV 出走/NN し/VV た/AV が/PC 、/SYM 5/CD 着/XSC に/PS 敗れ/VV た/AV 。/SYM
-ファイブ/S ブラック/NN の/PN 個人/NN 武器/NN 。/SYM
-朝/NR まで/PA 飲み/NN 会/XS コース/NN と/PS いう/VV の/PNB が/PS あり/VV 、/SYM 4/CD 品/XSC で/PS 1500/CD 円/XSC くらい/PA の/PN よう/AV です/AV よ/PE 。/SYM
-同国/NN の/PN 国営/S テレビ/NN は/PK 、/SYM ムバラク/S 氏/NN が/PS 公金/S 横領/S や/PH 反体制/S デモ/NN 参加者/NN 殺害/NN など/PA の/PN 疑い/NN で/PS 検察/NN 当局/S の/PM 聴取/S を/PS 受け/VV て/PC いる/AV 最中/NB に/PS 心臓発作/S で/PS 倒れ/VV 、/SYM 入院/VV 先/XS で/PS 集中/VV 治療/NN を/PS 受け/VV て/PC いる/AV と/PQ 報じ/VV た/AV 。/SYM
-通称/NN ・/SYM 但馬/S 、/SYM 和泉/S 、/SYM 又左衛門/S 。/SYM
-真っ黒/S の/PM タレ/NN だ/AV けど/PC 美味しい/JJ よ/PE 。/SYM
-かつて/RB 虐め/S に/PS あっ/VV て/PC い/AV た/AV 大和/NNP の/PN 中学/NN 時代/NN の/PN 同級生/S 。/SYM
-すると/CC 店内/NN が/PS かわいく/JJ て/PC 気/NN に/PS パ/S ―/SYM マ/S と/PS カット/NN を/PS し/VV て/PC もらい/AV まし/AV た/AV 。/SYM
-2010/CD 年/XSC 10月/NR 17/CD 日/XSC に/PS インディアナ州/S で/PS 前立腺がん/S で/PS 亡くなっ/VV た/AV 。/SYM
-劉裕/NN の/PN 異母/S 弟/NN に/PS あたる/VV 。/SYM
-看護師/NN 不足/NN が/PS 問題/NN と/PS なる/VV 中/NB 、/SYM 高梁市/S が/PS 看護師/NN を/PS 目指す/VV 学生/NN を/PS 対象/NN に/PS し/VV た/AV 看護師/NN 養成/NN 奨学金制度/S を/PS つく/VV り/NN 、/SYM 4月/NR から/PS 奨学生/S の/PM 募集/NN を/PS 始める/VV 。/SYM
-1821/CD 年/XSC から/PS 1867/S 年/XSC まで/PA の/PN 長き/JJ に/PS 亘っ/VV て/PC モスクワ/S 府/XS 主教/S 位/NN に/PS あっ/VV た/AV 。/SYM
-でも/CC 重症/S じゃ/AV ない/AV ので/PC 絶対/RB に/PX 治る/S と/PQ 信じ/VV て/PC 治療/NN に/PS 専念/S し/AV 、/SYM きれい/JN な/XV 女性/NN に/PS なり/VV たい/AV と/PQ の/PM 想い/NN を/PS 込め/S 、/SYM 決断/NN し/VV まし/AV た/AV 。/SYM
-この/JR 風景/NN を/PS 学生/NN が/PS 見/VV たら/AV 大喜び/S を/PS する/VV に/XV 違い/VV ない/AV 。/SYM
-現在/NR の/PN 書店/NN 「/SYM 丸善/S 」/SYM だ/AV 。/SYM
-ここ/NP の/PN 居酒屋/NN の/PN メニュー/NN で/PS 目/NN を/PS 引い/VV た/AV の/PNB は/PK 、/SYM やっぱり/RB コラーゲン/S 鍋/NN でしょ/AV !/SYM
-大きな/JR 一/CD つ/XSC 目/XS に/PS 小さな/JR 胴体/S 、/SYM 細い/S 手足/S 、/SYM とんがり帽子/S という/PQ 異形/S だ/XV が/PC 何処/S か/PE コミカル/S に/PS も/PK 見える/VV 姿/NN を/PS とる/VV 。/SYM
-ここ/NP から/PS 、/SYM 単なる/S 文字列/NN より/PS も/PK 高機能/JN な/XV クラス/NN など/PA を/PS ロープ/S と/PQ 呼ぶ/VV こと/NB が/PS ある/VV 。/SYM
-柔道/NN 人生/NN は/PK 終わる/S まで/PK 安心/VV でき/AV ない/AV 。/SYM
-雪/NN に/PS 足/NN を/PS とら/VV れ/AV ない/AV ように/AV する/AV ため/NB に/PS 足/NN 裏/XS に/PS 取り付け/VV られる/AV ミニ/XP スキー/NN 。/SYM
-作品/NN に/PS は/PK オペラ/S 、/SYM バレエ/S 、/SYM 映画音楽/S 、/SYM 劇場/NN 音楽/NN が/PS あり/VV 、/SYM リトアニア/S ・/SYM ソビエト社会主義共和国/S の/PM 国歌/S も/PK 作曲/NN し/VV て/PC いる/AV 。/SYM
-静岡県/NNP 出身/NN 。/SYM
-あと/NN 、/SYM びっくり/VV な/XV の/PNB が/PS 、/SYM 玄関/NN 前/XS に/PS ペンギン/S が/PS 3/CD 羽/S 。/SYM
-鉄郎/NN の/PN 同僚/NN で/PS ドーテーズ/S の/PM 初期/NN メンバー/NN 。/SYM
-X線/NN 新星/S の/PM 特徴/NN である/AV 、/SYM 数/CD ヶ月/XSC かけ/VV て/PC 暗く/S なる/XV 性質/NN と/PS 一致/VV し/XV て/PC いる/AV 。/SYM
-地区/NN 予選/NN で/PS 敗者復活戦/S に/PS 回っ/S た/AV 雪辱/S を/PS 果た/S せる/AV か/PE 。/SYM
-ノルウェー/S の/PM 劇作家/S ヘンリック/S ・/SYM イプセン/S の/PM 劇詩/S 『/SYM ペール/S ・/SYM ギュント/S 』/SYM の/PN 登場人物/NN に/PS 因ん/S で/PS 命名/VV さ/XV れ/AV た/AV 。/SYM
-3月/NR 20/CD 日/XSC に/PS 発売/VV 開始/NN 。/SYM
-今/NR 上大岡/S に/PS 住ん/VV で/XV い/AV て/PC 、/SYM 毎週/NR 行っ/VV て/PC い/AV ます/AV 。/SYM
-千/CD 月/XSC 学園/NN に/PS 通い/VV つつ/PC 弥勒/S 院/NN を/PS サポート/NN する/VV 有能/S な/XV 助手/NN で/PS は/PK ある/VV が/PC 、/SYM 謎/NN も/PK 多い/JJ 不思議/JN な/XV 少女/NN 。/SYM
-旧/XP 松山/S 藩/NN 領/NN 東部/NN に当たる/S 西条/S 6/CD 万/CD 8600/S 石/NN は/PK 、/SYM 伊勢/S 国/XS 神戸/NNP 藩主/NN 一柳/S 直盛/S に/PS 与え/VV られ/AV た/AV が/PC 、/SYM 加増/S の/PN うえ/NB 転封/S する/AV こと/NB と/PS なっ/VV た/AV 直盛/S は/PK 、/SYM 采地/S に/PS 赴く/VV 途中/NR の/PN 大坂/NNP で/PS 没し/S た/AV 。/SYM
-霊芝/NN に/PS は/PK 毛細血管/S の/PM 血液/NN 循環/NN を/PS 促進/NN する/AV 働き/NN が/PS あり/VV ます/AV 。/SYM
-『/SYM 第/XPC 2/CD 次/XSC OG/SP 』/SYM で/PS コウタ/NNP と共に/PP 帰還/VV し/XV 、/SYM 海上/NN で/PS ヒリュウ/S 改/S を/PS 襲撃/VV し/XV た/AV イグニス/S を/PS 撃破/VV 後/NB に/PS 鋼/S 龍/NNP 戦隊/S に/PS 合流/VV 。/SYM
-2/CD 位/XSC の/PN 天草/S 本渡/S クラブ/NN と/PS 3/CD 位/XSC の/PN 菊池/NNP クラブ/NN は/PK 10月/NR に/PS 宮崎県/S で/PS 行わ/VV れる/AV 九州/NNP 大会/NN に/PS 出場/VV する/XV 。/SYM
-財務相/S の/PM ヘルムート/S ・/SYM シュミット/S に/PS 連邦首相/S の/PM 座/NN を/PS 譲っ/S た/AV 。/SYM
-2008/CD 年/XSC 4月/NR 6/CD 日/XSC 午前/NR 11/CD 時/XSC に/PS 子供/NN が/PS 生まれる/VV と/PQ し/VV ます/AV 。/SYM
-スター/NN フェリー/S や/PH ヨーマティフェリー/S が/PS 創業/NN する/VV と/PC 、/SYM 非常/JN に/XV 重要/JN で/XV ある/XA こと/NB を/PS 証明/VV する/XV こと/NB に/PS なっ/VV た/AV 。/SYM
-横柄/S な/VV 女医/S の/PM 婆さん/S と/PQ いい加減/S な/XV 受付/NN 。/SYM
-この/JR 荻野/S 氏/XS ,/SYM 自ら/NR クラシカル/S ホメオパシー/NN 京都/NNP という/PQ 団体/NN を/PS 主宰/S し/AV ,/SYM ホメオパシー/NN 講座/NN を/PS 開催/VV し/XV て/PC い/AV ます/AV 。/SYM
-メソポタミア/S 南部/NN は/PK 文字/NN による/PS 記録/NN が/PS 残さ/VV れる/AV 最初/NN 期/XS から/PS シュメール語/S と/PQ セム語/S の/PM バイリンガル/S 地帯/NN であっ/AV た/AV 。/SYM
-また/CC 日本語/NN 学者/S の/PM 寺村/S 秀夫/S も/PK 自著/S で/PS は/PK 「/SYM 名容詞/S 」/SYM という/PQ 用語/NN を/PS 用い/VV て/PC いる/AV 。/SYM
-お/XP 風呂/NN 大きく/JJ は/PK ない/JJ けれど/PC お/XP 湯/S は/PK きれい/JN 。/SYM
-新生/S 闇/NN 軍団/NN 頭領/S 。/SYM
-当初/NR の/PN 説明/NN と/PS 実際/NN の/PN 施設/NN の/PN 状態/NN が/PS 違う/VV という/PQ 点/NN も/PK ,/SYM 川島町/S の/PM 住民/NN の/PN 証言/NN と/PS よく/JJ 似/VV て/PC い/AV ます/AV 。/SYM
-それ/NP で/PS い/VV て/PC この/JR 対応/NN である/AV 。/SYM
-児童/NN 生徒/NN が/PS 犠牲/NN に/PS なる/VV 事態/NN も/PK 多く/JJ 、/SYM 同市/NN に/PS ある/VV 京田/S 幼児/NN 園/S で/PS は/PK 園舎/S が/PS 倒壊/S し/XV 園児/S 3/CD 名/XSC が/PS 圧死/S 、/SYM 園児/S 14/CD 名/XSC と/PS 保育士/S 1/CD 名/XSC が/PS 生き埋め/S と/PQ なっ/VV た/AV 。/SYM
+Corriere/SP Sport/S da/E pagina/S 23/N a/E pagina/S 26/N
+I/RD tre/N avevano/V da/E poco/B lasciato/V la/RD cima/S e/CC stavano/VA cominciando/S la/RD discesa/S ./FS
+Tutti/T gli/RD esseri/S umani/A sanno/V di/E poter/VM essere/VA più/B di/E ciò/PD che/PR sono/V ./FS
+Per/E lo/RD stesso/A motivo/S però/B ,/FF spesso/B ,/FF fanno/V fatica/S ad/E ammettere/V che/CS qualcun/S altro/PD sia/V veramente/B più/B dotato/S ,/FF possegga/RD qualità/S e/CC capacità/S superiori/A ./FS
+Vi/PC sono/V migliaia/S di/E casi/S di/E questo/DD genere/S ./FS
+È/V vero/A ,/FF tutti/PI possiamo/VM essere/VA sostituiti/S ./FS
+Alcune/DI chiamate/S partirono/S da/E il/RD Quirinale/SP ./FS
+Sorpresa/SP in/E la/RD sorpresa/S :/FC
+"/FB Lei/PE ha/V la/RD tipica/S camminata/S da/E spia/S "/FB ./FS
+A/E inguaiare/S Minetto/SP ,/FF che/PR si/PC è/V sempre/B proclamato/V innocente/A ,/FF sono/VA state/V soprattutto/B le/RD amicizie/S con/E parecchi/S neofascisti/S ,/FF come/E Marcello/SP Soffiati/SP ,/FF coinvolto/V in/E l'/RD inchiesta/S su/E la/RD "/FB Rosa/SP di/E i/RD venti/N "/FB ./FS
+I/RD carri/S armati/A ,/FF quando/CS si/PC muovevano/S ,/FF andavano/V a/E Budapest/SP e/S a/E Praga/SP ,/FF a/E spegnere/S i/RD fuochi/S per/E prevenire/V l'/RD incendio/S ./FS
+La/RD guerra/S europea/A in/E l'/RD ex/A Jugoslavia/SP è/V figlia/S di/E questo/DD doppio/S tramonto/S ,/FF nasce/V da/E la/RD fine/S di/E i/RD blocchi/S e/CC insieme/B da/E il/RD buco/S nero/A che/CS la/RD scomparsa/S di/E la/RD loro/AP rassicurante/S rivalità/S atomica/S ha/VA prodotto/V in/E la/RD coscienza/S collettiva/A ./FS
+ROMA/SP -/FF In/E lo/RD Zaire/SP ,/FF 34/N anni/S fa/V (/FB allora/B si/PC chiamava/V Congo/SP )/FB ,/FF furono/VA trucidati/V 13/N aviatori/S italiani/A a/E Kindu/SP dov'/B erano/VA stati/VA inviati/S con/E aiuti/S e/CC materiale/S su/E richiesta/S di/E l'/RD Onu/SP che/PR aveva/VA messo/V sotto/E controllo/S internazionale/A il/RD Paese/S africano/A dopo/CS aver/VA ottenuto/V ,/FF il/RD 30/N giugno/S 1960/N ,/FF l'/RD indipendenza/S da/E il/RD Belgio/SP ./FS
+Dar/RD Es/SP Salaam/SP (/FB Tanzania/SP )/FB -/FF Sono/VA stati/VA ritrovati/V sani/S e/S salvi/A cinque/N americani/S -/FB due/N donne/S ,/FF due/N ragazze/S e/CC un/RI uomo/S ,/FF tutti/PI appartenenti/V a/E la/RD Chiesa/S Battista/A in/E gli/RD Stati/SP Uniti/SP -/FF che/PR erano/VA stati/VA rapiti/V da/E una/RI banda/S armata/A ,/FF mentre/CS si/PC trovavano/V in/E una/RI riserva/S di/E il/RD grande/A parco/S nazionale/A di/E Mikuni/SP ,/FF a/E 250/S chilometri/S da/E Dar/SP Es/SW Salaam/SP ,/FF in/E la/RD Tanzania/SP nord/S occidentale/A ./FS
+Con/E Noella/SP ,/FF di/E la/RD famiglia/S Castiglioni/SP resta/V viva/A solo/B Raffaella/SP ,/FF 13/N anni/S ,/FF un'/RI altra/A figlia/S di/E Adelio/SP che/PR abita/V a/E Cremona/SP e/CC non/BN ha/VA mai/B seguito/V il/RD padre/S in/E lo/RD Zaire/SP ./FS
+Le/RD immagini/S di/E il/RD film/S di/E Michael/SP Apted/SP hanno/VA riproposto/V a/E le/RD platee/S di/E tutto/T il/RD mondo/S scene/S di/E grande/A suggestione/S ,/FF su/E il/RD rapporto/S tra/E la/RD studiosa/S e/CC gli/RD animali/S e/CC su/E la/RD difficoltà/S di/E comprensione/S di/E i/RD problemi/S ambientali/A da/E parte/S di/E gli/RD indigeni/S e/CC di/E i/RD "/FB bianchi/A "/FB che/PR volevano/V soltanto/B arricchir/S si/PC ./FS
+Non/BN è/V mai/B stato/VA accertato/V chi/PR volle/S la/RD sua/AP morte/S ,/FF ma/CC i/RD nemici/S che/PR si/PC era/VA fatta/V erano/V molti/PI :/FC
+"/FB Da/E parte/S mia/AP -/FF ha/VA quindi/B annunciato/A -/FF cercherò/S di/SP portare/V in/E commissione/S qualche/DI rappresentante/S di/E la/RD cultura/S iraniana/A ,/FF per/E far/V vedere/V che/CS esiste/V un/RI Islam/SP che/PR non/BN è/V fanatismo/S "/FB ./FS
+Il/RD messaggio/S che/PR l'/RD economista/S italoamericano/S manda/V da/E Martha/SP 's/PART Vineyard/SP ,/FF l'/RD isoletta/S di/E il/RD Massachusetts/SP dove/B da/E anni/S trascorre/S le/RD vacanze/S estive/A ,/FF è/V chiarissimo/S :/FS
+In/E le/RD ultime/NO settimane/S altri/A grandi/A di/E l'/RD economia/S sono/VA stati/VA colti/S da/E improvviso/A ottimismo/S per/E le/RD sorti/S di/E la/RD navicella/S Italia/SP ./FS
+Tudjman/SP ,/FF l'/RD arte/S di/E la/RD vendetta/S ./FS
+messo/V in/E ginocchio/S da/E i/RD serbi/S ,/FF lasciato/V solo/B da/E i/RD tentennamenti/S di/E la/RD Nato/SP e/S di/E l'/RD Onu/SP ,/FF non/BN gli/PC restava/S che/PQ firmare/V un/RI patto/S con/E il/RD diavolo/S ,/FF squillano/S le/PC trombe/S e/S ,/FF salutato/S come/E un/RI liberatore/S ,/FF l'/RD esercito/S croato/A sfonda/S il/RD fronte/S con/E prontezza/S e/CC tempestività/S tali/PD da/E far/V pensare/V che/CS la/RD mossa/S fosse/S da/E tempo/S preparata/V ./FS
+Dietro/B le/RD lenti/A affumicate/S gli/RD occhi/S luccicano/S di/E contentezza/S e/CC la/RD bocca/S sottile/A si/PC tende/V in/E un/RI ghigno/S soddisfatto/V ./FS
+Allora/B militanti/S serbi/S di/E Knin/SP ,/FF organizzarono/S una/RI rivolta/S contro/E il/RD governo/S croato/A eletto/V in/E il/RD maggio/S precedente/A ./FS
+Stravince/E le/RD elezioni/S di/E il/RD 1990/N ,/FF e/CC si/PC lancia/V in/E virtuosismi/S nazionalistici/S da/E far/V invidia/S a/E Slobo/SP Milosevic/SP :/FC
+La/RD volpe/S di/SP Zagabria/SP ,/FF così/B ,/FF potrà/VM sopravvivere/V più/B a/E lungo/S di/E il/RD lupo/S solitario/S di/SP Belgrado/SP ./FS
+"/FB Bossi/SP quando/CS parla/V si/PC copre/V di/E ridicolo/S ,/FF dovrebbe/VM bastare/S questo/PD a/E punir/S lo/PC ./FS
+anche/B in/E Parlamento/S disse/V che/CS noi/PE saremmo/S usciti/S di/E lì/B con/E i/RD piedi/S avanti/B .../FF "/FB ./FS
+Il/RD "/FB duro/A "/FB di/E An/SP ce/PC l'/PC ha/V con/E Irene/SP Pivetti/SP ,/FF che/CS alcune/DI sere/S fa/A ,/FF ospite/S a/E l'/RD edicola/S di/E il/RD Tg/SP 3/N ,/FF ha/VA giustificato/S gli/PC eccessi/S di/SP Bossi/SP considerando/V li/PC a/E la/RD stregua/S di/E una/RI forma/S di/E linguaggio/S ,/FF magari/B più/B colorita/S di/E il/RD normale/A ./FS
+"/FB Finché/CS c'/PC è/V chi/PR lo/PC difende/V e/CC lo/RD incoraggia/S ,/FF lui/PE continuerà/V a/E comportar/V si/PC così/B "/FB ,/FF profetizza/S Storace/SP ./FS
+Stia/SP a/E casa/S lo/RD stesso/A ./FS
+Ecco/B l'/RD arringa/S di/SP Tiziana/SP Maiolo/SP ./FS
+"/FB La/RD Pivetti/SP ha/VA fatto/V benissimo/B a/E decidere/V di/E testa/S sua/AP ./FS
+Veniva/SP da/E me/PE questa/DD pidiessina/S tremenda/S ,/FF la/RD Alberta/SP De/SW Simone/SP ./FS
+mettiamo/V la/RD targa/S a/E gli/RD "/FB esperti/S "/FB ./FS
+E/CC i/RD "/FB colleghi/S "/FB di/E Saxa/SP Rubra/SP ?/FS
+Perché/CS non/BN ha/V senso/S dire/V a/E il/RD telespettatore/S che/PR un/RI esperto/S è/VA stato/V trent'/N anni/S fa/B parlamentare/A comunista/A ,/FF mentre/CS è/V giusto/A precisare/S se/CS l'/RD opinion/S leader/S in/E questione/S va/VM inserito/V ,/FF ora/B ,/FF in/E una/RI precisa/A area/S politica/A "/FB ./FS
+"/FB Ma/CC no/I ,/FF non/BN è/V così/B -/FF replica/S Ante/SP -/FB ./FS
+E/CC come/CS no/I ,/FF come/CS no/I ,/FF caro/A Ante/SP ./FS
+"/FB Molti/PI non/BN hanno/VA neppure/BN fatto/V in/E tempo/S a/E raccogliere/V gli/RD effetti/S personali/A ./FS
+Altre/DI 80/N mila/N sono/V in/E cammino/S verso/E quella/DD zona/S orientale/A di/E la/RD sacca/S di/SP Bihac/SP ancora/B in/E mano/S serba/A ./FS
+È/VA finita/V la/RD guerra/S ?/FS
+Il/RD primo/NO ministro/S Silajgic/SP ha/V da/E poco/B annunciato/V le/RD proprie/AP dimissioni/S e/CC si/PC tratta/V ora/B di/E trovare/V un/RI governo/S che/PR sbarri/S la/PC porta/V a/E la/RD dittatura/S ./FS
+Subito/B dopo/E l'/RD arresto/S Orejuela/SP è/VA stato/VA trasferito/V a/E Bogotà/SP ,/FF dove/B prima/B ancora/B di/E sottopor/S lo/PC a/E l'/RD interrogatorio/S da/E parte/S di/E i/RD magistrati/S è/VA stato/V esibito/S a/E i/RD giornalisti/S ./FS
+Il/RD concerto/S in/E Vaticano/SP per/E i/RD 50/N anni/S da/E le/RD bombe/S su/E Hiroshima/SP e/CC Nagasaki/SP si/PC lascia/V dietro/E una/RI coda/S velenosa/S ./FS
+Questa/DD ricchezza/S è/V tutta/DI apparenza/S ./FS
+L'/RD apprendista/S stregone/S ,/FF evidentemente/S ,/FF non/BN ha/VA rinunciato/V "/FB ./FS
+La/PC pensano/V a/E lo/RD stesso/A modo/S due/N turiste/S di/E Varsavia/SP ./FS
+Il/RD sub/S aveva/V la/RD regolare/A boa/S di/E avvistamento/S ma/CC l'/RD uomo/S che/PR guidava/S la/RD barca/S ,/FF Marco/SP Paradisi/SP ,/FF 33/N anni/S ,/FF di/E Sesto/SP San/SP Giovanni/SP non/BN l'/PC avrebbe/VA vista/V ./FS
+Esodo/SP controllato/V a/E Civitavecchia/SP :/FC
+In/E ospedale/S a/E Bolzano/SP e/CC Merano/SP sono/VA stati/VA ricoverati/S cinque/N escursionisti/S per/E ustioni/S e/CC alterazioni/S cardiache/S ./FS
+avevano/VA appena/B lasciato/V la/RD cima/S per/E iniziare/V la/RD discesa/S e/CC si/PC erano/V slegati/S tra/E loro/PE proprio/B per/E poter/VM affrontare/V questo/DD tratto/S in/E corda/S doppia/S ,/FF come/CS è/V norma/S elementare/A in/E alpinismo/S ./FS
+Ieri/B ,/FF la/RD polizia/S ha/VA denunciato/V in/E stato/S di/E irreperibilità/S i/RD coniugi/S napoletani/A ,/FF Luigi/SP De/SP Stasio/SP ,/FF 38/N anni/S ,/FF e/CC Anna/SP Buonaguro/SP ,/FF 36/N ,/FF con/E le/RD accuse/S rispettivamente/B di/E tentato/V omicidio/S e/CC concorso/S in/E tentato/V omicidio/S ./FS
+Sono/V venuti/S in/E due/N su/E una/RI macchina/S scura/A ,/FF forse/B una/RI Golf/S -/FF racconta/V -/FB ./FS
+L'/PC ho/VA sentito/V qualche/DI volta/S a/E il/RD telefono/S ,/FF non/BN l'/PC ho/VA mai/B visto/V ./FS
+L'/RD ex/A presidente/S antimafia/A ./FS
+"/FB Ora/B il/RD governo/S presenti/V un/RI progetto/S sfidando/S i/RD nemici/S di/E i/RD collaboratori/S "/FB ./FS
+"/FB Mi/PC pare/V che/CS siano/V proposte/A serie/S e/CC condivisibili/S "/FB ./FS
+"/FB Io/PE spero/S che/PR vengano/VA subito/B discusse/S in/E commissione/S Affari/S Costituzionali/SP e/S in/E commissione/S Giustizia/SP ./FS
+Poi/B ,/FF se/CS il/RD governo/S non/BN presenta/V un/RI progetto/S di/E legge/S ,/FF credo/V sia/CC giusto/A che/PR lo/PC facciano/V altre/DI parti/S politiche/A ./FS
+Le/RD chiavi/S di/E i/RD suoi/AP film/S sono/VA fin/B troppo/B leggibili/S e/S giuste/A "/FB ./FS
+"/FB Gli/RD spot/S antiberlusconiani/S prodotti/S da/E Moretti/SP erano/VA forse/B ammirevolmente/S donchisciotteschi/S :/FS
+il/RD filmetto/S che/PQ va/V a/E il/RD Filmstudio/SP ,/FF piace/V a/E i/RD compagni/S ,/FF viene/VA visto/V da/E Moravia/SP che/PR ne/PC scrive/V su/E l'/RD "/FB Espresso/SP "/S ,/FF eccetera/B ./FS
+gusto/S un/RI po'/S facile/A e/CC appeal/S sicuro/A ./FS
+Il/RD primo/NO "/FB apolide/S toscano/S "/FB poco/B più/B che/CS quarantenne/S ,/FF ricorda/V di/E aver/VA seguito/V ,/FF bambino/S ,/FF la/RD madre/S per/E cineforum/S che/E proiettavano/S Dreyer/SP ,/FF Bergman/SP ,/FF Kazan/SP ,/FF De/SP Sica/SP ./FS
+Da/E il/RD '93/N dirige/V il/RD Festival/S di/E Taormina/SP ./FS
+Mare/SP in/E tempesta/S vien/S fuori/B tutto/PI da/E una/RI attenta/A lettura/S di/E William/SP Turner/SP :/FC
+Capri/SP in/E la/RD nebbia/S e/CC Capri/SP a/E il/RD tramonto/S sono/V dei/DI sottili/A profili/S -/FF omaggio/S evidente/A a/E la/RD moda/S di/E il/RD panorama/S -/FF di/E le/RD verdeggianti/S piane/S tra/E Cetrella/SP e/CC la/RD Migliara/SP :/FS
+inquietanti/A delitti/S ,/FF anche/B a/E luci/S rosse/A ./FS
+Celli/SP ,/FF la/RD morte/S arriva/V come/E le/RD vespe/S d'/E autunno/S ./FS
+Chi/PQ ha/VA ucciso/V l'/RD ingegner/S Reali/SP ?/FS
+Abbiamo/VA cercato/V di/E presentare/V una/RI interpretazione/S diversa/A ./FS
+Adesso/B devo/VM fare/V da/E cuscinetto/S tra/E lui/PE e/CC i/RD battiti/S di/E il/RD suo/AP cuore/S "/FB ./FS
+Era/V in/E platea/S ,/FF è/VA andato/V via/B soltanto/B mezz'/S ora/B prima/B di/E il/RD finale/S ./FS
+E/CC la/RD pubblicità/S di/E i/RD telefoni/S erotici/A non/BN si/PC ferma/V un/RI attimo/S ,/FF tutta/T la/RD notte/S ?/FS
+L'/RD ex/A adolescente/S ribelle/A :/FC
+Il/RD Comune/S non/BN pulisce/S questi/PD scarabocchi/S perché/CS i/RD "/FB pittori/S "/FB li/PC rifarebbero/S ./FS
+A/E il/RD casello/S ,/FF dopo/E 240/S km/S circa/B ,/FF pago/A L./S 22.500/S ,/FF commentando/S sfavorevolmente/S il/RD fatto/S che/PR la/RD cifra/S sia/CC di/E poco/B inferiore/A a/E il/RD costo/S di/E la/RD benzina/S consumata/S per/E quel/DD tratto/S ./FS
+con/E questa/DD semplice/A enumerazione/S di/E attività/S i/RD contadini/S di/E il/RD mio/AP paese/S descrivono/S un'/RI esperienza/S squisita/S ,/FF in/E cui/DR liberazione/S e/CC sollievo/S si/PC mescolano/S con/E la/RD contemplazione/S ./FS
+Dopo/E Liegi/SP e/S in/E attesa/S (/FB giovedì/S )/FB di/E il/RD Benfica/SP a/E Lisbona/SP ,/FF ecco/B Berlino/SP dove/B stasera/B (/FB ore/S 21/N ,/FF diretta/A Tv/S su/E Italia/SP 1/N )/FB il/RD Milan/SP affronterà/S il/RD Bayern/SP Monaco/SP appena/B castigato/S da/E la/RD Fiorentina/SP in/E l'/RD ennesimo/NO festival/S Opel/SP ./FS
+"/FB Queste/PD sono/V faccende/S che/CS non/BN mi/PC riguardano/V -/FF taglia/V corto/A Capello/SP -/FB ./FS
+Se/CS ne/PC va/V ,/FF come/E Lewis/SP ,/FF senza/E partecipare/V (/FB ufficiale/A ,/FF salpa/S mercoledì/S )/FB ./FS
+Non/BN subito/B ,/FF almeno/B ./FS
+Due/N giorni/S di/E Mondiale/A e/CC Goteborg/SP ,/FF la/RD sua/AP pista/S ,/FF il/RD suo/AP stadio/S ,/FF sembrano/V già/B un/RI grande/A testimone/S :/FC
+Ha/VA distanziato/S tutte/T le/RD rivali/S lungo/E i/RD tornanti/S di/E il/RD celebre/A passo/S pirenaico/S ./FS
+La/RD situazione/S arbitrale/S è/V pessima/S e/CC rischia/V di/E esplodere/V durante/E il/RD campionato/S ,/FF inquinando/S lo/PC ./FS
+un/RI po'/S per/E dare/V soddisfazione/S a/E quei/DD presidenti/S che/PR l'/RD anno/S scorso/A accusarono/S il/RD designatore/S di/E favorire/V la/RD Juve/SP ./FS
+Il/RD ginocchio/S mi/PC fa/V sempre/B un/RI po'/S male/B ,/FF ma/CC gli/RD ultimi/NO test/S a/E il/RD Sestriere/SP mi/PC hanno/VA dato/V molta/DI sicurezza/S e/CC l'/RD ora/S di/E la/RD gara/S è/V ottima/A "/FB ./FS
+"/FB La/RD marcia/S è/V più/B brava/A di/E altre/DI discipline/S a/B trovare/V i/RD talenti/S e/CC a/E non/BN perder/V li/PC per/E strada/S "/FB ./FS
+Così/B diventa/V first/S lady/S ./FS
+È/VA stata/V quello/PD che/PR ci/PC si/PC attendeva/S :/FS
+È/V solo/B gran/A confusione/S ./FS
+C'/PC è/V gente/S nuova/A da/E ieri/B in/E pista/S ,/FF la/PC copre/V veloce/A :/FC
+Allora/B mi/PC sono/VA innervosita/S e/CC ho/V temuto/A la/RD beffa/S ./FS
+Sembrava/SP un/RI amore/S destinato/V a/E finire/V subito/B ,/FF invece/B il/RD rapporto/S andò/V avanti/B fino/B a/E le/RD nozze/S ,/FF celebrate/S due/N anni/S fa/A ./FS
+Precisa/E la/RD trasformazione/S di/E Stoichkov/SP da/E il/RD dischetto/S (/FB 43'/S )/FB ./FS
+Il/RD caso/S di/E il/RD cavallo/S ,/FF non/BN trattato/V con/E cocaina/S ,/FF eccitanti/S e/CC carburanti/S micidiali/S ,/FF ma/CC solo/B curato/S con/E farmaci/S e/CC antinfiammatori/S necessari/A ,/FF pur/B se/CS proibiti/S ,/FF è/V ulteriore/A stimolo/S per/E un/RI approfondimento/S di/E la/RD questione/S :/FC
+si/PC è/VA accordata/V con/E Johnny/SP Newman/SP ,/FF 32/N anni/S ,/FF ottimo/A attaccante/S di/E 2,01/S ,/FF proveniente/V da/E i/RD Milwaukee/SP Bucks/SP ./FS
+"/FB Anche/B in/E la/RD passata/A stagione/S -/FF dice/V Vialli/SP -/FF siamo/VA stati/V loro/AP nemici/S ,/FF certi/DI interventi/S sembrano/V fatti/V su/E misura/S contro/E di/E noi/PE ./FS
+E/CC se/CS d'/E ora/S in/E poi/B ,/FF in/E virtù/S di/E questi/DD nuovi/A accordi/S fra/E i/RD dirigenti/S ,/FF dovessero/S trattar/V ci/PC meglio/B ,/FF commetterebbero/S comunque/B un'/RI ingiustizia/S :/FS
+Io/PE credo/V che/CS a/E la/RD fine/S sia/VA meglio/B risparmiar/S si/PC durante/E l'/RD estate/S e/CC dare/V tutto/PI in/E inverno/S per/E vincere/V ,/FF perché/CS poi/B si/PC ha/V un/RI ritorno/S economico/A superiore/A quando/CS c'/PC è/V la/RD possibilità/S di/E mostrare/V un/RI trofeo/S ./FS
+"/FB Baggio/SP ,/FF Savicevic/SP e/CC Weah/SP possono/VM giocare/V insieme/B ./FS
+Dopo/E Varese/SP aveva/VA ridotto/V tutto/PI a/E un/RI proficuo/S allenamento/S ,/FF ma/CC l'/RD Inter/SP di/E il/RD primo/NO tempo/S (/FB quello/PD "/FB serio/A "/FB )/FB è/V sembrata/S qualcosa/PI in/E più/B di/E una/RI squadra/S solamente/B volenterosa/S ./FS
+Più/B recenti/A i/RD lutti/S ,/FF per/E due/N incidenti/S stradali/A questa/DD volta/S ,/FF che/PR hanno/VA coinvolto/V lombardi/S su/E la/RD "/FB strada/S di/E la/RD morte/S "/FB fra/E Nairobi/SP e/CC Mombasa/SP ,/FF un'/RI arteria/S stretta/A e/CC malsicura/S collegata/V a/E i/RD parchi/S nazionali/A più/B importanti/A ./FS
+In/E il/RD pozzetto/S anche/B la/RD moglie/S e/CC i/RD due/N figli/S piccoli/A ./FS
+Conseguenza/B ,/FF con/E tutta/DI probabilità/S ,/FF di/E un/RI pasto/S consumato/S subito/V prima/B di/E gettar/S si/PC in/E mare/S ./FS
+Subito/B è/VA stato/V interpellato/S don/SP Tomba/SP ,/FF parroco/S di/E la/RD chiesa/S di/E la/RD Morte/S (/FB proprio/B così/B )/FB ,/FF uno/PI di/E i/RD due/N esorcisti/S di/E la/RD diocesi/S nominati/V da/E il/RD vescovo/S Girolamo/SP Grillo/SP ,/FF ora/B in/E vacanza/S da/E il/RD fratello/S a/E Miami/SP ./FS
+Su/E lo/RD sfondo/S di/E tante/DI torbide/S vicende/S c'/PC è/V la/RD "/FB città/S degradata/S "/S ,/FF la/RD mancanza/S di/E lavoro/S ,/FF il/RD porto/S in/E declino/S ,/FF il/RD contesto/S sociale/A difficile/A ./FS
+Da/E una/PI ,/FF Luigi/SP sorride/V con/E i/RD due/N bambini/S Castiglioni/SP ,/FF anche/B loro/PE ammazzati/A ieri/B ,/FF mentre/CS si/PC avviavano/S a/E una/RI giornata/S allegra/S ./FS
+A/E i/RD balconi/S si/PC affacciano/V donne/S anziane/A ,/FF pensionati/S e/CC parlano/V ad/E alta/A voce/S :/FC
+Negozi/SP e/CC servizi/S aperti/S per/E ferie/S ./FS
+In/E periferia/S ,/FF calcola/S infatti/CC l'/RD Osservatorio/SP di/SP Milano/SP ,/FF va/V in/E ferie/S solo/B una/RI persona/S su/E due/N :/FC
+Slot/RD machine/S abusive/S in/E un/RI bar/S di/E piazza/S San/SP Giovanni/SP dove/B hanno/VA fatto/V irruzione/S gli/RD agenti/S di/E il/RD commissariato/S Esquilino/SP ./FS
+"/FB È/VA finito/V in/E il/RD museo/S insieme/B ad/E altre/DI cose/S "/FB ,/FF ci/PC assicura/V il/RD colonnello/S Roland/SP Buchs/SP Binz/SP ,/FF il/RD trentesimo/S comandante/S di/E il/RD Corpo/S ./FS
+In/E armeria/S ci/PC sono/V 300/N armature/S di/E le/RD quali/DR 50/N hanno/VA più/B di/E tre/N secoli/S ./FS
+Le/RD buone/A cose/S di/E Herr/SP Meier/SP ./FS
+a/E il/RD signor/S Meier/SP piaceva/V molto/B ,/FF infatti/B ,/FF arricchire/S la/RD sua/AP casa/S con/E piccole/A collezioni/S ./FS
+In/E questa/DD pagina/S ,/FF una/RI poltroncina/S e/CC due/N sedie/S di/E accurata/A ebanisteria/S viennese/A ./FS
+La/RD mostra/S ,/FF il/RD cui/DR allestimento/S ha/VA richiesto/V 41,7/S milioni/S di/E scellini/S (/FB oltre/B 4/N miliardi/S di/E lire/S )/FB ,/FF si/PC estende/V su/E una/RI superficie/S di/E 2500/N metri/S quadri/S e/CC si/PC prevede/V che/CS viaggerà/S ./FS
+Il/RD suo/AP nome/S nasce/V ,/FF in/E maniera/S abbastanza/B singolare/A ,/FF da/E l'/RD estro/S di/E due/N umoristi/S svevi/S ,/FF Adolph/SP Kussmaul/SP e/CC Ludwig/SP Eichrodt/SP ./FS
+il/RD buon/A Rossi/SP in/E Italia/SP ,/FF il/RD buon/A Smith/SP in/E Inghilterra/SP ,/FF il/RD buon/A Dupont/SP in/E Francia/SP ./FS
+e/CC a/E colonna/S è/V pure/B la/RD stufa/S di/E ceramica/S ,/FF con/E rilievi/S floreali/S ./FS
+Questi/DD ultimi/NO hanno/V frequenti/A rivestimenti/S in/SW reps/S rigato/S ./FS
+Frequenti/SP erano/V i/RD tavoli/S ovali/S e/CC ancor/B più/B le/RD scrivanie/S ,/FF specie/S per/E signora/S ,/FF complete/S di/E poggiapiedi/S imbottito/S ,/FF con/E un'/RI alzatina/S elicoidale/S con/E cassettini/S e/X due/N colonne/S laterali/A che/PR potevano/VM contenere/V di/E le/RD piante/S ./FS
+la/RD stessa/A che/PR fa/V anche/B stendere/V su/E il/RD pavimento/S pelli/S di/E tigre/S ./FS
+Il/RD mobiliere/S che/PR le/PC diede/V il/RD proprio/AP nome/S ,/FF chiamato/V a/E Vienna/SP da/E Metternich/SP per/E una/RI serie/S di/E lavori/S importanti/A ,/FF vi/PC giunse/S portando/V il/RD legno/S di/E faggio/S di/E la/RD Moravia/SP ./FS
+a/E i/RD vetri/S di/E Boemia/SP e/S di/E Moravia/SP ,/FF a/E le/RD porcellane/S di/E la/RD Manifattura/SP di/SP Vienna/SP ,/FF a/E i/RD prodotti/S tessili/A (/FB da/E i/RD tappeti/S a/E i/RD campionari/S di/E stoffe/S di/E i/RD rappresentanti/S )/FB ,/FF a/E la/RD moda/S ./FS
+Collezione/SP "/FB Bi/SP Marmi/SP "/S ,/FF (/FB distr./S da/E Palazzo/SP )/FB in/E marmo/S naturale/A ,/FF assemblato/S a/E mosaico/S ./FS
+L./S 90.000/S il/RD mq/S ./FS
+Cm/SP 60x60/S e/CC uno/RI spessore/S di/E mm/S 7/N ./FS
+"/FB Stoneglass/SP "/S ,/FF di/E Stone/SP Italia/SP ,/FF con/E frammenti/S di/E vetro/S colorato/A ./FS
+Da/E L./S 135.000/S a/E L./S 160.000/S il/RD mq/S (/FB tipi/S smaltati/S lisci/S )/FB ./FS
+Da/E il/RD momento/S che/PR il/RD prodotto/S è/VA prefinito/S e/CC lucidato/S ,/FF si/PC possono/VM eseguire/V anche/B pose/V "/FB controllate/V "/FB ,/FF ovvero/CC stabilire/V in/E anticipo/S quale/DQ direzione/S dare/V a/E le/RD venature/S oppure/CC scegliere/V la/RD sfumatura/S di/E colore/S ,/FF possibilità/S non/BN consentite/S da/E il/RD materiale/S grezzo/S che/CS non/BN lascia/V bene/B intuire/V il/RD suo/AP aspetto/S finale/A ./FS
+Il/RD primo/NO stacca/V la/RD mattina/S da/E il/RD pomeriggio/S ed/CC è/VA fatto/V apposta/B per/E recuperare/V energia/S e/CC spezzare/S in/E due/N il/RD ritmo/S di/E lo/RD stress/S ./FS
+Trattieni/E il/RD respiro/S per/E cinque/N secondi/S ,/FF poi/B espira/S piano/B piano/S ,/FF ripetendo/S mentalmente/S la/RD parola/S "/FB rilassati/S "/FB ./FS
+Su/E le/RD zone/S da/E rimodellare/S (/FB fianchi/S ,/FF cosce/S ,/FF sedere/S )/FB vengono/VA applicate/V placche/S che/CS ,/FF riscaldate/S ,/FF mantengono/S il/RD calore/S a/E 40/N gradi/S ,/FF favorendo/V l'/RD aumento/S di/E la/RD circolazione/S sanguigna/S e/S di/E il/RD metabolismo/S di/E i/RD grassi/S ./FS
+Riorganizzare/B ,/FF trasformare/V ,/FF rimettere/V in/E ordine/S ,/FF cambiare/V le/RD solite/S abitudini/S ,/FF sono/V i/RD verbi/S vincenti/S per/E affrontare/V la/RD nuova/A stagione/S in/E perfetta/A forma/S fisica/A e/CC mentale/A ./FS
+Di/E rigore/S ,/FF per/E tutte/PI ,/FF un/RI buon/A ricostituente/S :/FS
+Se/CS appaiono/V di/E i/RD peluzzi/S intorno/B a/E il/RD capezzolo/S ,/FF ricorri/S a/E il/RD consiglio/S di/E un/RI endocrinologo/S :/FS
+Se/CS la/RD spina/S dorsale/S non/BN è/V proprio/B diritta/S ,/FF la/RD prima/NO a/E far/V ne/PC le/RD spese/S è/V proprio/B la/RD pancia/S che/PR "/FB spunta/S in/E fuori/B "/FB a/E causa/S di/E un/RI portamento/S sbagliato/A ./FS
+Per/E l'/RD intossicamento/S fisiologico/A ,/FF segui/S una/RI dieta/S equilibrata/S ,/FF povera/A di/E grassi/S e/CC ricca/A di/E fibre/S grezze/S e/CC alimenti/S integrali/S che/E stimolano/S le/RD funzioni/S intestinali/S ./FS
+Friziona/SP le/PC tutti/T i/RD giorni/S con/E un/RI guanto/S di/E crine/S e/CC leviga/S la/RD pelle/S ,/FF non/BN più/B di/E una/RI volta/S la/RD settimana/S sotto/E la/RD doccia/S ,/FF con/E uno/RI scrubbing/S esfoliante/S come/E Grain/SP Fin/SP di/SP Jeanne/SP Piaubert/SP a/E i/RD polimeri/S addolcenti/S ,/FF e/CC se/CS preferisci/V il/RD gel/S c'/PC è/V quello/PD exfoliant/S di/E Vichy/SP tonificante/S ./FS
+Stanno/SP lì/B ,/FF ben/B dilatati/S ,/FF pronti/A a/E riempir/V si/PC di/E acqua/S e/CC scorie/S (/FB ecco/B la/RD cellulite/S )/FB a/E trasformare/V una/RI linea/S netta/A in/E una/RI curva/S di/E troppo/B ./FS
+"/FB Creme/SP Minceur/SP "/S di/E Orlane/SP ./FS
+Vediamo/V prima/B di/E tutto/T i/RD fatti/S ./FS
+Il/RD dottor/S Guyjon/SP ,/FF medico/S personale/A di/E Allende/SP ,/FF lo/PC disse/V subito/B ,/FF 14/N anni/S fa/B ,/FF che/CS Allende/SP si/PC era/VA suicidato/V ./FS
+Di/E certe/DI verità/S "/FB ,/FF ha/VA scritto/V Analysis/SP ,/FF "/FB è/V meglio/B discutere/V ,/FF che/PR negar/S le/RD "/FB ./FS
+Piccoli/SP omicidi/S senza/E importanza/S ./FS
+Chi/PQ non/BN sa/V a/E che/DQ santo/S votar/S si/PC ,/FF ricorre/V a/E il/RD mito/S di/E la/RD frontiera/S ,/FF a/E quel/DD Far/SP West/SP che/PR sarebbe/VA ancora/B vicinissimo/S a/E la/RD memoria/S collettiva/A di/E gli/RD americani/S e/CC li/PC indurrebbe/S ,/FF inconsciamente/S ,/FF a/E mettere/V mano/S a/E la/RD fondina/S con/E la/RD stessa/A disinvoltura/S di/E i/RD nonni/S che/E sparavano/S a/E gli/RD indiani/S o/CC proteggevano/S la/SW fattoria/S da/E i/RD fuorilegge/S ./FS
+a/E impatto/S ,/FF ossia/CC a/E 24/N aghi/S ;/FC a/X non/BN impatto/S e/CC quindi/B a/E getto/S d'/E inchiostro/S (/FB ink/S jet/S )/FB ;/FC laser/S ./FS
+Per/E quanto/PR riguarda/V il/RD secondo/NO sistema/S si/PC registra/V invece/B ,/FF a/E fronte/S di/E qualità/S e/CC silenziosità/S elevate/S ,/FF una/RI velocità/S di/E stampa/S abbastanza/B contenuta/S ./FS
+Sono/V anche/B già/B pronti/A i/RD primi/NO software/S ,/FF come/CS Illustrator/SP 88/N e/CC XPress/SP 2.0/S (/FB entrambi/PI destinati/V a/E il/RD Macintosh/SP II/A di/E la/RD Apple/SP )/FB capaci/A di/E produrre/V immagini/S e/CC documenti/S in/E quadricromia/S ,/FF per/E cui/PR un/RI futuro/S da/E editore/S quasi/B professionale/A è/V ormai/B a/E la/RD portata/S di/E tutte/T le/RD aziende/S ./FS
+Pallucca/SP ,/FF prima/B di/E il/RD trapianto/S ,/FF aveva/VA subito/B tre/N infarti/S e/CC aveva/V quattro/N by-pass/S ./FS
+Trascorrevo/E i/RD giorni/S su/E una/RI sedia/S a/E rotelle/S ,/FF mi/PC mancava/S il/RD fiato/S per/E riposare/S ,/FF pesavo/S 46/N chili/S ./FS
+in/E alto/A ,/FF il/RD laboratorio/S di/E analisi/S (/FB qui/B un/RI esame/S di/E il/RD sangue/S viene/VA compiuto/V in/E 14/N secondi/S )/FB ;/FC
+Uomini/B ,/FF donne/S ,/FF vecchi/A ,/FF bambini/S ./FS
+Elisabeth/SP Cole/SP ,/FF responsabile/A di/E la/RD corrispondenza/S con/E i/RD clienti/S ,/FF ha/VA ricevuto/V il/RD mese/S scorso/A ben/B 547/S lettere/S di/E obesi/S delusi/S ./FS
+I/RD figli/S di/E William/SP Mayo/SP seguirono/S le/RD orme/S paterne/S ;/FC
+"/FB Due/N medici/S di/E la/RD Mayo/SP ,/FF Edward/SP C./SP Kendall/SP e/CC Philips/SP S./SP Hench/SP ,/FF hanno/VA ottenuto/V in/E il/RD 1950/S il/RD premio/S Nobel/SP per/E avere/V scoperto/V il/RD cortisone/S ./FS
+Una/RI libertà/S che/PR ,/FF a/E quanto/PR pare/V ,/FF ha/VA dato/V i/RD suoi/AP frutti/S :/FC
+"/FB Per/E piacere/S evitate/S di/SP parlare/V tra/E voi/PE di/E le/RD vostre/AP malattie/S "/FB ./FS
+Eppure/B ,/FF prosegue/V la/RD lettera/S ,/FF a/E tutti/PI è/V noto/A che/CS il/RD Costanzo/SP decedette/S in/E il/RD giorno/S stesso/A in/E cui/PR a/E Livorno/SP con/E gli/RD amici/S aveva/VA celebrato/S il/RD raggiunto/V miliardo/S ./FS
+2/N )/FB Quattro/N edifici/S in/E Roma/SP di/E il/RD valore/S totale/A ,/FF a/E la/RD sua/AP morte/S ,/FF di/E circa/B 5/N milioni/S ./FS
+Romana/SP elettricità/S ,/FF azioni/S 1400/S ;/FC Terni/SP ,/FF azioni/S 300/N ;/FC Montecatini/SP ,/FF azioni/S 2000/N ;/FC Valdarno/SP ,/FF azioni/S 1000/N ;/FC Metallurgica/SP ,/FF azioni/S 1000/N ;/FC Navigazione/SP generale/A ,/FF azioni/S 300/N ;/FC Ilva/SP ,/FF azioni/S 500/N ;/FC Anic/SP ,/FF azioni/S 1000/N ;/FC Amiata/SP ,/FF azioni/S 700/N ;/FC Imi/SP ,/FF azioni/S 100/N ;/FC Consorzio/SP credito/S opere/S pubbliche/A ,/FF azioni/S 24/N ;/FC Buoni/SP di/E il/RD tesoro/S ,/FF lire/S 1.000.000/S ;/FC contante/S ,/FF lire/S 355.089,40/S ;/FC conto/S corrente/A postale/S ,/FF lire/S 32.975/S ./FS
+così/B ad/E es./S ,/FF in/E l'/RD acquisto/S e/CC in/E la/RD rivendita/S di/E valori/S azionari/S ,/FF come/CS pure/B in/E il/RD traffico/S di/E i/RD beni/S immobiliari/A e/CC in/E altre/DI speculazioni/S di/E il/RD genere/S in/E modo/S che/PR attualmente/B disporrebbe/S di/E un/RI cospicuo/S patrimonio/S ,/FF ma/CC ,/FF per/E le/RD sue/AP origini/S ,/FF di/E assai/B dubbia/S provenienza/S ./FS
+(/FB 4/N )/FB Il/RD proprietario/S può/VM escludere/V chiunque/PI altro/A da/E il/RD godimento/S di/E la/RD cosa/S :/FC
+inoltre/B è/V impossibile/A che/PR su/E lo/RD stesso/A bene/B esistano/S più/DI diritti/S di/E proprietà/S [/FB v./V 1100/S ]/FB ./FS
+Particolarmente/SP interessante/A è/V la/RD disciplina/S di/E i/RD limiti/S legali/A di/E la/RD proprietà/S che/PR possono/VM essere/V divisi/A in/E due/N categorie/S :/FC
+Le/RD norme/S relative/A a/E l'/RD espropriazione/S per/E causa/S di/E pubblico/A interesse/S (/FB 1/N )/FB sono/VA determinate/V da/E leggi/S speciali/A (/FB 2/N )/FB ./FS
+Egli/PE può/VM sempre/B oppor/V si/PC a/E chi/PR non/BN è/VA munito/S di/E la/RD licenza/S rilasciata/V da/E l'/RD autorità/S ./FS
+Il/RD proprietario/S di/E un/RI fondo/S non/BN può/VM impedire/V le/RD immissioni/S di/E fumo/S o/CC di/E calore/S ,/FF le/RD esalazioni/S ,/FF i/RD rumori/S ,/FF gli/RD scuotimenti/S e/S simili/A propagazioni/S (/FB 1/N )/FB derivanti/V da/E il/RD fondo/S (/FB 2/N )/FB di/E il/RD vicino/S (/FB 3/N )/FB ,/FF se/CS non/BN superano/V la/RD normale/A tollerabilità/S ,/FF avuto/V anche/B riguardo/B a/E la/RD condizione/S di/E i/RD luoghi/S ./FS
+3/N )/FB le/RD aree/S fabbricabili/S ;/FC
+Il/RD credito/S relativo/A è/VA privilegiato/S a/E norma/S di/E le/RD leggi/S speciali/A ./FS
+858/S ./FS Comprensorio/SP di/E bonifica/S e/CC piano/S di/E le/RD opere/S ./FS
+Deve/VM inoltre/B eseguire/V le/RD opere/S che/PR occorrono/S per/E non/BN danneggiare/V il/RD vicino/S [/FB 877/N ]/FB ./FS
+in/E ogni/DI caso/S la/RD positura/S di/E il/RD piovente/S prevale/S su/E tutti/T gli/RD altri/A indizi/S ./FS
+Chi/PQ vuol/VM piantare/S alberi/S presso/E il/RD confine/S deve/VM osservare/V le/RD distanze/S stabilite/V da/E i/RD regolamenti/S e/CC ,/FF in/E mancanza/S ,/FF da/E gli/RD usi/S locali/A ./FS
+1/N )/FB tre/N metri/S per/E gli/RD alberi/S di/E alto/A fusto/S ./FS
+vedute/S o/CC prospetti/S ,/FF quando/CS permettono/V di/E affacciar/V si/PC e/CC di/E guardare/V di/E fronte/S ,/FF obliquamente/S o/CC lateralmente/S ./FS
+907/N ./FS Distanza/S di/E le/RD costruzioni/S da/E le/RD vedute/S ./FS
+Il/RD proprietario/S di/E un/RI fondo/S limitato/A o/CC attraversato/V da/E un'/RI acqua/S non/BN pubblica/A ,/FF che/PR corre/V naturalmente/B e/CC su/E la/RD quale/PR altri/PI non/BN ha/V diritto/S ,/FF può/VM ,/FF mentre/CS essa/PE trascorre/S ,/FF far/V ne/PC uso/S per/E l'/RD irrigazione/S di/E i/RD suoi/AP terreni/S e/CC per/E l'/RD esercizio/S di/E le/RD sue/AP industrie/S ,/FF ma/CC deve/VM restituire/V le/RD colature/S e/CC gli/RD avanzi/S a/E il/RD corso/S ordinario/S (/FB 1/N )/FB ./FS
+913/S ./FS Scolo/SP di/E le/RD acque/S ./FS
+Il/RD codice/S preferisce/V che/CS i/RD proprietari/S contribuiscano/S a/E la/RD spesa/S in/E proporzione/S di/E l'/RD utilità/S che/PR derivano/V da/E tali/DD opere/S e/CC non/BN in/E base/S a/E l'/RD estensione/S di/E il/RD terreno/S ./FS
+923/N ./FS Cose/S suscettibili/A di/E occupazione/S ./FS
+925/SP ./FS Animali/SP mansuefatti/S ./FS
+Il/RD sindaco/S rende/V nota/A la/RD consegna/S [/FB 927/N ]/FB per/E mezzo/S di/E pubblicazione/S in/E l'/RD albo/S pretorio/S di/E il/RD comune/A ,/FF da/E far/V si/PC per/E due/N domeniche/S successive/A e/CC da/E restare/V affissa/S per/E tre/N giorni/S ogni/DI volta/S ./FS
+il/RD ritrovamento/S e/CC il/RD decorso/S di/E il/RD tempo/S senza/E che/PR nessuno/PI abbia/VA reclamato/S la/RD cosa/S ./FS
+il/RD costruttore/S può/VM chiedere/V a/E il/RD giudice/S di/E attribuir/V gli/PC la/RD proprietà/S di/E il/RD fondo/S occupato/V se/CS il/RD proprietario/S di/E il/RD fondo/S non/BN si/PC sia/V opposto/S ./FS
+Egli/PE ha/V l'/RD obbligo/S di/E pagare/V a/E l'/RD altro/A il/RD valore/S di/E la/RD cosa/S che/PR vi/PC è/VA unita/V o/CC mescolata/S ;/FC
+947/S ./FS Mutamenti/SP di/E il/RD letto/S di/E i/RD fiumi/S derivanti/V da/E regolamento/S di/E il/RD loro/AP corso/S ./FS
+La/RD disposizione/S di/E l'/RD art./S 941/S non/BN si/PC applica/V in/E il/RD caso/S in/E cui/PR le/RD alluvioni/S derivano/V da/E regolamento/S di/E il/RD corso/S di/E i/RD fiumi/S ,/FF da/E bonifiche/S o/CC da/E altri/DI fatti/S artificiali/A indotti/S da/E l'/RD attività/S antropica/S ./FS
+Di/E il/RD pari/A può/VM alienare/S la/RD proprietà/S di/E la/RD costruzione/S già/B esistente/V ,/FF separatamente/B da/E la/RD proprietà/S di/E il/RD suolo/S [/FB 956/S ]/FB (/FB 1/N )/FB (/FB 2/N )/FB ./FS
+Ispirato/SP a/S chiare/A finalità/S economiche/A e/CC sociali/A (/FB una/RI più/B razionale/S ed/CC efficace/A utilizzazione/S di/E le/RD aree/S urbane/S fabbricabili/S )/FB ,/FF il/RD legislatore/S di/E il/RD '42/S ha/VA ritenuto/V di/E dare/V ,/FF per/E la/RD prima/NO volta/S ,/FF una/RI disciplina/S organica/S di/E l'/RD istituto/S in/E esame/S ./FS
+Se/CS la/RD costituzione/S di/E il/RD diritto/S è/VA stata/VA fatta/V per/E un/RI tempo/S determinato/A ,/FF a/E lo/RD scadere/S di/E il/RD termine/S (/FB 1/N )/FB il/RD diritto/S di/E superficie/S si/PC estingue/V e/CC il/RD proprietario/S di/E il/RD suolo/S diventa/V proprietario/S di/E la/RD costruzione/S [/FB 934/N ]/FB (/FB 2/N )/FB (/FB 3/N )/FB ./FS
+Il/RD perimento/S di/E la/RD costruzione/S non/BN importa/V ,/FF salvo/A patto/S contrario/A ,/FF l'/RD estinzione/S di/E il/RD diritto/S di/E superficie/S (/FB 1/N )/FB ./FS
+L'/RD enfiteusi/S fu/VA introdotta/S in/E il/RD codice/S di/E il/RD 1865/S per/E venire/V incontro/S ad/E un'/RI esigenza/S economica/A assai/B sentita/V in/E un/RI paese/S agricolo/A quale/PR l'/RD Italia/SP :/FC
+La/RD domanda/S di/E riduzione/S di/E il/RD canone/S e/CC la/RD rinunzia/S a/E il/RD diritto/S non/BN sono/VA ammesse/S ,/FF decorso/V un/RI anno/S da/E l'/RD avvenuto/A perimento/S (/FB 2964/N e/CC seguenti/A )/FB ./FS
+977/SP ./FS Enfiteusi/SP costituite/V da/E le/RD persone/S giuridiche/A ./FS
+Egli/PE può/VM trarre/V da/E la/RD cosa/S ogni/DI utilità/S che/PR questa/PD può/VM dare/V (/FB 1998/N )/FB ,/FF fermi/A i/RD limiti/S stabiliti/V in/E questo/DD capo/S ./FS
+987/SP ./FS Miniere/SP ,/FF cave/S e/CC torbiere/S ./FS
+L'/RD usufruttuario/S deve/VM inoltre/B dare/V idonea/A garanzia/S (/FB 1179/S )/FB ./FS
+1012/SP ./FS Usurpazioni/SP durante/E l'/RD usufrutto/S e/CC azioni/S relative/A a/E le/RD servitù/S ./FS
+La/RD stessa/A disposizione/S si/PC applica/V se/CS l'/RD usufrutto/S è/VA stabilito/V soltanto/B sopra/E un/RI edificio/S ./FS
+1019/S ./FF Perimento/S di/E cosa/PQ assicurata/V da/E l'/RD usufruttuario/S ./FS
+Si/PC comprendono/V inoltre/B i/RD figli/S adottivi/S (/FB 291/S e/S seguenti/A )/FB ,/FF i/RD figli/S naturali/A riconosciuti/V (/FB 250/S e/S seguenti/A )/FB e/CC gli/RD affiliati/S (/FB 404/S e/S seguenti/A )/FB ,/FF anche/B se/CS l'/RD adozione/S ,/FF il/RD riconoscimento/S o/CC l'/RD affiliazione/S sono/VA seguiti/V dopo/B che/CS il/RD diritto/S era/V già/B sorto/V ./FS
+1028/SP ./FS Nozione/SP di/E l'/RD utilità/S ./FS
+1037/SP ./FS Condizioni/SP per/E la/RD costituzione/S di/E la/RD servitù/S ./FS
+ma/CC in/E i/RD terreni/S medesimi/A il/RD proprietario/S di/E il/RD fondo/S servente/A può/VM fare/V piantagioni/S e/CC rimuovere/V e/CC trasportare/V le/RD materie/S ammucchiate/S ,/FF purché/CS tutto/PI segua/S senza/E danno/S a/E l'/RD acquedotto/S ,/FF di/E il/RD suo/AP spurgo/S e/CC di/E la/RD sua/AP riparazione/S ./FS
+Di/E l'/RD appoggio/S e/CC di/E l'/RD infissione/S di/SP chiusa/V ./FS
+Chi/PQ ha/V diritto/S di/E derivare/V acque/S da/E fiumi/S ,/FF torrenti/S ,/FF rivi/S ,/FF canali/S ,/FF laghi/S o/CC serbatoi/S può/VM ,/FF qualora/CS sia/V necessario/A ,/FF appoggiare/V o/CC infiggere/S una/PI chiusa/V a/E le/RD sponde/S ,/FF con/E l'/RD obbligo/S però/B di/E pagare/V la/RD indennità/S e/CC di/E fare/V e/CC mantenere/V le/RD opere/S atte/A ad/E assicurare/V i/RD fondi/S da/E ogni/DI danno/S (/FB 1032/N )/FB ./FS
+Qualora/CS si/PC verifichi/S un/RI mutamento/S in/E le/RD condizioni/S originarie/S ,/FF la/RD derivazione/S può/VM essere/VA soppressa/S su/E istanza/S di/E l'/RD una/PI o/CC di/E l'/RD altra/A parte/S ./FS
+ma/CC l'/RD autorità/S giudiziaria/A può/VM disporre/V una/RI riduzione/S di/E la/RD somma/S ,/FF avuto/V riguardo/S a/E la/RD durata/S di/E la/RD servitù/S e/CC a/E il/RD danno/S sofferto/S ./FS
+In/E il/RD dubbio/S circa/B l'/RD estensione/S e/CC le/RD modalità/S di/E esercizio/S ,/FF la/RD servitù/S deve/VM ritener/V si/PC costituita/V in/E guisa/S da/E soddisfare/V il/RD bisogno/S di/E il/RD fondo/S dominante/A con/E il/RD minor/A aggravio/S di/E il/RD fondo/S servente/A ./FS
+La/RD servitù/S si/PC estingue/V (/FB 853/N ,/FF 2812/S )/FB ,/FF quando/CS in/E una/RI sola/A persona/S si/PC riunisce/V la/RD proprietà/S di/E il/RD fondo/S dominante/A con/E quella/PD di/E il/RD fondo/S servente/A ./FS
+Il/RD modulo/S è/V l'/RD unità/S di/E misura/S di/E l'/RD acqua/S corrente/A ./FS
+Parimenti/SP si/PC fa/V luogo/S a/E le/RD dovute/A indennità/S in/E conseguenza/S di/E le/RD modificazioni/S o/CC limitazioni/S di/E turni/S ,/FF che/PR siano/VA state/VA disposte/S da/E l'/RD autorità/S giudiziaria/A ./FS
+Di/E la/RD servitù/S di/E gli/RD scoli/S e/CC di/E gli/RD avanzi/S di/E acqua/S ./FS
+Per/E gli/RD assenti/S il/RD termine/S decorre/V da/E il/RD giorno/S in/E cui/PR è/VA stata/V loro/PE comunicata/V la/RD deliberazione/S ./FS
+Chi/PQ ha/VA ricevuto/V il/RD pagamento/S è/VA tenuto/V a/E la/RD restituzione/S verso/E il/RD vero/A creditore/S ,/FF secondo/E le/RD regole/S stabilite/V per/E la/RD ripetizione/S di/E l'/RD indebito/S ./FS
+Il/RD deposito/S che/PR ha/V per/E oggetto/S somme/S di/E danaro/S può/VM eseguir/S si/PC anche/B presso/E un/RI istituto/S di/E credito/S ./FS
+Salva/SP diversa/DI volontà/S di/E le/RD parti/S ,/FF il/RD debitore/S che/PR in/E l'/RD adempimento/S di/E l'/RD obbligazione/S si/PC vale/V di/E l'/RD opera/S di/E terzi/S ,/FF risponde/V anche/B di/E i/RD fatti/S dolosi/S o/CC colposi/S di/E costoro/S ./FS
+In/E caso/S di/E successivo/A ritrovamento/S di/E la/RD cosa/S ,/FF si/PC applicano/V le/RD disposizioni/S di/E il/RD secondo/NO comma/S di/E l'/RD articolo/S precedente/A ./FS
+La/RD stessa/A disposizione/S si/PC applica/V quando/CS ,/FF essendo/VA dovuta/V una/RI cosa/S determinata/A ,/FF questa/PD ha/VA subito/V un/RI deterioramento/S ,/FF o/CC quando/CS residua/A alcunché/S da/E il/RD perimento/S totale/A di/E la/RD cosa/S ./FS
+Il/RD terzo/NO che/PR ,/FF senza/E delegazione/S di/E il/RD debitore/S ,/FF ne/PC assume/V verso/E il/RD creditore/S il/RD debito/S ,/FF è/VA obbligato/V in/E solido/S con/E il/RD debitore/S originario/A ,/FF se/CS il/RD creditore/S non/BN dichiara/V espressamente/B di/E liberare/V quest'/DD ultimo/NO ./FS
+L'/RD ordinamento/S giuridico/A italiano/A si/PC conforma/S a/E le/RD norme/S di/E il/RD diritto/S internazionale/A generalmente/B riconosciute/V ./FS
+Gli/RD accertamenti/S e/CC le/RD ispezioni/S per/E motivi/S di/E sanità/S e/CC di/E incolumità/S pubblica/A o/CC a/E fini/S economici/A e/CC fiscali/A sono/VA regolati/V da/E leggi/S speciali/A ./FS
+Si/PC può/VM procedere/V a/E sequestro/S soltanto/B per/E atto/S motivato/A di/E l'/RD autorità/S giudiziaria/A in/E il/RD caso/S di/E delitti/S ,/FF per/E i/RD quali/PR la/RD legge/S su/E la/RD stampa/S espressamente/B lo/PC autorizzi/S ,/FF o/CC in/E il/RD caso/S di/E violazione/S di/E le/RD norme/S che/PR la/RD legge/S stessa/A prescriva/S per/E l'/RD indicazione/S di/E i/RD responsabili/S ./FS
+Protegge/E la/RD maternità/S ,/FF l'/RD infanzia/S e/CC la/RD gioventù/S ,/FF favorendo/V gli/RD istituti/S necessari/A a/E tale/DD scopo/S ./FS
+Enti/SP e/S privati/A hanno/V il/RD diritto/S di/E istituire/V scuole/S ed/CC istituti/S di/E educazione/S ,/FF senza/E oneri/S per/E lo/RD Stato/S ./FS
+Promuove/SP e/CC favorisce/V gli/RD accordi/S e/CC le/RD organizzazioni/S internazionali/A intesi/S ad/E affermare/V e/CC regolare/V i/RD diritti/S di/E il/RD lavoro/S ./FS
+aiuta/V la/RD piccola/A e/CC la/RD media/A proprietà/S ./FS
+Sono/V eleggibili/S a/E deputati/S tutti/T gli/RD elettori/S che/PR in/E il/RD giorno/S di/E la/RD elezione/S hanno/VA compiuto/V i/RD venticinque/S anni/S di/E età/S ./FS
+Il/RD Presidente/S di/E la/RD Repubblica/S nomina/V il/RD Presidente/S di/E il/RD Consiglio/S di/E i/RD ministri/S e/CC ,/FF su/E proposta/S di/E questo/PD ,/FF i/RD ministri/S ./FS
+La/RD legge/S provvede/V a/E l'/RD ordinamento/S di/E la/RD Presidenza/SP di/E il/RD Consiglio/S e/CC determina/V il/RD numero/S ,/FF le/RD attribuzioni/S e/CC l'/RD organizzazione/S di/E i/RD ministeri/S ./FS
+La/RD giustizia/S è/VA amministrata/S in/E nome/S di/E il/RD popolo/S ./FS
+I/RD magistrati/S sono/VA inamovibili/S ./FS
+La/RD legge/S ne/PC assicura/V la/RD ragionevole/A durata/S ./FS
+La/RD Regione/S ,/FF quando/CS ritenga/V che/CS una/RI legge/S o/CC un/RI atto/S avente/V valore/S di/E legge/S di/E lo/RD Stato/S o/CC di/E un'/RI altra/A Regione/S leda/S la/RD sua/AP sfera/S di/E competenza/S ,/FF può/VM promuovere/V la/RD questione/S di/E legittimità/S costituzionale/A dinanzi/B a/E la/RD Corte/S costituzionale/A entro/E sessanta/N giorni/S da/E la/RD pubblicazione/S di/E la/RD legge/S o/CC di/E l'/RD atto/S avente/V valore/S di/E legge/S ./FS
+Fino/B a/E quando/CS non/BN entri/S in/E funzione/S la/RD Corte/S costituzionale/A ,/FF la/RD decisione/S di/E le/RD controversie/S indicate/V in/E l'/RD articolo/S 134/S ha/V luogo/S in/E le/RD forme/S e/CC in/E i/RD limiti/S di/E le/RD norme/S preesistenti/A a/E l'/RD entrata/S in/E vigore/S di/E la/RD Costituzione/S ./FS
+In/E deroga/S a/E l'/RD articolo/S 48/N ,/FF sono/VA stabilite/V con/E legge/S ,/FF per/E non/BN oltre/B un/RI quinquennio/S da/E l'/RD entrata/S in/E vigore/S di/E la/RD Costituzione/S ,/FF limitazioni/S temporanee/S a/E il/RD diritto/S di/E voto/S e/CC a/E la/RD eleggibilità/S per/E i/RD capi/S responsabili/A di/E il/RD regime/S fascista/A ./FS
+(/FB 21/N )/FB I/RD prodotti/S che/PR consumano/V energia/S ed/CC ottemperano/V a/E le/RD specifiche/S per/E la/RD progettazione/S ecocompatibile/A fissate/S in/E le/RD misure/S di/E esecuzione/S di/E la/RD presente/A direttiva/S dovrebbero/VM essere/V muniti/A di/E la/RD marcatura/S CE/SP e/CC di/E le/RD associate/A informazioni/S ,/FF a/E il/RD fine/S di/E consentire/V la/RD loro/AP immissione/S su/E il/RD mercato/S interno/A e/CC la/RD loro/AP libera/A circolazione/S ./FS
+Proposta/SP di/E decisione/S di/E il/RD consiglio/S che/PR estende/V a/E gli/RD Stati/S membri/S non/BN partecipanti/V l'/RD applicazione/S di/E la/RD decisione/S di/E il/RD Consiglio/S che/PR modifica/V ed/CC estende/V la/RD Decisione/SP di/E il/RD Consiglio/S di/E il/RD 17/N Dicembre/SP 2001/N ,/FF che/PR istituisce/V un/RI programma/S di/E azione/S in/E materia/S di/E scambi/S ,/FF assistenza/S e/CC formazione/S per/E la/RD protezione/S di/E l'/RD euro/S contro/E la/RD contraffazione/S monetaria/A (/FB programma/S "/FB Pericle/SP "/FB )/FB ./FS
+uno/PI di/E i/RD workshop/S ha/VA portato/V a/E l'/RD elaborazione/S di/E la/RD proposta/S ,/FF da/E parte/S di/E gli/RD Stati/S membri/S ,/FF di/E una/RI raccomandazione/S di/E il/RD Consiglio/S ./FS
+I/RD posti/S di/E blocco/S cominciano/V ad/E appena/B 60/N chilometri/S da/E la/RD capitale/S e/CC in/E gli/RD altri/PI 80/N di/E strade/S infami/S fra/E Tirana/SP e/CC il/RD porto/S su/E l'/RD Adriatico/SP si/PC toccano/S tutte/T le/RD stazioni/S di/E la/RD rivolta/S albanese/A ./FS
+Tutto/PI è/VA cominciato/V con/E i/RD funerali/S di/E Artur/SP Rustemi/SP ,/FF 30/N anni/S ,/FF uno/PI di/E i/RD due/N morti/S in/E la/RD rivolta/S di/E lunedì/S ,/FF quando/CS dopo/E il/RD linciaggio/S di/E una/RI ventina/S di/E poliziotti/S è/VA arrivata/V la/RD vendetta/S di/E le/RD squadre/S antisommossa/A ./FS
+La/RD storia/S ci/PC univa/S ,/FF ma/CC anche/B ci/PC divideva/S ./FS
+Era/V la/RD notte/S di/E il/RD 13/N gennaio/S quando/CS da/E qui/B è/VA partito/V un/RI motoscafo/S diretto/A verso/E la/RD costa/S italiana/A con/E 130/N milioni/S di/E dollari/S a/E bordo/S ./FS
+Appena/E la/RD folla/S in/E rivolta/S per/E il/RD crack/S di/E le/RD finanziarie/S ha/VA preso/V il/RD controllo/S di/E la/RD città/S ,/FF rimasta/V abbandonata/S anche/B ieri/B da/E le/RD forze/S di/E l'/RD ordine/S ,/FF gli/RD scafisti/S si/PC sono/V diretti/A con/E auto/S e/CC carrelli/S a/E il/RD porto/S di/E Ravima/SP dove/PR si/PC sono/VA portati/V via/B 135/S barche/S sequestrate/S ./FS
+Con/E l'/RD aumento/S di/E la/RD produzione/S di/E marijuana/S ,/FF iniziata/V in/E Albania/SP circa/B tre/N anni/S fa/B ,/FF l'/RD esportazione/S di/E hashish/S è/VA diventata/V un'/RI altra/A fonte/S di/E reddito/S per/E contrabbandieri/S e/CC scafisti/S ./FS
+In/E molti/DI casi/S il/RD rastrellamento/S di/E i/RD soldi/S di/E i/RD piccoli/A risparmiatori/S era/V solo/B una/RI copertura/S per/E riciclare/V denaro/S e/CC distribuire/V tangenti/S ./FS
+Anche/B il/RD Presidente/S è/V in/E il/RD mirino/S di/E i/RD suoi/AP attacchi/S ?/FS
+Il/RD Papa/SP ha/VA detto/V che/CS è/VA giunta/V l'/RD ora/S storica/A e/CC pressante/S di/E riconquistare/S specifici/S spazi/S di/E umanità/S ,/FF primo/NO fra/E tutti/T quello/PD di/E la/RD vita/S prenatale/S ,/FF a/E la/RD sfera/S di/E la/RD tutela/S di/E il/RD diritto/S ./FS
+Per/E loro/PE potrebbe/VM esser/V ci/PC una/RI sorta/S di/E '/FB amministrazione/S controllata/A '/FB ./FS
+Nessuno/PI finora/B ha/VA mostrato/V prove/S concrete/A contro/B di/E lui/PE o/CC contro/E il/RD presidente/S Sali/SP Berisha/SP e/CC altri/DI membri/S di/E il/RD Governo/S o/CC di/E il/RD Partito/S democratico/A ./FS
+Oggi/B un/RI albanese/A su/E due/N vive/V fuori/B da/E i/RD confini/S di/E la/RD Repubblica/S di/E Tirana/SP ./FS
+Il/RD mantra/S di/E i/RD Balcani/SP rischia/V di/E diventare/V una/RI tragica/A realtà/S ./FS
+Sale/B di/E 200/N lire/S il/RD prezzo/S di/E un/RI pacchetto/S di/E sigarette/S ./FS
+Il/RD presidente/S Sali/SP Berisha/SP ,/FF che/PR a/E l'/RD inizio/S di/E la/RD sua/AP carriera/S politica/A andava/V a/E braccetto/S a/E i/RD comizi/S con/E l'/RD ambasciatore/S Usa/SP ,/FF ha/VA abbandonato/V presto/B le/RD suggestioni/S americaneggianti/S per/E diventare/V sempre/B di/E più/B un/RI leader/S da/E l'/RD accentuato/S profilo/S balcanico/S ./FS
+L'/RD incursione/S ,/FF approvata/V in/E il/RD corso/S di/E un/RI improvviso/A summit/S a/E Palazzo/SP Chigi/SP ,/FF e/CC coperta/A fino/B a/E la/RD sua/AP realizzazione/S da/E il/RD segreto/S militare/A ,/FF era/VA iniziata/V a/E le/RD prime/NO ore/S di/E il/RD pomeriggio/S di/E ieri/B quando/CS la/RD nave/S di/E la/RD marina/S militare/A italiana/A San/SP Giorgio/SP ha/VA lasciato/V il/RD porto/S di/E Brindisi/SP con/E a/E bordo/S degli/DI elicotteri/S (/FB non/BN meno/B di/E sei/N )/FB e/CC diversi/DI uomini/S di/E il/RD reggimento/S fucilieri/S di/E marina/S San/SP Marco/SP ./FS
+Quando/CS le/RD due/N navi/S hanno/VA raggiunto/V le/RD posizioni/S prefissate/S ,/FF gli/RD elicotteri/S da/E trasporto/S di/E l'/RD esercito/S si/PC sono/VA alzati/S in/E volo/S e/CC hanno/VA raggiunto/V il/RD porto/S albanese/A di/E Valona/SP ,/FF prelevando/S ,/FF con/E la/RD protezione/S di/E gli/RD uomini/S di/E il/RD San/SP Marco/SP ,/FF il/RD gruppo/S di/E italiani/S e/CC stranieri/A che/PR era/VA stato/V già/B concentrato/A su/E il/RD luogo/S ./FS
+Tutte/T le/RD persone/S sono/VA state/V poi/B trasportate/S a/E Brindisi/SP ./FS
+Servendo/SP si/PC di/E alcuni/DI elicotteri/S i/RD nostri/AP militari/S hanno/VA portato/V via/B da/E il/RD territorio/S albanese/A una/RI trentina/S di/E cittadini/S italiani/A e/CC di/E altri/DI Paesi/S che/PR si/PC trovavano/V in/E grave/A pericolo/S di/E vita/S a/E causa/S di/E la/RD situazione/S interna/A ,/FF sempre/B più/B violenta/S ./FS
+L'/RD Unione/SP europea/SP comincerà/S probabilmente/B a/E prendere/V le/RD sue/AP prime/NO decisioni/S collettive/S mercoledì/S prossimo/A ,/FF quando/CS si/PC riunirà/S il/RD suo/AP Comitato/S politico/A ./FS
+per/E quanto/PR è/VA dato/V sapere/V in/E gli/RD ultimi/NO mesi/S il/RD Centro/S -/FF destra/S a/E il/RD potere/S e/CC gli/RD ex/A comunisti/S si/PC erano/VA trovati/V intorno/B a/E un/RI tavolo/S soltanto/B in/E zona/S neutra/S ,/FF dentro/B a/E la/RD residenza/S di/E l'/RD ambasciata/S italiana/A ,/FF dove/B un/RI tempo/S aveva/V sede/S il/RD museo/S Lenin/SP -/FC Stalin/SP ./FS
+L'/RD inflazione/S è/V il/RD peggior/S nemico/S di/E il/RD popolo/S e/CC rimettere/V in/E circolazione/S senza/E controllo/S una/RI massa/S di/E denaro/S imponente/S significa/V svalutare/S la/RD nostra/AP moneta/S ./FS
+Per/E questo/PD ha/VA annunciato/V la/RD creazione/S di/E nuove/A zone/S franche/S esentasse/S che/PR dovranno/VM attirare/V i/RD capitali/S salvati/S da/E i/RD fallimenti/S ./FS
+Il/RD tutto/PI regge/S fino/B a/E quando/CS sono/VA molto/B più/B consistenti/A i/RD versamenti/S (/FB che/CS i/RD gestori/S di/E queste/DD imprese/S provvedono/V comunque/B a/E scremare/S a/X proprio/AP vantaggio/S )/FB ,/FF di/E le/RD richieste/S di/E rimborso/S ./FS
+Ciò/PD che/PR distingue/V l'/RD Albania/SP da/E lo/RD Zaire/SP è/VA soprattutto/B la/RD vegetazione/S ./FS
+L'/RD Albania/SP si/PC è/V dimenticata/S che/CC per/E vivere/V bisogna/V anche/B produrre/V ./FS
+I/RD partiti/S d'/E opposizione/S a/E il/RD Governo/S di/E destra/S di/E il/RD presidente/S Berisha/SP stanno/VA soffiando/S su/E il/RD fuoco/S di/E le/RD proteste/S e/CC hanno/VA indetto/S una/RI manifestazione/S per/E oggi/B in/E la/RD capitale/S ./FS
+La/RD truffa/S riguardava/S i/RD finanziamenti/S erogati/V per/E il/RD ritiro/S da/E il/RD mercato/S di/E le/RD produzioni/S eccedenti/V in/E il/RD settore/S agricolo/A ./FS
+Ieri/B Rifondazione/SP e/CC Verdi/SP sono/VA tornati/V a/E l'/RD attacco/S ./FS
+Tende/SP a/E stemperar/S si/PC ,/FF infine/B ,/FF lo/RD scontro/S su/E i/RD coefficienti/S di/E trasformazione/S :/FC
+Il/RD presidente/S Jacques/SP Chirac/SP ha/VA ricevuto/V questa/DD mattina/S a/E l'/RD Eliseo/SP il/RD candidato/S di/E l'/RD Ump/SP Nicolas/SP Sarkozy/SP ,/FF con/E il/RD quale/PR si/PC è/V "/FB calorosamente/S "/FB congratulato/S "/S per/E il/RD risultato/S di/E il/RD primo/NO turno/S "/FB di/E le/RD presidenziali/S ./FS
+Nicolas/SP Sarkozy/SP ha/VA ottenuto/V il/RD 31,11/S %/SYM di/E i/RD voti/S a/E il/RD primo/NO turno/S ,/FF seguito/S da/E la/RD socialista/A Segolene/SP Royal/SP che/PR ha/VA preso/V il/RD 25,84/S %/SYM ./FS
+Da/E il/RD Bahrein/SP ,/FF il/RD giovane/S brasiliano/A torna/V a/E casa/S con/E alcune/DI convinzioni/S che/E pesano/S :/FS
+Se/CS pensi/V a/E queste/DD cose/S ,/FF se/CS ci/PC rifletti/S su/E finisci/S per/E sbagliare/V ./FS
+Eppure/B dietro/E la/RD resa/S ,/FF dietro/E la/RD netta/A sconfitta/S in/E il/RD confronto/S con/E il/RD suo/AP compagno/S Hamilton/SP ,/FF si/PC nascondono/S scricchiolii/SW sinistri/S :/FS
+E/CC c'/PC è/V anche/B chi/PR avanza/V una/RI strana/S offerta/S a/E tutte/T le/RD forze/S politiche/A :/FC
+Da/E il/RD punto/S di/E vista/S storico/A dunque/B il/RD mercato/S capitalistico/S non/BN si/PC presentava/V necessariamente/B in/E contraddizione/S con/E lo/RD Stato/S sociale/A e/CC con/E l'/RD intervento/S pubblico/A ;/FC
+un/RI congresso/S da/E i/RD risultati/S scontati/S ,/FF visto/V che/CS Franz/SP Steinkuehler/SP ,/FF il/RD leader/S incontrastato/S di/E la/RD IG/SP Metall/SP ,/FF tiene/V saldamente/S in/E mano/S la/RD stragrande/A maggioranza/S di/E il/RD suo/AP sindacato/S ./FS
+"/FB Il/RD governo/S sono/V io/PE ,/FF non/BN Walesa/SP e/CC presto/B vedrò/S il/RD leader/S sovietico/A "/FB ./FS
+La/RD verità/S è/V che/CS ormai/B la/RD spesa/S sanitaria/A sta/VA esplodendo/S per/E motivi/S che/PR non/BN hanno/V nulla/PI a/E che/PR vedere/V con/E il/RD miglioramento/S di/E il/RD servizio/S ed/CC è/V un/RI incremento/S che/PR neppure/BN gli/PC assessori/S sanno/V spiegare/V ./FS
+Con/E English/SP in/E campo/S ,/FF i/RD Denver/SP Nuggets/SP hanno/VA fatto/V un/RI sol/A boccone/S di/E il/RD Barcellona/SP (/FB 137/N -/FB 103/N )/FB ,/FF rispettando/S il/RD pronostico/S che/PR li/PC vede/V favoriti/S anche/B domani/B sera/S in/E la/RD finalissima/S ./FS
+Record/B di/E visitatori/S a/E la/RD mostra/S di/E il/RD Lingotto/SP su/E l'/RD arte/S russa/A ./FS
+L'/RD Isola/SP verde/A fa/V omaggio/S a/E il/RD «/FB Cumenda/SP »/FB che/CS la/RD ideò/S ./FS
+a/E lanciare/V l'/RD allarme/S è/VA stato/V il/RD custode/S di/E lo/RD stabile/A il/RD quale/PR ha/VA visto/V uscire/V due/N uomini/S da/E il/RD cortile/S con/E una/RI valigia/S ./FS
+Da/E il/RD punto/S di/E vista/S finanziario/A i/RD conti/S tornano/S ,/FF e/CC brillantemente/S ./FS
+E/CC la/RD candidatura/S sembra/V traballare/S ,/FF visti/V i/RD siluri/S contro/E la/RD promozione/S di/E l'/RD attuale/A presidente/S di/E l'/RD Enel/SP piovuti/S anche/B da/E De/SP Mita/SP e/S ,/FF in/E modo/S più/B soft/A ,/FF da/E Forlani/SP ,/FF in/E una/RI girandola/S di/E incontri/S e/CC telefonate/S di/E le/RD ultime/NO ore/S ./FS
+Fra/E quattro/N giorni/S si/PC aprirà/V il/RD Salone/SP internazionale/A di/E l'/RD automobile/S di/E Tokyo/SP ,/FF una/RI rassegna/S molto/B importante/A per/E le/RD grandi/A novità/S annunciate/S in/E vista/S di/E il/RD loro/AP massiccio/A sbarco/S in/E il/RD più/B ricco/A mercato/S di/E il/RD mondo/S ,/FF quello/PD europeo/A ./FS
+-/FB Beato/SP chi/PR vi/PC vede/V !/FS
+Questo/DD punto/S di/E vista/S è/VA sostenuto/V ,/FF ad/E esempio/S ,/FF da/E la/RD grande/A varietà/S di/E le/RD coordinazioni/S che/PR sono/VA permesse/S in/E il/RD linguaggio/S ./FS
+mercoledì/S è/VA stata/V la/RD volta/S di/E il/RD ministro/S di/E gli/RD Esteri/S Moshe/SP Arens/SP di/SP chiamare/V Baker/SP e/CC giovedì/S ,/FF infine/B ,/FF Shamir/SP ha/VA inviato/V una/RI lettera/S a/E la/RD Casa/SP Bianca/SP :/FC
+Il/RD pm/S o/CC il/RD difensore/S di/E l'/RD indiziato/V chiedono/V a/E il/RD gip/S di/E assumere/V attraverso/E l'/RD incidente/S probatorio/S la/RD prova/S ,/FF che/PR in/E questo/DD caso/S è/V valida/A sia/CC per/E le/RD dichiarazioni/S rese/V da/E il/RD testimone/S sia/CC da/E il/RD coimputato/S ,/FF previo/S avviso/S a/E il/RD difensore/S di/E la/RD persona/S chiamata/V in/E causa/S ./FS
+Il/RD consiglio/S di/E amministrazione/S di/E la/RD maggiore/A banca/S italiana/A ha/VA deciso/V ieri/B di/E convocare/S per/E il/RD 13/N dicembre/S in/E prima/NO convocazione/S ed/CC il/RD 14/N dicembre/S in/E seconda/NO convocazione/S l'/RD assemblea/S straordinaria/A ,/FF chiamata/V ad/E approvare/V l'/RD aumento/S di/E capitale/S di/E 816,8/S miliardi/S di/E lire/S riservato/A ad/E Ina/SP e/CC Inps/SP ./FS
+Cominciò/E l'/RD attesa/S di/E la/RD chiamata/S ./FS
+in/E generale/S ,/FF una/RI realtà/S decantata/S da/E la/RD mente/S umana/A ./FS
+A/E la/RD sua/AP bottega/S studiarono/S fra/E gli/RD altri/A Luca/SP Signorelli/SP e/CC il/RD Perugino/SP ./FS
+Prima/B di/E la/RD Seconda/NO guerra/S mondiale/A ,/FF sviluppatori/S americani/A ,/FF tedeschi/A e/CC francesi/A ,/FF e/CC principalmente/B britannici/A ,/FF tentarono/S di/SP sfruttare/V il/RD radar/S come/E sistema/S di/E difesa/S contro/E gli/RD attacchi/S aerei/S ./FS
+Un/RI ricevitore/S -/FF trasmettitore/S (/FB ricetrasmettitore/S )/FF che/PR genera/V un/RI segnale/S in/E risposta/S ad/E una/RI specifica/A interrogazione/S ./FS
+Lo/RD smog/S risulta/V nocivo/S a/E la/RD salute/S di/E l'/RD uomo/S e/CC di/E gli/RD animali/S superiori/A -/FF irritante/S per/E gli/RD occhi/S e/CC per/E le/RD vie/S respiratorie/S e/CC anche/B cancerogeno/S -/FF ma/CC anche/B per/E le/RD piante/S e/CC per/E gli/RD ecosistemi/S acquatici/S ./FS
+Inquinanti/SP come/E l'/RD ozono/S ,/FF i/RD perossiacetilnitrati/S ,/FF il/RD biossido/S di/E zolfo/S e/CC l'/RD etene/S ,/FF possono/VM penetrare/S in/E le/RD piante/S attraverso/E gli/RD stomi/S di/E le/RD foglie/S dove/B distruggono/V la/RD clorofilla/S ./FS
+L'/RD effetto/S di/E il/RD particolato/S su/E il/RD clima/S è/V più/B complesso/A ./FS
+In/E il/RD 1903/N la/RD parte/S principale/A di/E l'/RD anello/S ,/FF che/PR va/V da/E la/RD stazione/S di/E Ikebukuro/SP a/E quella/PD di/E Tabata/SP ,/FF fu/V completata/S e/CC prese/V il/RD nome/S di/E Linea/SP Toshima/SP (/FB 豊島線/S )/FB ./FS
+L'/RD anello/S fu/VA completato/V in/E il/RD 1925/N con/E l'/RD apertura/S di/E il/RD tratto/S tra/E la/RD stazione/S di/E Kanda/SP e/CC la/RD stazione/S di/E Ueno/SP ,/FF realizzando/V un/RI collegamento/S che/PR andava/V da/E il/RD nord/S a/E il/RD sud/S di/E la/RD città/S passando/V per/E la/RD stazione/S centrale/A di/E Tokyo/SP e/CC per/E il/RD centro/S di/E la/RD città/S ./FS
+In/E lo/RD stesso/A anno/S venne/VA inaugurata/V anche/B una/RI linea/S parallela/S lungo/E il/RD lato/S ovest/S di/E l'/RD anello/S (/FB tra/E Shinagawa/SP e/CC Tabata/SP )/FB dedicata/V a/E il/RD trasporto/S di/E merci/S ./FS
+Per/E la/RD città/S ,/FF la/RD Linea/SP Yamanote/SP ha/V un/RI significato/S anche/B simbolico/S ,/FF poiché/CS visto/V da/E l'/RD alto/A il/RD percorso/S assume/V la/RD forma/S di/E mano/S di/E Buddha/SP ,/FF come/CS a/E proteggere/V Tokyo/SP ./FS
+Il/RD Progetto/S San/SP Marco/SP fu/V il/RD programma/S di/E collaborazione/S bilaterale/S che/PQ vide/V impegnati/V Italia/SP e/CC Stati/SP Uniti/SP in/E la/RD ricerca/S scientifica/A e/CC in/E la/RD sperimentazione/S in/E lo/RD spazio/S ./FS
+Forte/SP di/E l'/RD esperienza/S acquisita/S ,/FF Broglio/SP in/E il/RD febbraio/S 1961/N presentò/V a/E l'/RD allora/B Capo/S di/E il/RD Governo/S Amintore/SP Fanfani/SP ,/FF un/RI progetto/S per/E inviare/V in/E orbita/S un/RI satellite/S di/E concezione/S e/CC creazione/S interamente/B italiana/A da/E un/RI poligono/S anch'/B esso/PE italiano/A ./FS
+Un/RI ulteriore/A esito/S positivo/A di/E il/RD lancio/S di/E il/RD San/SP Marco/SP 2/N da/E la/RD piattaforma/S keniota/S fu/V l'/RD apertura/S di/E la/RD NASA/SP ad/E una/RI ancor/B più/B stretta/A collaborazione/S con/E il/RD CRA/SP che/PR portò/V a/E l'/RD utilizzo/S di/E la/RD base/S per/E la/RD messa/S in/E orbita/S di/E una/RI serie/S di/E satelliti/S NASA/SP a/E partire/V da/E il/RD 12/N dicembre/S 1970/N con/E il/RD SAS/SP 1/N ./FS
+I/RD lini/S si/PC classificano/S secondo/E il/RD grado/S di/E finezza/S di/E le/RD fibre/S :/FC
+Oltre/B a/E i/RD tessuti/S ,/FF la/RD stoppa/S di/E il/RD lino/S viene/VA utilizzata/V per/E la/RD creazione/S di/E corda/S e/CC spago/S e/S per/E la/RD produzione/S di/E la/RD carta/S ./FS
+Il/RD tessuto/S di/E lana/S non/BN solo/B isola/S da/E il/RD freddo/S ma/CC anche/B da/E il/RD caldo/S ,/FF alcune/DI popolazioni/S africane/A la/PC usano/V di/E giorno/S per/E riparar/V si/PC da/E il/RD caldo/S e/CC la/RD sera/S da/E il/RD freddo/S ./FS
+La/RD lana/S è/V una/RI fibra/S che/PR si/PC tinge/S molto/B facilmente/B ./FS
+g/S )/FF l'/RD indicazione/S che/PR occorre/V un/RI numero/S minimo/A di/E partecipanti/S per/E effettuare/V il/RD servizio/S tutto/PI compreso/V e/CC ,/FF in/E tal/DD caso/S ,/FF la/RD data/S limite/S di/E informazione/S di/E il/RD consumatore/S in/E caso/S di/E annullamento/S ./FS
+ii/S )/FB nome/S ,/FF indirizzo/S e/CC numero/S di/E telefono/S di/E la/RD rappresentanza/S locale/A di/E l'/RD organizzatore/S e/o/S di/E il/RD venditore/S o/CC ,/FF se/CS non/BN esiste/V ,/FF nome/S ,/FF indirizzo/S e/CC numero/S di/E telefono/S di/E gli/RD uffici/S locali/A suscettibili/A di/E aiutare/V il/RD consumatore/S in/E caso/S di/E difficoltà/S ;/FC
+ii/S )/FF le/RD spese/S diverse/A da/E il/RD prezzo/S di/E acquisto/S che/PR spettano/V a/E il/RD consumatore/S a/E l'/RD acquisto/S di/E beni/S o/CC servizi/S ,/FF indipendentemente/B da/E il/RD fatto/S che/PR si/PC tratti/V di/E un/RI acquisto/S in/E contanti/S o/CC a/E credito/S ;/FC
+Il/RD fornitore/S ottempera/S a/E l'/RD obbligo/S di/E cui/PR a/E il/RD paragrafo/S 1/N subito/B dopo/E la/RD conclusione/S di/E il/RD contratto/S a/E distanza/S ,/FF se/CS quest'/DD ultimo/S è/VA stato/VA concluso/V su/E richiesta/S di/E il/RD consumatore/S utilizzando/V una/RI tecnica/S di/E comunicazione/S a/E distanza/S che/PR non/BN consente/V di/E trasmettere/V le/RD condizioni/S contrattuali/A né/CC le/RD informazioni/S a/E i/RD sensi/S di/E il/RD paragrafo/S 1/N ./FS
+L'/RD inosservanza/S di/E le/RD disposizioni/S di/E cui/PR a/E i/RD paragrafi/S precedenti/S non/BN pregiudica/V l'/RD esistenza/S né/CC la/RD validità/S di/E il/RD contratto/S di/E trasporto/S ,/FF il/RD quale/PR resta/V comunque/B soggetto/A a/E le/RD norme/S di/E la/RD presente/A convenzione/S ,/FF ivi/B comprese/A quelle/PD concernenti/V la/RD limitazione/S di/E la/RD responsabilità/S ./FS
+a/E )/FB il/RD danno/S causato/V da/E la/RD morte/S o/CC da/E lesioni/S personali/A ,/FF
+visto/V il/RD parere/S di/E il/RD Comitato/S economico/A e/CC sociale/A (/FB 3/N )/FB ,/FF
+Quante/DQ interruzioni/S pubblicitarie/A durante/E i/RD film/S sono/VA attualmente/B permesse/S da/E la/RD CEE/SP ?/FS
+Quale/DQ ditta/S è/VA accusata/V di/E avere/V sfruttato/V il/RD lavoro/S minorile/S ?/FS
+Quando/B venne/VA ucciso/V John/SP Lennon/SP ?/FS
+Che/DQ cosa/PQ ha/VA impacchettato/S l'/RI artista/S Christo/SP ?/FS
+Chi/PQ fu/V l'/RD ultimo/NO zar/S di/E Russia/SP ?/FS
+Chi/PQ ha/VA coniato/V l'/RD espressione/S "/FB incontri/S ravvicinati/S di/E il/RD terzo/NO tipo/S "/FB ?/FS
+Che/DQ cosa/PQ causò/V l'/RD "/FB effetto/S Tequila/SP "/FB ?/FS
+In/E quale/DQ città/S è/VA esplosa/S una/RI lettera/S bomba/S ?/FS
+Quando/B è/VA avvenuta/V la/RD guerra/S di/E il/RD Chaco/SP ?/FS
+In/E quale/DQ anno/S il/RD Congresso/S americano/A ha/VA approvato/V il/RD "/FB War/SP Powers/SW Act/SP "/FB ?/FS
+Dimmi/V il/RD nome/S di/E un/RI burattinaio/S ./FS
+Di/E quale/DQ squadra/S di/E calcio/S francese/A era/V presidente/S Bernard/SP Tapie/SP ?/FS
+Dov'/B è/V Hide/SP Park/SP ?/FS
+Qual/PQ è/V il/RD più/B grande/A pianeta/S di/E il/RD sistema/S solare/A ?/FS
+Quanto/PQ ha/VA pagato/V l'/RD IBM/SP per/E Lotus/SP ?/FS
+Che/DQ cos'/PQ è/V il/RD CERN/SP ?/FS
+Chi/PQ è/V il/RD direttore/S di/E il/RD CERN/SP ?/FS
+Dov'/B è/V la/RD sede/S centrale/A di/E la/RD Harman/SP International/SP Industries/SP ?/FS
+Chi/PQ è/V il/RD ministro/S di/E le/RD finanze/S russo/A ?/FS
+Quanti/DQ anni/S ci/PC vogliono/V per/E ottenere/V la/RD cittadinanza/S svizzera/A ?/FS
+Quando/B è/VA avvenuta/V l'/RD apertura/S ufficiale/A di/E il/RD tunnel/S di/E la/RD Manica/SP ?/FS
+Su/E quale/DQ isola/S si/PC trova/V Ponta/SP Delgada/SP ?/FS
+Chi/PQ è/V il/RD ministro-presidente/S di/E la/RD Renania-Palatinato/SP ?/FS
+A/E quanto/PR ammontano/S i/RD debiti/S di/E l'/RD Eurotunnel/SP ?/FS
+Chi/PQ è/V Jorge/SP Amado/SP ?/FS
+Quale/DQ squadra/S ha/VA vinto/V il/RD torneo/S di/E l'/RD NBA/SP ?/FS
+Quale/DQ presidente/S russo/A partecipò/S a/E il/RD Vertice/SP G7/SP a/E Napoli/SP ?/FS
+In/E quale/DQ quartiere/S di/E Londra/SP si/PC trova/V il/RD British/SP Museum/SP ?/FS
+Chi/PQ era/V il/RD capo/S di/E il/RD gruppo/S guerrigliero/S UNITA/SP in/E Angola/SP ?/FS
+Qual/PQ è/V il/RD maggior/A produttore/S di/E petrolio/S a/E il/RD mondo/S ?/FS
+Quanto/PQ è/V alto/B il/RD monte/S Everest/SP ?/FS
+In/E quale/DQ città/S si/PC trova/V la/RD Porta/SP di/E Brandeburgo/SP ?/FS
+Quanto/PQ è/V alto/B il/RD Matterhorn/SP ?/FS
+Quanto/PQ ha/VA speso/S la/RD commissione/S trasporti/S di/E una/RI contea/S in/E California/SP per/E acquistare/V telefoni/S per/E persone/S disabili/A ?/FS
+Presso/E quale/DQ centro/S di/E ricerca/S lavora/V l'/RD oceanografo/S John/SP Potter/SP ?/FS
+Nomina/V una/RI squadra/S in/E cui/PR ha/VA giocato/V Tim/SP Crews/SP ./FS
+Dove/B si/PC trova/V Hebron/SP ?/FS
+Per/E quale/DQ compagnia/S lavora/V S/SP Gregory/SP ?/FS
+Quando/B nacque/V Lothar/SP Matthaeus/SP ?/FS
+Chi/PQ vinse/V l'/RD Oscar/SP per/E "/FB La/RD Bella/SP e/CC la/RD Bestia/SP "/FB ?/FS
+Chi/PQ è/V il/RD capo/S di/E il/RD Gruppo/SP Islamico/SP Armato/SW algerino/S ?/FS
+Chi/PQ era/V la/RD voce/S solista/S di/E i/RD Commodores/SP ?/FS
+Chi/PQ successe/V a/E Ferdinand/SP Marcos/SP ?/FS
+Qual/PQ è/V la/RD capitale/S di/E la/RD Nuova/SP Zelanda/SP ?/FS
+Che/DQ anniversario/S è/V il/RD ventesimo/NO ?/FS
+Quale/DQ nome/S dava/V Sherlock/SP Holmes/SP a/E la/RD gang/S che/PR lo/PC aiutava/S a/B risolvere/V i/RD casi/S ?/FS
+Quando/B nacque/V Jackie/SP Robinson/SP ?/FS
+Dove/B si/PC trova/V la/RD Statua/SP di/E la/RD Libertà/S ?/FS
+Quanti/DQ tasti/S neri/S ci/PC sono/V in/E il/RD pianoforte/S ?/FS
+Come/B si/PC chiama/V la/RD casa/S di/E Scarlett/SP O/CC Hara/SP ?/FS
+Quanto/PQ dista/V Buffalo/SP ,/FF New/SP York/SP ,/FF da/E Syracuse/SP ,/FF New/SP York/SP ?/FS
+In/E che/DQ anno/S il/RD generale/S Montgomery/SP condusse/V gli/RD alleati/S a/E la/RD vittoria/S contro/E le/RD truppe/S di/E l'/RD asse/S in/E Nord/SP Africa/SP ?/FS
+Dove/B sono/VA conservati/S i/X gioielli/S di/E la/RD Corona/SP britannica/SP ?/FS
+Che/DQ numero/S indossava/S Michael/SP Jordan/SP ?/FS
+Che/DQ mestiere/S faceva/V William/SP Shakespeare/SP prima/B di/E iniziare/V a/E scrivere/V drammi/S ?/FS
+Quanti/DQ fusi/S orari/S ci/PC sono/V in/E il/RD mondo/S ?/FS
+Quando/B venne/VA bandito/V il/RD tabacco/S da/E masticare/S in/E il/RD baseball/S ?/FS
+Di/E che/DQ cosa/PQ è/VA fatto/V il/RD Corian/SP ?/FS
+Quanti/DQ "/FB home/SW run/S "/FB ha/VA segnato/V Henry/SP "/FB Hank/SP "/FB Aaron/SP in/E il/RD corso/S di/E la/RD sua/AP carriera/S in/E il/RD campionato/S maggiore/A ?/FS
+Quali/DQ paesi/S hanno/VA registrato/V degli/DI incidenti/S di/E scuolabus/S in/SW cui/PR morirono/V delle/DI persone/S ?/FS
+Quanto/PQ misura/V un/RI letto/S king-size/S ?/FS
+Quale/DQ animale/S può/VM percorrere/V le/RD distanze/S maggiori/A senza/E acqua/S ?/FS
+Quale/DQ attore/S ha/V un/RI tatuaggio/S su/E il/RD suo/AP polso/S destro/A con/E la/RD scritta/A "/FB Scozia/SP per/E sempre/B "/FB ?/FS
+Quanto/PQ pesava/S Marilyn/SP Monroe/SP ?/FS
+Come/B si/PC chiamano/V i/RD suoni/S che/PR sono/VA troppo/B bassi/A per/E essere/V uditi/S da/E gli/RD esseri/S umani/A ?/FS
+Quante/DQ stanze/S ha/V il/RD Grand/SP Hotel/SP MGM/SP di/E Las/SP V/SP ?/FS
+Quale/DQ medicina/S comune/A scoperta/S da/E i/RD nativi/S americani/S si/PC ricava/S da/E la/RD corteccia/S di/E un/RI salice/S ?/FS
+Quando/B venne/VA costruito/V il/RD Titanic/SP ?/FS
+Chi/PQ è/V Alger/SP Hiss/SP ?/FS
+Quando/B è/VA stata/VA fondata/V la/RD Croce/S Rossa/A ?/FS
+Per/E chi/PR ha/VA comprato/V i/RD regali/S ?/FS
+Con/E cosa/PQ stanno/VA legando/S le/RD barche/S ?/FS
+I/RD colossi/S di/E l'/RD agrochimica/S Bayer/SP e/CC Syngenta/SP hanno/VA fatto/V separatamente/B causa/S a/E l'/RD Unione/SP Europea/SP ./FS
+È/V uno/PI di/E i/RD particolari/S di/E l'/RD indagine/S per/E estorsione/S avviata/V da/E la/RD Procura/SP di/E Palermo/SP a/E carico/S di/E Marcello/SP Dell'/SP Utri/SP ,/FF il/RD senatore/S di/E il/RD Pdl/SP ancora/B sotto/E processo/S per/E concorso/S in/E associazione/S mafiosa/S ./FS
+L'/RD accusa/S di/E reato/S per/E abuso/S d'/E ufficio/S è/VA stata/V mossa/S da/E i/RD vertici/S di/E Finmeccanica/SP in/E i/RD confronti/S di/E il/RD faccendiere/S Lavitola/SP ./FS
+L'/RD accusa/S per/E Pozzessere/SP :/FC corruzione/S internazionale/A in/E concorso/S con/E Valter/SP Lavitola/SP ,/FF l'/RD ex/A editore/S de/E L'/RD Avanti/SP nonché/CC super-consulente/S di/SP Finmeccanica/SP ./FS
+il/RD nome/S che/PR si/PC sta/VA facendo/V strada/S presso/E l'/RD esecutivo/S per/E la/RD poltrona/S di/E amministratore/S delegato/A è/V quello/PD di/E Francesco/SP Caio/SP ,/FF ora/B a/E il/RD vertice/S di/E Avio/SP ./FS
+In/E il/RD 2003/N è/VA stato/VA nominato/V amministratore/S delegato/A di/E la/RD britannica/A CableWireless/SP ./FS
+In/E carcere/S a/E Santa/SP Maria/SP Capua/SP Vetere/SP anche/B Tommaso/SP Moretta/SP ,/FF che/PR svolgeva/S il/RD ruolo/S di/E amministratore/S di/E la/RD società/S fallita/A ./FS
+Il/RD gip/S di/E Busto/SP Arsizio/SP che/PR ha/VA firmato/V l'/RD ordinanza/S è/VA stato/VA assassinato/V ./FS
+Gianfranco/SP Tornatore/SP ,/FF che/PR a/E sua/AP volta/S aveva/VA locato/S a/E la/RD Gold/SP Hotel/SP s.p.a./S ,/FF costituita/V poco/B prima/B e/CC riferibile/A sempre/B a/E lo/RD stesso/A Tornatore/SP ./FS
+L’/RD indagine/S sarà/VA portata/V avanti/B da/E le/RD Gendarmerie/SP di/E alta/A montagna/S francese/A di/E Bourg/SP Saint/SP Maurice/SP e/S di/E Meribel/SP e/X “/FB non/BN sarà/VA chiusa/V prima/B di/E diversi/DI giorni/S ”/FB ./FS
+Che/DQ tramite/S il/RD manager/S e/CC portavoce/S di/E Michael/SP Schumacher/SP ,/FF Sabine/SP Kehm/SP ,/FF fa/B sapere/V di/E apprezzare/S i/X tanti/DI messaggi/S di/E supporto/S giunti/S da/E tutto/T il/RD mondo/S ./FS
+Roma/SP è/V piena/A di/E gente/S che/PR lavora/V ,/FF ma/CC anche/B di/E persone/S che/PR non/BN trovano/V lavoro/S o/CC svolgono/V lavori/S sottopagati/S e/CC a/E volte/S indegni/S ;/FC
+Gli/PC abbiamo/VA dato/V da/E mangiare/V due/N arance/S ,/FF li/PC abbiamo/VA fatti/V bere/V ,/FF riscaldati/S ,/FF gli/PC abbiamo/VA messo/V delle/DI coperte/S e/CC affidati/S a/E il/RD 118/N ./FS
+Una/RI persona/S così/B merita/V di/E essere/V internato/S a/E vita/S e/CC gettata/S via/E la/RD chiave/S ”/FB ,/FF fa/V eco/S Edoardo/SP M./SP ./FS
+L'/RD associazione/S Creative/SP Commons/SP (/FB di/E seguito/S '/FB Creative/SP Commons/SP '/FB )/FB non/BN è/V uno/RI studio/S legale/A e/CC non/BN fornisce/V servizi/S di/E consulenza/S legale/A ./FS
+L'/RD opera/S (/FB come/CS sotto/B definita/V )/FB è/VA messa/V a/E disposizione/S su/E la/RD base/S di/E i/RD termini/S di/E la/RD presente/A licenza/S "/FB Creative/SP Commons/SP Public/SP Licence/SP "/S (/FB '/FB CCPL/SP '/S o/CC '/FB licenza/S '/FB )/FB ./FS
+Compensi/SP per/E versioni/S cover/S ./FS
+A/E il/RD fine/S di/E evitare/V dubbi/S ,/FF è/VA inteso/V che/CS il/RD Licenziante/SP rinuncia/V a/E il/RD diritto/S esclusivo/A di/E riscuotere/V i/RD compensi/S a/E lui/PE attribuiti/V da/E la/RD legge/S italiana/A su/E il/RD diritto/S d'/E autore/S (/FB ad/E es/S ./FS per/E l'/RD inserimento/S di/E l'/RD opera/S in/E un'/RI antologia/S ad/E uso/S scolastico/S ex/A art./S 70/N l./S 633/S //S 1941/N )/FB ./FS
+Nessuna/DI clausola/S di/E questa/DD licenza/S esclude/V o/CC limita/V la/RD responsabilità/S in/E il/RD caso/S in/E cui/PR questa/DD dipenda/S da/E dolo/S o/CC colpa/S grave/A ./FS
+Invece/B ,/FF i/RD cittadini/S di/E alcuni/DI nostri/AP paesi/S sono/VA stati/VA colpiti/V da/E catastrofi/S naturali/A di/E proporzioni/S davvero/B terribili/S ./FS
+Avete/SP chiesto/V che/CS si/PC tenesse/S una/RI discussione/S su/E tale/DD tema/S in/E i/RD prossimi/A giorni/S ,/FF in/E il/RD corso/S di/E la/RD presente/A tornata/S ./FS
+La/RD relazione/S Cunha/SP su/E i/RD programmi/S di/E orientamento/S pluriennali/S è/VA iscritta/V a/E l'/RD ordine/S di/E il/RD giorno/S di/E la/RD Plenaria/SP di/E giovedì/S e/CC a/E il/RD paragrafo/S 6/N contiene/V una/RI proposta/S volta/S a/E introdurre/V una/RI sorta/S di/E sanzione/S a/E carico/S di/E le/RD quote/S di/E quei/DD paesi/S che/PR non/BN riescono/V a/E raggiungere/V i/RD loro/AP obiettivi/S di/E riduzione/S annuali/A di/E le/RD flotte/S ,/FF nonostante/E il/RD principio/S di/E la/RD stabilità/S relativa/A ./FS
+faccia/V in/E modo/S che/PR sia/VA reso/V disponibile/A anche/B un/RI canale/S olandese/A ./FS
+Onorevole/S collega/S ,/FF sarà/V mia/AP cura/S verificare/V tale/DD punto/S ./FS
+Onorevole/S collega/V Barón/SP Crespo/SP ,/FF lei/PE non/BN ha/VA potuto/VM partecipare/V giovedì/S scorso/A a/E la/RD conferenza/S di/E i/RD presidenti/S ./FS
+(/FB applausi/S da/E i/RD banchi/S di/E il/RD gruppo/S di/E il/RD PPE/SP -/FF DE/SP )/FB ./FS
+Quindi/B ,/FF noi/PE rispettiamo/S le/RD eventuali/A decisioni/S in/E materia/S di/E il/RD parlamento/S ./FS
+Vorrei/VM infine/B soffermar/S mi/PC su/E un/RI ultimo/NO punto/S ./FS
+Pur/B sapendo/V che/CS si/PC tratta/V soltanto/B di/E un/RI piccolo/A passo/S verso/E una/RI maggiore/A sicurezza/S ,/FF vi/PC invito/V a/E votare/V a/E favore/S di/E la/RD relazione/S ./FS
+E'/V la/RD prima/NO volta/S che/PR intervengo/V in/E Plenaria/SP e/X devo/VM ammettere/V di/E essere/V molto/B emozionato/S ,/FF un/RI po'/S come/E succede/V con/E il/RD primo/NO amore/S che/PR però/B ,/FF per/E fortuna/S ,/FF è/V durato/S più/PI di/E due/N minuti/S ./FS
+Mi/PC pare/V questa/PD un'/RI evoluzione/S estremamente/B positiva/A ;/FC
+Le/RD condizioni/S contingenti/S variano/V notevolmente/B da/E un/RI paese/S a/E l'/RD altro/A ./FS
+Il/RD collega/S Koch/SP ha/VA dovuto/VM preparare/V la/RD sua/AP pregevole/S relazione/S in/E quanto/PR i/RD lavori/S di/E il/RD Cen/SP e/CC anche/B quelli/PD di/E la/RD commissione/S economica/A di/E le/RD Nazioni/SP Unite/SP non/BN sono/VA stati/VA svolti/S con/E la/RD dovuta/A celerità/S ./FS
+Signor/S presidente/S ,/FF mi/PC congratulo/S nuovamente/B con/E l'/RD onorevole/S Koch/SP per/E il/RD lavoro/S svolto/V a/E proposito/S di/E quest'/DD altra/A relazione/S che/PR ,/FF in/E un/RI certo/A qual/CS modo/S ,/FF completa/A il/RD dibattito/S che/PR abbiamo/VA tenuto/V lo/RD scorso/A ottobre/S su/E il/RD trasporto/S ferroviario/S ./FS
+Non/BN dobbiamo/VM dimenticare/V che/CS lo/RD spazio/S rurale/A rappresenta/V quasi/B i/RD quattro/N quinti/S di/E il/RD territorio/S di/E l'/RD Unione/SP Europea/SP ./FS
+Adesso/B siamo/V già/B molto/B in/E ritardo/S ./FS
+Ci/PC opponiamo/S a/E l'/RD eccessivo/A controllo/S di/E l'/RD Unione/SP Europea/SP e/CC di/E i/RD governi/S centrali/A di/E i/RD paesi/S membri/S e/CC chiediamo/V che/CS venga/VA ridotta/V la/RD burocrazia/S ,/FF che/PR fa/V rallentare/S lo/RD sviluppo/S e/CC lo/RD svolgimento/S di/E i/RD programmi/S ./FS
+I/RD fondi/S strutturali/A hanno/VA svolto/V un/RI ruolo/S chiave/S in/E lo/RD sviluppo/S di/E le/RD aree/S sia/VA urbane/S che/CC rurali/A di/E i/RD paesi/S periferici/A ,/FF principalmente/B con/E il/RD miglioramento/S di/E il/RD sistema/S viario/S ,/FF di/E i/RD sistemi/S di/E trattamento/S di/E le/RD acquee/S reflue/S e/S di/E le/RD reti/S di/E trasporto/S connesse/S ./FS
+come/E articolare/S la/RD politica/S di/E l'/RD unione/S con/E le/RD politiche/S nazionali/A sussidiarie/S di/E gestione/S di/E il/RD territorio/S ./FS
+Per/E gli/RD esperti/S di/E il/RD piano/S francese/A ,/FF lo/RD scenario/S oggi/B più/B plausibile/A è/V l'/RD approfondir/S si/PC di/E il/RD divario/S tra/E le/RD regioni/S a/E l'/RD interno/S di/E ogni/DI paese/S ./FS
+Considerato/V che/CS il/RD riconoscimento/S di/E la/RD dignità/S inerente/S a/X tutti/T i/RD membri/S di/E la/RD famiglia/S umana/A e/CC di/E i/RD loro/AP diritti/S ,/FF uguali/A ed/CC inalienabili/S ,/FF costituisce/V il/RD fondamento/S di/E la/RD libertà/S ,/FF di/E la/RD giustizia/S e/CC di/E la/RD pace/S in/E il/RD mondo/S ;/FC
+Ogni/DI individuo/S ha/V diritto/S ad/E una/RI cittadinanza/S ./FS
+Inoltre/B ,/FF se/CS decidi/S di/SP utilizzare/V Facebook/SP da/E un/RI dispositivo/S mobile/A ,/FF tieni/S presente/A che/PR sarai/S tu/PE a/E dover/VM pagare/V le/RD eventuali/A tariffe/S associate/A a/E l'/RD uso/S di/E Internet/SP e/CC //S o/CC di/E la/RD messaggistica/S in/E base/S a/E quanto/PR stabilito/V da/E l'/RD operatore/S di/E telefonia/S mobile/A ./FS
+Per/E registrar/V ti/PC per/E un/RI nuovo/A account/S ,/FF inserisci/S il/RD tuo/AP nome/S ,/FF data/V di/E nascita/S ,/FF sesso/S e/CC indirizzo/S e-mail/S in/E il/RD modulo/S disponibile/A su/B ./FS
+Tasso/B di/E conversione/S di/E il/RD 10/N %/SYM da/E le/RD visite/S originate/S da/E le/RD inserzioni/S di/E Facebook/SP ./FS
+È/V rinomato/S per/E i/RD suoi/AP personaggi/S poliedrici/S ,/FF che/PR sono/VA moralmente/S ambigui/S ./FS
+Balzac/SP ebbe/V difficoltà/S ad/E adattar/V si/PC a/E lo/RD stile/S ripetitivo/S di/E le/RD lezioni/S a/E scuola/S ./FS
+Verso/E la/RD fine/S di/E la/RD sua/AP vita/S Balzac/SP si/PC lasciò/V attirare/V da/E l'/RD idea/S di/E far/V abbattere/V 20.000/N acri/S (/FB 81/S Km2/SP )/FF di/E querce/S in/E Ucraina/SP da/E trasportare/V e/CC vendere/V in/E Francia/SP ./FS
+Quando/B gli/PC venne/VA l'/RD idea/S ,/FF corse/S in/E l'/RD appartamento/S di/E la/RD sorella/S e/CC dichiarò/V :/FC
+Nonostante/E Balzac/SP fosse/V un/RI sostenitore/S di/E la/RD corona/S ,/FF Balzac/SP rappresentò/S i/S contro/E -/FB rivoluzionari/S in/E modo/S indulgente/S -/FF anche/B se/CS sono/V a/E il/RD centro/S di/E le/RD scene/S più/B brutali/S di/E il/RD libro/S ./FS
+Le/RD Cousin/SP Pons/SP (/FB 1847/S )/FF e/CC La/RD Cousine/SP Bette/SP (/FB 1848/N )/FB raccontano/V la/RD storia/S de/SW Les/SW Parents/SP Pauvres/SP (/FB i/RD parenti/S poveri/A )/FB ./FS
+La/RD loro/AP corrispondenza/S lascia/V intravedere/S un/PI intrigante/S equilibrio/S di/E passione/S ,/FF buone/A maniere/S e/CC pazienza/S ;/FC
+Mentre/CS ammirava/S e/CC traeva/S ispirazione/S da/E lo/RD stile/S romantico/S di/E il/RD romanziere/S scozzese/A Walter/SP Scott/SP ,/FF Balzac/SP cercava/V di/E presentare/V l'/RD esistenza/S umana/A attraverso/E l'/RD uso/S di/E i/RD particolari/A ./FS
+Alcuni/DI critici/S considerano/V la/RD scrittura/S di/E Balzac/SP un/RI esemplare/A di/E il/RD naturalismo/S -/FF una/RI forma/S più/B pessimistica/S e/CC analitica/S di/E il/RD realismo/S ,/FF che/PR cerca/V di/E spiegare/V il/RD comportamento/S umano/A come/E intrinsecamente/S collegato/V con/E l'/RD ambiente/S ./FS
+"/FB a/E lo/RD stesso/A tempo/S ,/FF i/RD personaggi/S rappresentano/V una/RI serie/S particolare/A di/E tipi/S sociali/A :/FC
+Come/B parte/S di/E l'/RD evoluzione/S di/E il/RD diciannovesimo/NO secolo/S di/E il/RD romanzo/S come/E "/FB forma/S letteraria/A democratica/A "/FB ,/FF Balzac/SP scrisse/V che/CS "/FB i/RD libri/S sono/VA scritti/V per/E tutti/PI "/FB ./FS
+A/E l'/RD età/S di/E 18/N anni/S ,/FF sposò/V Anne/SP Hathaway/SP ,/FF con/E la/RD quale/PR ebbe/V 3/N figli/S :/FC
+Shakespeare/SP era/V un/RI poeta/S e/CC un/RI drammaturgo/S rispettato/V a/E i/RD suoi/AP giorni/S ma/CC la/RD sua/AP reputazione/S non/BN raggiunse/V il/RD peso/S attuale/A fino/B a/E il/RD xix/S secolo/S ./FS
+La/RD sua/AP vera/A data/S di/E nascita/S rimane/V sconosciuta/S ,/FF ma/CC tradizionalmente/S la/PC si/PC colloca/S il/RD 23/N aprile/S ,/FF il/RD giorno/S di/E san/S Giorgio/SP ./FS
+In/E il/RD 1599/N ,/FF un/RI partenariato/S di/E membri/S di/E la/RD compagnia/S costruì/V il/RD proprio/AP teatro/S ,/FF che/PR chiamarono/S Globe/SP su/E la/RD sponda/S sud/S di/E il/RD fiume/S Tamigi/SP ./FS
+Testimonianze/B di/E gli/RD acquisti/S immobiliari/A e/CC di/E gli/RD investimenti/S di/E Shakespeare/SP mostrano/V che/CS la/RD compagnia/S lo/PC aveva/VA reso/V ricco/A ./FS
+In/E il/RD 1604/S ,/FF si/PC spostò/V di/E nuovo/A a/E nord/S di/E il/RD fiume/S ,/FF in/E un'/RI area/S a/E nord/S di/E la/RD cattedrale/S di/E Saint/SP Paul/SP con/E molte/DI case/S eleganti/S ./FS
+Qui/B affittò/S camere/S da/E un/RI ugonotto/S francese/S chiamato/V Christopher/SP Moutjoy/SP ,/FF un/RI produttore/S di/E parrucche/S da/E donna/S e/CC altri/PI copricapi/S ./FS
+In/E il/RD 1612/S ,/FF fu/VA chiamato/V come/E testimone/S in/E Bellott/SP v./V Mountjoy/SP ,/FF un/RI processo/S che/PR riguardava/S l'/RI accordo/S matrimoniale/A di/E la/RD figlia/S di/E Mountjoy/SP ,/FF Mary/SP ./FS
+Le/RD sue/AP ultime/NO tre/N opere/S teatrali/A furono/V delle/DI collaborazioni/S ,/FF probabilmente/B con/E John/SP Fletcher/SP ,/FF che/PR gli/PC successe/V come/E poeta/S drammatico/A presso/E i/RD King/SP 's/PART Men/SP ./FS
+"/FB essere/V o/CC non/BN essere/V ,/FF questo/PD è/V il/RD problema/S "/FB ./FS
+In/E il/RD 1613/N ,/FF Sir/SP Henry/SP Wotton/SP scrisse/V che/CS l'/RD Enrico/SP VIII/SP "/FB fu/VA presentato/V con/E grande/A acclamazione/S fra/E fasti/S e/CC cerimonie/S "/FB ./FS
+La/RD raccolta/S conteneva/S 36/N testi/S ,/FF tra/E cui/PR 18/N inediti/S ./FS
+Li/PC dedicò/S a/E Henry/SP Wriothesley/SP ,/FF il/RD conte/S di/E Southampton/SP ./FS
+Questi/PD includono/V due/N opere/S scritte/V da/E Giuseppe/SP Verdi/SP ,/FF Otello/SP e/CC Falstaff/SP ,/FF la/RD cui/DR reputazione/S critica/A è/V paragonabile/A a/E quella/PD di/E le/RD opere/S originali/A ./FS
+A/E i/RD tempi/S di/E Shakespeare/SP ,/FF la/RD grammatica/S inglese/A ,/FF la/RD scrittura/S e/CC la/RD pronuncia/S erano/V meno/B standardizzate/S di/E quanto/PR non/BN lo/PC siano/VA adesso/B ,/FF e/CC il/RD suo/AP uso/S di/E il/RD linguaggio/S ha/VA aiutato/V a/E modellare/S l'/RI inglese/S moderno/A ./FS
+In/E gli/RD anni/S 50/N ,/FF un'/RI ondata/S di/E nuovi/A approcci/S critici/S rimpiazzò/S il/RD modernismo/S e/CC spianò/S la/RD strada/S a/E gli/RD studi/S "/FB post/A -/FF moderni/A "/FB su/E Shakespeare/SP ./FS
+A/E diciotto/N anni/S sposò/V la/RD ventiseienne/S Anne/SP Hathaway/SP ,/FF che/PR era/V incinta/S ./FS
+In/E il/RD tardo/S diciannovesimo/NO secolo/S ,/FF Edward/SP Dowden/SW definì/S quattro/N di/E le/RD ultime/NO opere/S di/E Shakespeare/SP come/E romance/S ,/FF e/CC nonostante/E molti/DI studiosi/S preferiscano/S chiamar/S le/RD tragicommedie/S ,/FF il/RD termine/S di/E Dowden/SP viene/V spesso/B utilizzato/V ./FS
+Ovviamente/B ,/FF siamo/V noi/PE ./FS
+Gli/RD economisti/S di/E Citigroup/SP ,/FF Mckinsey/SP ,/FF Pricewaterhousecoopers/SP ,/FF tra/E gli/RD altri/A ,/FF avevano/VA previsto/V un/RI periodo/S di/E crescita/S globale/A e/CC sostenuta/V che/CS avrebbe/VA dovuto/VM interessare/V vari/DI paesi/S ,/FF da/E l'/RD Asia/SP a/E l'/RD Africa/SP ./FS
+In/E terzo/NO luogo/S ,/FF i/RD tassi/S di/E cambio/S fluttuanti/S sono/V ammortizzatori/S imperfetti/S ./FS
+È/V ingenuo/S da/E parte/S di/E i/RD governi/S di/E i/RD mercati/S emergenti/A pensare/V che/CS i/RD grandi/A centri/S finanziari/A adeguino/S le/RD proprie/AP politiche/S in/E risposta/S a/E condizioni/S economiche/A vigenti/A altrove/B ./FS
+Ma/CC il/RD punto/S è/V che/CS le/RD idee/S tutelate/S da/E i/RD diritti/S di/E proprietà/S intellettuale/A sono/V il/RD motore/S di/E la/RD crescita/S sia/CC per/E i/RD paesi/S sviluppati/A che/PR per/E i/RD paesi/S in/E via/S di/E sviluppo/S ./FS
+E'/V ora/B che/CS i/RD leader/S indiani/S riconoscano/S il/RD ruolo/S positivo/A che/CS la/RD proprietà/S intellettuale/A può/VM svolgere/V in/E il/RD sostenere/V la/RD crescita/S e/CC migliorare/V il/RD benessere/S di/E i/RD cittadini/S ./FS
+Andy/SP Haldane/SP ,/FF uno/PI di/E i/RD banchieri/S di/E la/RD Boe/SP ereditati/S da/E Carney/SP ,/FF ha/VA contestato/V il/RD contributo/S economico/A di/E il/RD settore/S finanziario/A ,/FF indicando/S la/SW "/FB sua/AP capacità/S sia/CC di/E rinvigorire/S che/CC di/E limitare/V ampie/A parti/S di/E economia/S non/BN finanziaria/A "/FB ./FS
+Le/RD ragioni/S di/E questa/DD correlazione/S non/BN sono/V semplici/A da/E stabilire/V ,/FF e/CC le/RD conclusioni/S di/E gli/RD autori/S sono/VA controverse/S ./FS
+Queste/DD società/S hanno/VA più/B difficoltà/S a/E reclutare/S laureati/S competenti/A quando/CS le/RD società/S finanziarie/A possono/VM pagare/V stipendi/S più/B alti/A ./FS
+Ma/CC se/CS la/RD finanza/S continua/V a/E prender/V si/PC un/RI numero/S sproporzionato/S di/E i/RD laureati/S migliori/A e/CC più/B brillanti/A ,/FF potrebbe/VM restare/V poco/B manifatturiero/A inglese/S in/E il/RD 2050/N ,/FF e/CC ancor/B meno/B aziende/S hi/S -/SYM tech/S di/E oggi/B ./FS
+Secondo/E Heisenberg/SP ,/FF il/RD fenomeno/S subatomico/S può/V manifestar/S si/PC come/E particelle/S oppure/CC onde/S ;/FC
+l'/RD America/SP può/VM adottare/V una/RI nuova/A strategia/S di/E crescita/S ,/FF allontanando/V si/PC da/E l'/RD eccesso/S di/E consumo/S per/E avvicinar/V si/PC a/E un/RI modello/S basato/A su/E il/RD risparmio/S e/CC su/E l'/RD investimento/S in/E persone/S ,/FF infrastrutture/S e/CC capacità/S ./FS
+Come/B saranno/V allocate/S le/RD risorse/S per/E la/RD cura/S di/E gli/RD anziani/S ,/FF soprattutto/B in/E le/RD economie/S a/E crescita/S lenta/A dove/B gli/RD schemi/S pensionistici/S pubblici/A e/CC i/RD piani/S per/E la/RD salute/S di/E gli/RD anziani/S sono/VA evidentemente/S insostenibili/S ?/FS
+Una/RI tassa/S globale/A su/E il/RD carbonio/S attenuerebbe/S i/RD rischi/S su/E il/RD clima/S alleviando/S a/E il/RD contempo/S il/RD peso/S debitorio/S di/E i/RD governi/S ./FS
+Ma/CC quando/CS l'/RD innovazione/S incide/S su/E la/RD qualità/S di/E un'/RI automobile/S ,/FF il/RD compito/S diventa/V decisamente/B più/B arduo/S ./FS
+Le/RD donne/S che/PR hanno/V un'/RI istruzione/S secondaria/A o/CC terziaria/S entrano/V e/CC restano/V in/E il/RD mercato/S di/E il/RD lavoro/S più/B facilmente/B di/E le/RD loro/AP colleghe/S meno/S istruite/A ./FS
+Di/E fatto/S ,/FF il/RD suo/AP piano/S triennale/A per/E l'/RD innovazione/S economica/A ,/FF annunciato/V in/E il/RD mese/S di/E febbraio/S ,/FF punta/V a/E innalzare/S il/RD tasso/S di/E occupazione/S femminile/A fino/B a/E il/RD 62/N %/SYM entro/E il/RD 2017/S ,/FF ad/E esempio/S mediante/E l'/RD offerta/S di/E servizi/S per/E l'/RD infanzia/S di/E buona/A qualità/S ma/CC a/E prezzi/S accessibili/S e/CC un/RI allungamento/S di/E il/RD congedo/S parentale/SW retribuito/S ./FS
+Il/RD FMI/SP si/PC fonda/V su/E la/RD premessa/S di/SP rappresentare/V la/RD cooperazione/S tra/E tutti/T i/RD paesi/S di/E il/RD mondo/S ./FS
+Il/RD prossimo/A mese/S i/RD cittadini/S di/E l'/RD Ucraina/SP saranno/VA chiamati/V a/E scegliere/V liberamente/B un/RI nuovo/A presidente/S -/FF la/RD miglior/A strigliata/S possibile/S per/E la/RD propaganda/S russa/A su/E la/RD nostra/AP presunta/A incapacità/S di/E mantenere/V la/RD democrazia/S ./FS
+In/E base/S a/E le/RD stime/S ,/FF ci/PC sarebbero/VA poi/B 200/N mila/N casi/S di/E febbre/S gialla/A a/E l'/RD anno/S che/PR causano/S 30/N mila/N decessi/S a/E livello/S mondiale/A ./FS
+Solo/B attraverso/E una/RI normativa/S pragmatica/S e/S basata/A su/E i/RD fatti/S il/RD mondo/S potrà/VM comprendere/V a/E fondo/S il/RD potenziale/S di/E l'/RD ingegneria/S genetica/A in/E la/RD lotta/S contro/E le/RD malattie/S ./FS
+Mancando/SP la/RD Germania/SP di/E il/RD dinamismo/S economico/A necessario/A per/E sostenere/V finanziariamente/S l'/RD Europa/SP ,/FF i/RD suoi/AP leader/S hanno/VA preferito/V non/BN correre/V rischi/S su/E il/RD piano/S politico/A ./FS
+Amo/E le/RD sfide/S ,/FF e/CC salvare/V la/RD terra/S è/V probabilmente/B una/RI buona/A sfida/S ./FS
+Sappiamo/V tutti/PI che/CS la/RD terra/S è/V in/E pericolo/S ./FS
+Siamo/VA entrati/V ora/B in/E la/RD 6/N X/S :/FC
+la/RD sesta/S estinzione/S di/E massa/S su/E questo/DD pianeta/S ./FS
+Penso/V che/CS quel/DD voto/S sia/CC in/E corso/S ,/FF proprio/B adesso/B ./FS
+Voglio/VM presentar/V vi/B un/RI set/S di/E 6/N soluzioni/S micologiche/S ,/FF che/PR usano/V i/RD funghi/S ,/FF le/RD quali/PR sono/VA basate/V su/E il/RD micelio/S ./FS
+Il/RD micelio/S si/PC infonde/S in/E tutti/T i/RD terreni/S ,/FF mantiene/V i/RD suoli/S uniti/A ,/FF è/V estremamente/B tenace/S ./FS
+Regge/SP fino/B a/E 30.000/S volte/V la/RD propria/AP massa/S ./FS
+Sono/V i/RD grandi/A demolitori/S molecolari/S di/E la/RD natura/S ,/FF i/RD maghi/S di/E il/RD suolo/S ./FS
+Generano/E l'/RD humus/S in/E le/RD terre/S emerse/S di/E tutta/T la/RD terra/S ./FS
+Dusty/SP e/X io/PE ,/FF ci/PC piace/V dir/V lo/PC ,/FF la/RD domenica/S andiamo/V in/E chiesa/S qui/B ./FS
+Amo/E le/RD foreste/S primarie/S ,/FF e/CC sono/V un/RI americano/A patriottico/S proprio/AP grazie/S a/E loro/PE ./FS
+La/RD maggior/A parte/S di/E voi/PE conosce/V i/RD funghi/S champignon/S ./FS
+E/CC francamente/S ,/FF affronto/S un/RI grande/A ostacolo/S :/FC
+Spero/V di/E sfatare/S questo/DD pregiudizio/S per/E sempre/B ,/FF con/E voi/PE ./FS
+La/RD chiamiamo/S micofobia/S ,/FF l'/RD irrazionale/S paura/S di/E l'/RD ignoto/S quando/CS essa/PE riguarda/V i/RD funghi/S ./FS
+I/RD funghi/S hanno/V una/RI crescita/S molto/B rapida/A ./FS
+I/RD funghi/S producono/V dei/DI potenti/A antibiotici/S ./FS
+In/E effetti/S siamo/VA più/B vicini/A a/E i/RD funghi/S che/PR ad/E ogni/DI altro/A regno/S di/E la/RD natura/S ./FS
+Abbiamo/V in/E comune/A gli/RD stessi/A patogeni/S ./FS
+I/RD funghi/S non/BN amano/V marcire/V a/E causa/S di/E i/RD batteri/S e/CC così/B i/RD nostri/AP migliori/A antibiotici/S vengono/V da/E i/RD funghi/S ./FS
+Ma/CC qui/B c'/PC è/V un/RI fungo/S vecchio/S come/E il/RD mondo/S ./FS
+Dopo/CS aver/VA sporulato/S ,/FF marciscono/S ./FS
+Ma/CC vi/PC propongo/S l'/RI idea/S che/PR la/RD varietà/S di/E microbi/S presenti/S su/E i/RD funghi/S marcescenti/S è/V essenziale/A per/E la/RD salute/S di/E la/RD foresta/S ./FS
+Fanno/SP crescere/V gli/RD alberi/S ,/FF creano/V le/RD aree/S di/E detriti/S che/PR nutrono/S il/RD micelio/S ./FS
+E/CC così/B vediamo/V qui/B un/RI fungo/S che/E sporula/S ./FS
+Le/RD spore/S stanno/V germinando/S ,/FF il/RD micelio/S si/PC forma/V e/CC avanza/V sottoterra/S ./FS
+In/E soli/A tre/N centimetri/S cubi/S di/E suolo/S possono/VM esser/V ci/PC anche/B oltre/B 13/N chilometri/S di/E queste/DD cellule/S ./FS
+Il/RD mio/AP piede/S sta/VA coprendo/S oltre/E 480/S chilometri/S di/E micelio/S ./FS
+Questa/PD è/V la/RD microfotografia/S di/SP Nick/SP Read/SP e/CC Patrick/SP Higkey/SP ./FS
+Notate/SP come/E man/S mano/S che/PR il/RD micelio/S cresce/V ,/FF conquista/S il/RD terreno/S e/CC poi/B forma/V la/RD rete/S ./FS
+Noi/PE espiriamo/S Co2/SP ,/FF proprio/B come/E il/RD micelio/S ./FS
+E/CC il/RD micelio/S inspira/SW ossigeno/S ,/FF proprio/B come/CS noi/PE ./FS
+Ma/CC questi/PD sono/V essenzialmente/B stomaco/S e/CC polmoni/S esternalizzati/S ./FS
+E/CC vi/B lancio/S l'/RD idea/S che/PR queste/PD siano/V membrane/S neurologiche/SW estese/S ./FS
+E/CC in/E queste/DD cavità/S ,/FF si/PC formano/V microcavità/S ,/FF che/PR fondono/S i/X suoli/S e/CC assorbono/S acqua/S ./FS
+Sono/V piccoli/A pozzi/S ./FS
+E/CC dentro/E questi/DD pozzi/S iniziano/V a/E formar/S si/PC queste/DD comunità/S microbiche/S ./FS
+Per/E primo/NO ho/VA proposto/V ,/FF a/E gli/RD inizi/S di/E gli/RD anni/S '90/N ,/FF l'/RD idea/S che/PR il/RD micelio/S fosse/V l'/RD internet/S naturale/A di/E la/RD terra/S ./FS
+Osservando/SP lo/PC ,/FF il/RD micelio/S appare/V molto/B ramificato/S ./FS
+Il/RD micelio/S è/V senziente/S ./FS
+Sa/SP che/PQ sei/V in/E i/RD paraggi/S ./FS
+Quando/B lo/PC calpesti/S ,/FF camminando/S su/E il/RD terrero/S ,/FF esso/PE spunta/S da/E l'/RD impronta/S di/E i/RD piedi/S cercando/V di/E afferrare/S i/RD detriti/S ./FS
+Quindi/B ,/FF credo/V che/CS l'/RD invenzione/S di/E Internet/SP sia/V un'/RI inevitabile/A conseguenza/S di/E un/RI modello/S che/PR già/B si/PC era/VA dimostrato/V biologicamente/S valido/A ./FS
+Cambiando/SP argomento/S ,/FF la/RD materia/S oscura/S si/PC conforma/S a/E lo/RD stesso/A archetipo/S miceliale/S ./FS
+È/V questo/PD il/RD paradigma/S che/PQ vediamo/V in/E tutto/T l'/RD universo/S ./FS
+Molti/PI forse/B non/BN sanno/V che/CS furono/V i/RD funghi/S i/RD primi/NO organismi/S ad/E approdare/S su/E la/RD terraferma/S ./FS
+Arrivarono/SP 1,3/N miliardi/S di/E anni/S fa/B ,/FF centinaia/S di/E milioni/S di/E anni/S prima/B di/E le/RD prime/NO piante/S ./FS
+Com'/SP è/V possibile/A ?/FS
+Sbriciola/E le/RD rocce/S ed/CC è/V il/RD primo/NO passo/S in/E la/RD formazione/S di/E il/RD suolo/S ./FS
+L'/RD acido/S ossalico/S è/VA composto/V da/E due/N molecole/S di/E Co2/SP unite/V insieme/B ./FS
+Quindi/B i/RD funghi/S ed/CC il/RD micelio/S sequestrano/S la/SW Co2/SP sotto/E forma/S di/E ossalati/S di/E calcio/S ./FS
+E/CC anche/B gli/RD altri/A tipi/S di/E ossalati/S catturano/S la/SW CO2/SP da/E i/RD minerali/S che/PR si/PC sono/VA formati/V e/CC sono/V fuoriusciti/S da/E la/RD matrice/S rocciosa/S ./FS
+Questo/PD fu/VA scoperto/V per/E la/RD prima/NO volta/S in/E il/RD 1859/S ./FS
+Questa/PD è/V la/RD fotografia/S di/E Franz/SP Hueber/SP ;/FC
+È/VA stata/VA scattata/V in/E gli/RD anni/S '50/N in/E Arabia/SP Saudita/SP ./FS
+420/S milioni/S di/E anni/S fa/B ,/FF esisteva/S questo/DD organismo/S ./FS
+Si/PC chiamava/V Prototaxites/SP ./FS
+Un/RI Prototaxites/SP ,/FF restando/S bassi/A ,/FF era/V alto/B circa/B 1/N metro/S ./FS
+Le/RD piante/S più/B alte/A su/E la/RD terra/S ,/FF in/E quel/DD periodo/S ,/FF non/BN arrivavano/V a/E 70/N cm/S ./FS
+Tutti/DI territori/S di/E la/RD terra/S erano/VA punteggiati/S da/E questi/DD funghi/S giganti/S ;/FC
+e/CC questo/PD in/E quasi/B tutte/T le/RD masse/S terrestri/S ./FS
+Esso/PE è/V esisitito/S per/E decine/S di/E milioni/S di/E anni/S ./FS
+Una/RI quantità/S enorme/A di/E detriti/S fu/VA scagliata/S in/E atmosfera/S ;/FC
+la/RD luce/S solare/A si/PC offuscò/S e/CC i/RD funghi/S ereditarono/S la/RD terra/S ./FS
+Quegli/PE organismi/S che/PR facevano/V coppia/S con/E i/RD funghi/S furono/VA premiati/S ,/FF perché/CS a/E i/RD funghi/S la/RD luce/S non/BN serve/V ./FS
+Quindi/B l'/RD idea/S che/PR altrove/B ,/FF su/E altri/PI pianeti/S ,/FF esistano/S funghi/S ,/FF penso/V sia/V una/RI conclusione/S evidente/A ./FS
+In/E la/RD mia/AP mente/S ,/FF almeno/B ,/FF è/V così/B ./FS
+Il/RD più/B vasto/A organismo/S a/E il/RD mondo/S si/PC trova/V in/E l'/RD Oregon/SP orientale/A :/FC
+era/V ampio/A circa/B 890/S ettari/S e/S antico/A 2000/N anni/S ./FS
+Il/RD più/B largo/A organismo/S a/E il/RD mondo/S è/V un/RI tappeto/S miceliale/S ,/FF di/E lo/RD spessore/S di/E una/RI parete/S cellulare/A ./FS
+Il/RD micelio/S ,/FF in/E le/RD giuste/A condizioni/S ,/FF produce/V un/RI fungo/S ,/FF che/PR penetra/S con/E una/RI forza/S tale/A da/E bucare/S l'/RI asfalto/S ./FS
+Siamo/VA stati/VA coinvolti/V in/E diversi/DI esperimenti/S ./FS
+E/CC sto/V per/E mostrar/S vi/B ,/FF se/CS mi/PC permettete/S ,/FF 6/N soluzioni/S per/E salvare/V il/RD mondo/S ./FS
+Ho/VA lavorato/V con/E i/RD laboratori/S Battelle/SP di/E Bellingham/SP ,/FF Washington/SP ./FS
