@@ -5,16 +5,21 @@ from _collections import defaultdict
 import time
 from collections import OrderedDict
 
+from itertools import islice
 
-def fix_tag(word, tag):
+
+def take(n, iterable):
+    "Return first n items of the iterable as a list"
+    return list(islice(iterable, n))
+
+
+def fix_tag(word, tag, tag_prob):
     word = str(word)
     tag = str(tag)
 
+    most_prob = take(2, tag_prob)
     if len(tag) == 0:
-        if word[0].isupper():
-            tag = "SP"
-        else:
-            tag = "S"
+        tag = most_prob[1]
 
     return word, tag
 
@@ -58,7 +63,7 @@ def writetoFile1(bp, prevtag, index, line, ans):
         x = len(lines)
         tempans = ""
         for i in range(0, x):
-            fixed_word, fixed_tag = fix_tag(lines[i], listoftags[i])
+            fixed_word, fixed_tag = fix_tag(lines[i], listoftags[i], tagcountemit)
             tempans = tempans + " " + fixed_word.rstrip() + "/" + fixed_tag
         f1.write(tempans.lstrip().rstrip())
         f1.write("\n")
@@ -95,7 +100,7 @@ def Viterbi():
                             if float(tprob) == 0.0 or float(emission[t1]) == 0.0:
                                 # probval = -6
                                 try:
-                                    probval = first_avg[0]/first_avg[1]
+                                    probval = first_avg[0] / first_avg[1]
                                 except ZeroDivisionError:
                                     probval = first_avg[0]
                             else:
@@ -110,9 +115,13 @@ def Viterbi():
                             if k[0] == "<s>" and k[1] != "<s>":
                                 if transition[k] == 0:
                                     try:
-                                        previousword[tuple([observation, k[1], index])] = second_avg[0]/second_avg[1]
+                                        previousword[
+                                            tuple([observation, k[1], index])
+                                        ] = (second_avg[0] / second_avg[1])
                                     except ZeroDivisionError:
-                                        previousword[tuple([observation, k[1], index])] = second_avg[0]
+                                        previousword[
+                                            tuple([observation, k[1], index])
+                                        ] = second_avg[0]
                                 else:
                                     previousword[
                                         tuple([observation, k[1], index])
@@ -180,7 +189,7 @@ def Viterbi():
             findlasttag(backpointer, previousword, line, ans)
 
 
-def main():
+if __name__ == "__main__":
     count = 0
     if os.path.exists("hmmoutput.txt"):
         os.remove("hmmoutput.txt")
@@ -198,7 +207,3 @@ def main():
             else:
                 store(line, count)
         Viterbi()
-
-
-if __name__ == "__main__":
-    main()
