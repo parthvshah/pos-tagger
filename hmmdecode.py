@@ -19,6 +19,15 @@ word_tags = dict()
 tags_list = list()
 
 
+def is_english(s):
+    try:
+        s.encode(encoding="utf-8").decode("ascii")
+    except UnicodeDecodeError:
+        return False
+    else:
+        return True
+
+
 def take(n, iterable):
     return list(islice(iterable, n))
 
@@ -29,7 +38,13 @@ def fix_tag(word, tag, tag_prob):
 
     most_prob = take(2, tag_prob)[1:]
     if len(tag) == 0:
-        tag = most_prob[0]
+        if is_english(word[0]):
+            if word[0].isupper():
+                tag = "SP"
+            else:
+                tag = "S"
+        else:
+            tag = most_prob[0]
 
     return word, tag
 

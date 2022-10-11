@@ -4,7 +4,7 @@
 セントラル/NN ・/SYM リーグ/NN 審判員/NN の/PN 水落/NN 朋大/PS は/PK 実兄/VV 。/SYM
 多彩/JN な/XV ライブアクト/NN とともに/PP 、/SYM 祝日/NN 前/XS の/PN 渋谷/NNP の/PN 夜/NN を/PS 盛り上げ/VV て/PC くれ/AV そうだ/AV 。/SYM
 今作品/NN で/PS は/PK 大会/NN で/PS の/PM パラメータ/NN UP/NNP が/PS 非常/JN に/XV 大きく/JJ 、/SYM ALL/NN 999/NN へ/PS の/PM 育成/NN は/PK 回復/VV アイテム/NN を/PS 投与/NN し/XV つつ/PC 、/SYM 冬眠/NN 、/SYM 復活/NN を/PS 繰り返し/VV 大会/NN に/PS 連続/VV し/XV て/PC 出す/AV という/PQ 方法/NN が/PS 取ら/NN れ/AV た/AV 。/SYM
-ゲーム/NN 入力/VV の/PNB レスポンス/NN を/PS よく/JJ する/VV ため/NB に/PS は/PK 、/SYM これ/NP を/PS 1/CD 秒/XSC 間/XS に/PS 通常/NN 30/CD 回/XSC 以上/NB 行う/VV 必要/NN が/PS あり/VV 、/SYM 実際/NN に/PS 得/VV られ/AV た/AV データ/NN の/PN 回数/NN と/PQ 値/XS は/PK ゲーム/NN コントローラ/NN 内/XS の/PN 抵抗/NN や/PH 回路/NN 上/XS の/PN ノイズ/NN や/PH CPU/NN スピード/NN 、/SYM ゲーム/NN コントローラ/PN 全体/NN の/PN 容量/NN から/PC くる/AV RC/NN 回路/NN ・/SYM 時/NN 定数/NN に/PS 依存/VV する/XV 。/SYM
+ゲーム/NN 入力/VV の/PNB レスポンス/NN を/PS よく/JJ する/VV ため/NB に/PS は/PK 、/SYM これ/NP を/PS 1/CD 秒/XSC 間/XS に/PS 通常/NN 30/CD 回/XSC 以上/NB 行う/VV 必要/NN が/PS あり/VV 、/SYM 実際/NN に/PS 得/VV られ/AV た/AV データ/NN の/PN 回数/NN と/PQ 値/XS は/PK ゲーム/NN コントローラ/NN 内/XS の/PN 抵抗/NN や/PH 回路/NN 上/XS の/PN ノイズ/NN や/PH CPU/NN スピード/NN 、/SYM ゲーム/NN コントローラ/PN 全体/NN の/PN 容量/NN から/PC くる/AV RC/SP 回路/NN ・/SYM 時/NN 定数/NN に/PS 依存/VV する/XV 。/SYM
 姉/NN と/PS 同じ/JR 先生/NN だっ/AV た/AV ので/PC 、/SYM 話/NN やすかっ/AV た/AV です/AV 。/SYM
 同僚/NN 教師/NN の/PN すみれ/NN と/PQ 彩/NN は/PK そんな/JR 夕子/NN と/PQ 意気投合/NN し/XV 、/SYM 問題/NN を/PS 解決/VV する/XV ため/PC 行動/NN を/PS 共に/RB する/VV 。/SYM
 ほか/NN の/PN 複数/NN の/PN 信者/NN も/PK 女性/NN 宅/NN 近く/NR で/PS 付きまとい/NN 行為/NN を/PS し/VV て/PC い/AV た/AV と/PQ み/VV られ/AV ,/SYM 統一教会/NNP の/PN 組織的/JN な/XV 関与/NN の/PN 有無/NN を/PS 慎重/NN に/PX 調べ/VV て/PC いる/AV 。/SYM
@@ -35,14 +35,14 @@
 精神科/NN へ/PS 通院/NN する/XV 人/NN の/PN 中/NB に/PS は/PK 、/SYM 病院/NN へ/PS 通院/NN し/XV たり/PC 予約/NN 時間/NN まで/PA の/PN 間/NB 待ち/NN 続ける/AV だけ/PA で/PS も/PK 消耗/NN する/XV 人/NN も/PK い/AV ます/AV 。/SYM
 また/CC 、/SYM 前/NR 年/XPC 16/CD 本/XSC だっ/AV た/AV ホームラン/NN は/PK 19/CD 本/XSC まで/PA 増え/VV た/AV 。/SYM
 久しぶり/JN に/XV うまい/NN コーヒー/NN が/PS 飲/VV め/AV まし/AV た/AV 。/SYM
-これ/NP は/PK ほとんど/NR の/PN ユーザー/NN に/PS は/PK 問題なかっ/NN た/AV が/PC 、/SYM 一部/NN の/PN ゲーム/NN で/PS は/PK コピー/NN プロテクト/NN 用/XS の/PN 未/NN フォーマット/NN 領域/NN や/PH ディスク/NN に/PS たくさん/NN の/PN データ/NN を/PS 詰め/NN 込む/AV 方法/NN と/PS し/VV て/PC 拡張/NN トラック/NN を/PS 使用/VV し/XV て/PC おり/AV 、/SYM カスタム/NN フォーマット/NN ユーティリティ/NB で/PS は/PK 80/CD トラック/NN の/PN ディスク/NN に/PS 86/NN の/PM トラック/NN を/PS 作る/VV フォーマット/NN が/PS 容量/NN 拡張/NN の/PN 手段/NN と/PS し/VV て/PC 一般的/JN に/XV 選/VV べ/AV た/AV 。/SYM
+これ/NP は/PK ほとんど/NR の/PN ユーザー/NN に/PS は/PK 問題なかっ/NN た/AV が/PC 、/SYM 一部/NN の/PN ゲーム/NN で/PS は/PK コピー/NN プロテクト/NN 用/XS の/PN 未/NN フォーマット/NN 領域/NN や/PH ディスク/NN に/PS たくさん/NN の/PN データ/NN を/PS 詰め/NN 込む/AV 方法/NN と/PS し/VV て/PC 拡張/NN トラック/NN を/PS 使用/VV し/XV て/PC おり/AV 、/SYM カスタム/NN フォーマット/NN ユーティリティ/NB で/PS は/PK 80/CD トラック/NN の/PN ディスク/NN に/PS 86/S の/PM トラック/NN を/PS 作る/VV フォーマット/NN が/PS 容量/NN 拡張/NN の/PN 手段/NN と/PS し/VV て/PC 一般的/JN に/XV 選/VV べ/AV た/AV 。/SYM
 現在/NN は/PK 空き/NN 名跡/NN と/PQ なっ/VV て/PC いる/AV 。/SYM
 元文/NN 3/CD 年/XSC の/PN 一門/NN 家/XS 新設/NN 時/XS は/PK 加治木/NN 家/XS と/PS 垂水/NN 家/XS が/PS この/JR 家格/NN と/PQ さ/VV れ/AV た/AV が/PC 、/SYM 同年/NN に/PS 成立/VV し/XV た/AV 重富/NN 家/XS も/PK 加わり/NN 、/SYM 重富/NN 家/XS の/PN 前身/NN 、/SYM 越前/NN 島津/NN 家/XS が/PS 室町幕府/NN の/PN 直勤/NN だっ/AV た/AV ため/PC 、/SYM 一門/NN 家/XS 筆頭/NN と/PQ さ/VV れ/AV た/AV 。/SYM
-色/NN の/PN 指定/NN に/PS teal/NN と/PQ 指定/VV する/XV と/PC 、/SYM 16/CD 進数/XSC 表記/NN で/PS #/SYM 008080/NN と/PQ 表現/VV さ/XV れる/AV 色/NN が/PS 発色/NN さ/XV れる/AV 。/SYM
+色/NN の/PN 指定/NN に/PS teal/S と/PQ 指定/VV する/XV と/PC 、/SYM 16/CD 進数/XSC 表記/NN で/PS #/SYM 008080/S と/PQ 表現/VV さ/XV れる/AV 色/NN が/PS 発色/NN さ/XV れる/AV 。/SYM
 晩年/NN は/PK 霧ケ峰/NN 牧場/NB で/PS 余生/NN を/PS 過ごし/VV た/AV と/PQ いわ/VV れ/AV て/PC いる/AV 。/SYM
 以上/NN の/PN 操作/NN を/PS 再帰的/NN に/PX 繰り返す/VV と/PC 以下/NN の/PN ような/AV 決定/NN 木/NN が/PS 出力/NN さ/VV れる/AV 。/SYM
 どこ/NP に/PS する/VV か/PE 迷っ/NN て/PC る/AV 方/NB が/PS い/VV たら/AV 、/SYM ぜひ/RB と/PQ も/PK ここ/NP を/PS オススメ/VV し/XV ます/AV 。/SYM
-これ/NP は/PK おそらく/RB タバコ/NN を/PS 普及/VV さ/XV せ/AV た/AV ウォルター/NN ・/SYM ローリー/NN 卿/XS が/PS 伝説/NN の/PN 黄金/NN の/PM 都市/NN エル・ドラード/NN を/PS 求め/VV て/PC ガイアナ/NN の/PN オリノコ川/NN を/PS 遡っ/NN た/AV 1580/NN 年/XSC の/PN 遠征/NN の/PN 栄誉/NN を/PS 称え/NN た/AV もの/NB と/PS 見/VV られ/AV て/PC いる/AV 。/SYM
+これ/NP は/PK おそらく/RB タバコ/NN を/PS 普及/VV さ/XV せ/AV た/AV ウォルター/NN ・/SYM ローリー/NN 卿/XS が/PS 伝説/NN の/PN 黄金/NN の/PM 都市/NN エル・ドラード/NN を/PS 求め/VV て/PC ガイアナ/NN の/PN オリノコ川/NN を/PS 遡っ/NN た/AV 1580/S 年/XSC の/PN 遠征/NN の/PN 栄誉/NN を/PS 称え/NN た/AV もの/NB と/PS 見/VV られ/AV て/PC いる/AV 。/SYM
 16/CD 日/XSC の/PN 東京株式市場/NN も/PK 主力/NN 輸出/NN 株/NN は/PK さえ/PK ない/JJ 。/SYM
 これら/NP が/PS 順に/NN 収縮/VV する/XV こと/NB で/PS 食物/NN を/PS 胃/NN に/PX 送り出す/NN ような/AV 動き/NN を/PS する/VV 。/SYM
 実際/RB 廃止/VV さ/XV れ/AV た/AV 区間/NN の/PN 復旧/NN 再開/NN も/PK 京義/NN ・/SYM 東海/NNP 線/XS とともに/PP 検討/VV さ/XV れ/AV 、/SYM 1991/CD 年/XSC に/PS すでに/RB 用地/VV 買取/NN や/PH 設計/NN など/PA が/PS 済まさ/NN れ/AV て/PC い/AV た/AV が/PC 、/SYM 地形/NN 的/JN 理由/NN で/PS 見送ら/NN れ/AV て/PC き/AV た/AV 。/SYM
@@ -61,12 +61,12 @@
 人/NN を/PS 人/NN と/PS し/VV て/PC 思わ/VV ない/AV ような/AV ,/SYM 尋常/NN で/PS は/PK ない/JJ この/JR 現実/NN を/PS みなさん/NP に/PS お/XP 伝えし/VV たい/AV の/PNB です/AV 。/SYM
 ハンマー/NN は/PK やめ/VV て/PC !/SYM
 大きな/JR 拍手/NN が/PS 巻き/NN 起こり/VV まし/AV た/AV 。/SYM
-リミテッド/NN ・/SYM シリーズ/NN の/PN 『/SYM マーベル/NN 1602/NN 』/SYM で/PS 、/SYM 「/SYM スティーブン/NN ・/SYM ストレンジ/NN 卿/XS 」/SYM は/PK 専属/NN 医師/NN 兼/XP 魔術師/NN と/PQ し/VV て/PC エリザベス/NN 1/CD 世/XSC に/PS 仕え/NN た/AV 。/SYM
+リミテッド/NN ・/SYM シリーズ/NN の/PN 『/SYM マーベル/NN 1602/S 』/SYM で/PS 、/SYM 「/SYM スティーブン/NN ・/SYM ストレンジ/NN 卿/XS 」/SYM は/PK 専属/NN 医師/NN 兼/XP 魔術師/NN と/PQ し/VV て/PC エリザベス/NN 1/CD 世/XSC に/PS 仕え/NN た/AV 。/SYM
 果肉/NN は/PK 橙色/NN で/PS 、/SYM 肉質/NN は/PK やや/RB 硬い/NN が/PS 多汁/NN である/AV 。/SYM
 戸籍/NN 上/NB は/PK 女性/NN と/PS し/VV て/PC 生まれ/VV た/AV が/PC 、/SYM 幼い/JJ 頃/NB から/PS 「/SYM 自分/NN は/PK 男性/NN である/AV 」/SYM との/NN 性/XS 自認/NN を/PS 持っ/VV て/PC い/AV た/AV 。/SYM
 中日新聞社/NN が/PS 後援/NN し/XV て/PC いる/AV 。/SYM
 カラフル/NN で/PS 色合い/NN が/PS いい/JJ デザイン/NN が/PS あっ/VV た/AV ので/PC 気に入り/NN まし/AV た/AV 。/SYM
-クルマ/NN にまつわる/PP エピソード/NN を/PS Twitter/NN で/PS 投稿/VV する/XV 同/XP キャンペーン/NN 。/SYM
+クルマ/NN にまつわる/PP エピソード/NN を/PS Twitter/SP で/PS 投稿/VV する/XV 同/XP キャンペーン/NN 。/SYM
 ビッグ/NN ・/SYM モーラ/NN が/PS 破壊/VV さ/XV れ/AV た/AV とき/NB に/PS は/PK 、/SYM 彼ら/NP の/PN 策略/NN の/PN ため/NB に/PS 、/SYM 既に/RB かつて/RB の/PM 威光/NN は/PK なく/JJ なっ/VV て/PC い/AV た/AV 。/SYM
 北朝鮮/NNP について/PS は/PK ホーム/NN で/PS の/PM 対戦/NN も/PK すんなり/NN と/PQ は/PK いか/VV ない/AV 。/SYM
 定期的/JN に/XV イベント/NN し/VV て/PC る/AV らしく/AV て/PC 要/NN チェック/VV です/AV 。/SYM
@@ -88,8 +88,8 @@ JBS/NNP 日本/NNP 福祉/NN 放送/NN は/PK 社会福祉法人/NN “/SYM 視�
 その/JR 保健室/NN の/PN 養護教諭/NN が/PC ,/SYM 生徒/NN から/PS バカ/NN に/PX さ/XV れ/AV て/PC い/AV た/AV 様子/NN が/PS うかが/NN え/AV ます/AV 。/SYM
 今回/NR が/PS 初/NN の/PN ツアー/NN 競技/NN 挑戦/VV だ/AV 。/SYM
 やはり/RB 、/SYM 日常的/NN に/PX 利用/VV さ/XV れる/AV こと/NB が/PS 多い/JJ 業者/NN だけ/PA あっ/VV て/PC 、/SYM 非常/JN に/XV 慣れ/VV た/AV 感じ/NN は/PK あり/VV ます/AV 。/SYM
-流出/NN し/XV た/AV もの/NB と/PS さ/VV れる/AV 資料/NN 群/XS の/PN 中/NB に/PS ,/SYM “/SYM 日本/NNP における/PP 国産/NN テロリスト/NN の/PN 脅威/NN について/PS ”/SYM と/PQ いう/VV タイトル/NN の/PN PDF/NN ファイル/NN が/PS あり/VV まし/AV た/AV 。/SYM
-しかしながら/CC 、/SYM 中心部/NN の/PN 温度/NN は/PK 、/SYM 約/XPC 5,000/NN °C/XSC である/AV 。/SYM
+流出/NN し/XV た/AV もの/NB と/PS さ/VV れる/AV 資料/NN 群/XS の/PN 中/NB に/PS ,/SYM “/SYM 日本/NNP における/PP 国産/NN テロリスト/NN の/PN 脅威/NN について/PS ”/SYM と/PQ いう/VV タイトル/NN の/PN PDF/SP ファイル/NN が/PS あり/VV まし/AV た/AV 。/SYM
+しかしながら/CC 、/SYM 中心部/NN の/PN 温度/NN は/PK 、/SYM 約/XPC 5,000/S °C/XSC である/AV 。/SYM
 歯/NN の/PN かみ合わせ/NN を/PS 考え/VV て/PC 治療/NN を/PS し/VV て/PC くれる/AV 歯科/NN な/AV ので/PC 、/SYM 満足/NN の/PN いく/AV 治療/NN を/PS し/VV て/PC もらえ/AV ます/AV 。/SYM
 そして/CC 、/SYM 寛永/NN 期/XSC 以降/NR の/PN 蝦夷/NN 地/XS 幕領/NN 化/XS の/PN 中/NB で/PS 「/SYM 松前/NN 稼/NN 」/SYM と/PQ 呼ば/VV れ/AV た/AV 、/SYM 蝦夷/NN 地/XS へ/PS の/PM 労働力/NN 移動/NN が/PS 可能/JN で/XV あり/XA 、/SYM 飢餓/NN 期/XSC の/PN 困窮/NN を/PS 一時的/JN に/XV 回避/VV する/XV こと/NB が/PS でき/VV た/AV 。/SYM
 建設中/NN や/PH 計画中/NN の/PM ライン/NN が/PS さらに/RB 8/CD つ/XSC ある/VV と/PQ いう/VV 。/SYM
@@ -98,7 +98,7 @@ JBS/NNP 日本/NNP 福祉/NN 放送/NN は/PK 社会福祉法人/NN “/SYM 視�
 誕生日/NN 用/XS に/PS ホール/NN ケーキ/NN を/PS 予約/VV し/XV て/PC くれ/AV た/AV の/PNB です/AV が/PC 、/SYM これ/NP が/PS 美味/NN !/SYM
 組/NN 内外/NN から/PS 高い/JJ 評価/NN を/PS 受け/VV て/PC い/AV た/AV やり手/NN で/PS 、/SYM 二代目/NN 海江田/NNP 組/XS で/PS は/PK 実質的/JN な/XV 運営/NN を/PS 担っ/VV て/PC い/AV た/AV 。/SYM
 実際/NN は/PK ガセ/NN の/PM 情報/NN だっ/AV た/AV の/PNB だ/AV が/PC 、/SYM レコード/NN は/PK 自主/NN 回収/NN と/PQ なり/VV 、/SYM ナゴム/NN 閉社/NN へ/PS の/PM 決定打/NN の/PM ひとつ/NN と/PS なっ/VV て/PC しまう/AV 。/SYM
-HDCD/NNP 対応/NN デジ/NN フィル/NN の/PM 殆ど/RB 全て/NN の/PN IC/NN で/PS は/PK 必ず/RB -/XPC 1/CD dB/NN 絞っ/NN て/PC いる/AV ので/PC 、/SYM 通常/NN の/PN 音楽/NN CD/NN 盤/XS を/PS 再生/VV し/XV た/AV とき/NB 、/SYM その/JR D/NNP //NN A/NNP 変換/NN 回路/NN の/PN フルスケール/NN は/PK 用い/VV られ/AV て/PC い/AV ない/AV こと/NB に/PS なる/VV 。/SYM
+HDCD/NNP 対応/NN デジ/NN フィル/NN の/PM 殆ど/RB 全て/NN の/PN IC/NN で/PS は/PK 必ず/RB -/XPC 1/CD dB/S 絞っ/NN て/PC いる/AV ので/PC 、/SYM 通常/NN の/PN 音楽/NN CD/NN 盤/XS を/PS 再生/VV し/XV た/AV とき/NB 、/SYM その/JR D/NNP //S A/NNP 変換/NN 回路/NN の/PN フルスケール/NN は/PK 用い/VV られ/AV て/PC い/AV ない/AV こと/NB に/PS なる/VV 。/SYM
 われわれ/NP の/PN 組織/NN が/PS つぶれれ/NN ば/PC 良い/JJ と/PQ 日共/NN や/PH 権力/NN が/PS 願望/NN を/PS もっ/VV て/PC も/PK 今/NR の/PN ところ/NB 手/NN を/PS 下す/NN 方法/NN が/PS ない/JJ 。/SYM
 外/NN に/PS 出る/VV の/PNB は/PK 、/SYM 産後/NN 1/CD か月/XSC で/PS 始め/VV た/AV ヨガ/NN の/PM レッスン/NN に/PS 通う/VV 程度/NN 。/SYM
 来年/NR の/PN 春/NN 、/SYM すぐ/RB 近く/NR に/PS ある/VV 大きな/JR 公園/NN で/PS 、/SYM 子供/NN たち/XS と/PS 一緒/NN に/PS 桜/NNP を/PS みる/VV の/PNB が/PS 、/SYM 今/NR から/PS とても/RB 楽しみ/VV です/AV 。/SYM
@@ -108,26 +108,26 @@ HDCD/NNP 対応/NN デジ/NN フィル/NN の/PM 殆ど/RB 全て/NN の/PN IC/N
 身長/NN 172/CD cm/NNP 、/SYM 体重/NN 60/CD kg/NNP 。/SYM
 胸部/NN は/PK 格納庫/NN に/PX なっ/VV て/PC おり/AV 、/SYM 弾薬/NN など/PA 物資/NN を/PS 積む/NN こと/NB が/PS 可能/JN 。/SYM
 このよう/JN な/XV 大型/NN の/PN ゲル/NN 、/SYM 大型/NN の/PN ゲル/NN を/PS 中心/NN と/PS し/VV た/AV 遊牧民/NN の/PM 宮廷/NN の/PN こと/NB を/PS ふつう/NN オルド/NN と/PQ 呼ん/VV で/XV おり/AV 、/SYM モンゴル/NN 帝国/NN の/PN ハーン/NNP たち/XS は/PK 非常/JN に/XV 大きな/JR ゲル/NN を/PS オルド/NN と/PQ し/VV て/PC い/AV た/AV こと/NB が/PS 知ら/VV れる/AV 。/SYM
-2011/CD 年/XSC 3/CD 月期/XSC に/PS LED/NN 関連/NN 照明/NN 事業/NN で/PS 22/CD 億/CD 円/XSC の/PN 売り上げ/NN を/PS 目指す/VV 。/SYM
+2011/CD 年/XSC 3/CD 月期/XSC に/PS LED/SP 関連/NN 照明/NN 事業/NN で/PS 22/CD 億/CD 円/XSC の/PN 売り上げ/NN を/PS 目指す/VV 。/SYM
 1987/CD 年/XSC の/PN 第/XPC 1/CD 回/XSC 授賞式/NN 以来/NR 、/SYM この/JR 賞/XS は/PK アフリカ/NN 系/XS アメリカ人/NN の/PN ミュージシャン/NN にとって/PP 、/SYM 大変/RB 重要/JN な/XV 存在/NN と/PS なっ/VV て/PC いる/AV 。/SYM
 また/CC 同/JR 小説/NN で/PS は/PK 藍染/NN に/PX なすりつけ/NN られ/AV た/AV 罪/NN は/PK 、/SYM 元柳斎/NN の/PM 尽力/NN も/PK あっ/VV て/PC 藍染/NN の/PN 謀略/NN が/PS 認め/VV られ/AV た/AV こと/NB から/PS 鉄裁/NN ・/SYM 夜/NN 一/XS の/PN 罪状/NN 共々/SYM 取り消し/NN と/PQ なっ/VV た/AV こと/NB 、/SYM 商店/NN も/PK 尸魂界/NN 公認/NN と/PS なっ/VV た/AV 上/NB 、/SYM 破面/NN 篇/NN で/PS 喜助/NN の/PM 存在/NN が/PS 広く/JJ 知れ渡っ/NN た/AV 為/NB 、/SYM 現世/NN 駐在/NN 任務/NN の/PN 死神/NN が/PS 多数/NR 訪れる/VV ように/AV 手/NN が/PS 足り/VV なく/AV なり/AV つつ/PC ある/VV 程/PA 忙しく/NN なっ/VV て/PC いる/AV こと/NB が/PS 語ら/VV れ/AV て/PC いる/AV 。/SYM
 また/CC 、/SYM 未来/NN の/PN 高度/NN に/PS 進化/VV し/XV た/AV 人工知能/NN は/PK 本質的/NN に/PX 自己/NN 書き換え/NN を/PS 行う/VV はず/NB だ/AV と/PQ 主張/VV する/XV 者/NN も/PK いる/AV 。/SYM
 体/NN 表面/NN は/PK 水/NN に/PS ぬれ/NN て/PC も/PK 毛/NN の/PN 根元/NN は/PK 油分/NN により/PS 撥水/NN 効果/NN を/PS もち/RB 、/SYM これ/NP により/PS 野生動物/NN など/PA は/PK 厳しい/JJ 環境/NN の/PN 寒暖/NN の/PM 変化/NN から/PS 体内/NN の/PN 恒常性/NN を/PS 守っ/NN て/PC いる/AV 。/SYM
 形態/NN と/PS し/VV て/PC は/PK コンビニ/NN ATM/NN に/PS 類似/NN し/XV て/PC いる/AV 。/SYM
 生まれつい/NN て/PC “/SYM 針/NN ”/SYM を/PS 持っ/VV て/PC おり/AV 、/SYM それ/NP が/PS 彼女/NP の/PN 能力/NN に/PS 反映/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-「/SYM CS/NN 5/CD 」/SYM シリーズ/NN の/PN 中/NB でも/AV Web/NNP デザイナー/NN 向け/XS 製品/NN である/AV 「/SYM WebPremium/NN 」/SYM に/PS 含まれる/VV アプリケーション/NN について/PS の/PM 全体像/NN と/PC 、/SYM それぞれ/NP の/PN 製品/NN の/PN 役割/NN について/PS 紹介/VV し/XV て/PC いこ/VV う/AV 。/SYM
+「/SYM CS/SP 5/CD 」/SYM シリーズ/NN の/PN 中/NB でも/AV Web/NNP デザイナー/NN 向け/XS 製品/NN である/AV 「/SYM WebPremium/SP 」/SYM に/PS 含まれる/VV アプリケーション/NN について/PS の/PM 全体像/NN と/PC 、/SYM それぞれ/NP の/PN 製品/NN の/PN 役割/NN について/PS 紹介/VV し/XV て/PC いこ/VV う/AV 。/SYM
 日本/NNP 基督教団/NN 阿佐ヶ谷/NN 教会/NN の/PN 牧師/NN を/PS 務める/VV 。/SYM
-405/NN 法廷/NN ,/SYM 吉田/NNP 被告/NN は/PK 前回/NN 公判/NN 時/XS の/PN 手錠/NN に/PX 腰縄/NN の/PM 姿/NN と/PS は/PK 異なり/VV 上下/NN 黒/NN の/PN スーツ/NN 姿/NN で/PS 現れ/VV た/AV 。/SYM
+405/S 法廷/NN ,/SYM 吉田/NNP 被告/NN は/PK 前回/NN 公判/NN 時/XS の/PN 手錠/NN に/PX 腰縄/NN の/PM 姿/NN と/PS は/PK 異なり/VV 上下/NN 黒/NN の/PN スーツ/NN 姿/NN で/PS 現れ/VV た/AV 。/SYM
 まず/RB 予選/NN 7/CD 位/XSC の/PN #/SYM 1/CD ポルシェ/NN が/PS 抜群/NN の/PN スタート/NN を/PS 決め/VV 、/SYM オープニング/NN ラップ/NN の/PN グランプリ/NN コース/NN の/PN 間/NB に/PS トップ/NN に/PS 浮上/VV 。/SYM
 バイオリン/NN 弓毛/SYM 替/NN を/PS やっ/VV て/PC い/AV ます/AV 。/SYM
 施設/NN に/PS 宿泊/VV し/XV た/AV 人/NN も/PK い/AV た/AV よう/AV です/AV 。/SYM
 マダガスカル/NN ・/SYM コモロ/NN 。/SYM
 どこ/NP まで/PA も/PK 自分/NN しか/PK い/AV ない/AV 、/SYM 底/NN なし/NN の/PN 孤独/NN 。/SYM
-低公害車/NN は/PK それ/NP ほど/PA 多く/NR は/PK ない/JJ が/PC 、/SYM ハイブリッドバス/NN や/PH CNGバス/NN が/PS 導入/VV さ/XV れ/AV て/PC いる/AV 。/SYM
+低公害車/NN は/PK それ/NP ほど/PA 多く/NR は/PK ない/JJ が/PC 、/SYM ハイブリッドバス/NN や/PH CNGバス/SP が/PS 導入/VV さ/XV れ/AV て/PC いる/AV 。/SYM
 8月/NR 31/CD 日/XSC の/PN 今日/NR 行っ/VV て/PC き/AV まし/AV た/AV 。/SYM
 初めて/RB 行っ/VV た/AV お/XP 店/XS でし/AV た/AV が/PC 、/SYM 価格/NN も/PK 出来/NN も/PK 満足/JN し/XV て/PC い/AV ます/AV 。/SYM
 超/XP 長距離/NN 戦/XS に/PS 特化/VV し/XV て/PC いる/AV 分/NB 、/SYM 自分/NN から/PS 近い/JJ 所/NN に/PS は/PK 攻撃/VV でき/AV ない/AV 。/SYM
-1934/NN 年/XSC に/PS トーキー/NN に/PX 初出演/NN 。/SYM
+1934/S 年/XSC に/PS トーキー/NN に/PX 初出演/NN 。/SYM
 願い/NN が/PS あっ/VV て/PC 来/VV て/PC いる/AV !/SYM
 結婚/NN 11/CD 年/XSC 目/XS の/PN 夫/NN 浮気/NN 報道/NN が/PS 持ち上がっ/NN た/AV とき/NB 、/SYM ヴィクトリア/NN は/PK 彼/NP を/PS 信じ/VV て/PC い/AV た/AV そうだ/AV が/PC 、/SYM 寝/NN も/PK 歯/NN も/PK ない/JJ こと/NB を/PS 噂/NN する/AV 世間/NN に対し/PS 行き/VV 場/NN の/PN ない/JJ 怒り/NN が/PS 湧き上がっ/NN て/PC き/AV た/AV の/PNB も/PK 事実/RB だっ/AV た/AV そう/AV 。/SYM
 まずは/CC ,/SYM 1996/CD 年/XSC の/PN 教団/NN 本部/NN 移転/NN が/PS 隆法/NNP 氏/XS による/PS “/SYM 霊言/NN ”/SYM に/PS 振り回さ/NN れ/AV た/AV という/PQ “/SYM ドタバタ/NN 劇/NN ”/SYM の/PN お話/NN 。/SYM
@@ -150,7 +150,7 @@ HDCD/NNP 対応/NN デジ/NN フィル/NN の/PM 殆ど/RB 全て/NN の/PN IC/N
 横浜市/NNP 近辺/NN で/PS 英会話/NN を/PS 習い/NN たい/AV という/PQ 人/NN に/PS は/PK かなり/NR いい/JJ の/PNB で/PS は/PK ない/JJ でしょ/AV う/AV か/PE ?/SYM
 青雉/NN に/PX 助け/VV られ/AV た/AV 。/SYM
 一方/CC ,/SYM 淑徳大学/NN に/PS 飯田/NNP 氏/XS を/PS 紹介/VV し/XV た/AV コンサルタント/NN は/PK ,/SYM 自団体/NN の/PM ウェブ/NN サイト/NN など/PA から/PS 飯田/NNP 氏/XS 関連/NN の/PN 記述/NN を/PS 削除/VV 。/SYM
-JT/NN に/PX よる/VV と/PC 、/SYM 廃作/NN の/PM 募集/NN は/PK 2004/CD 年/XSC に/PS 続い/VV て/PC 2/CD 度/XSC 目/XS 。/SYM
+JT/SP に/PX よる/VV と/PC 、/SYM 廃作/NN の/PM 募集/NN は/PK 2004/CD 年/XSC に/PS 続い/VV て/PC 2/CD 度/XSC 目/XS 。/SYM
 従来/NR の/PN 同社/NN 製/XS より/PS 素材/NN の/PN 伸長/NN 率/XS が/PS 35/CD %/XSC 向上/VV し/XV 、/SYM 着脱/NN し/XV やすく/AJ なっ/VV た/AV と/PQ いう/VV 。/SYM
 球状/NN 星団/NN と/PQ し/VV て/PC は/PK まばら/NN な/XV 方/NB で/PS 、/SYM 口径/NN 20/CD cm/NNP 程度/NN の/PN 望遠鏡/NN で/PS 周辺部/NN は/PK 完全/NN に/PS 分離/VV でき/AV 、/SYM 口径/NN 30/CD cm/NNP で/PS は/PK 中心部/NN まで/PA 分離/VV できる/AV 。/SYM
 窓/NN 側/XS の/PN 席/NN で/PS 若い/JJ 女性/NN が/PS 信者/NN から/PS 入会/NN を/PS 強く/JJ 勧め/VV られ/AV て/PC いる/AV 様子/NN が/PS 確認/VV でき/AV た/AV 。/SYM
@@ -165,13 +165,13 @@ JT/NN に/PX よる/VV と/PC 、/SYM 廃作/NN の/PM 募集/NN は/PK 2004/CD 
 一方/CC 、/SYM 8/CD 市/XP 町/XS 以外/NB で/PS 放射線量/NN が/PS 高い/JJ 場所/NN が/PS 見つかっ/VV た/AV 場合/NB も/PK 、/SYM 面積/NN が/PS 広い/JJ 場合/NB に/PS は/PK 「/SYM 国/NN と/PS の/PM 協議/NN で/PS 検討/VV 」し/NN 、/SYM 局所的/NN なら/XA 「/SYM 補助金/NN など/PA の/PN 対象外/NN 」/SYM と/PQ の/PM 認識/NN が/PS 示さ/VV れ/AV た/AV 。/SYM
 先日/NR は/PK ありがとう/UH ござい/VV まし/AV た/AV 。/SYM
 _/NN 部下/NN は/PK ヘビー/NN ナイト/NN と/PS バッティ/NN 、/SYM ブルームハッター/NN 、/SYM トライデントナイト/NN 。/SYM
-レジ/NN にて/PS 受け取る/NN 「/SYM プリペイド/NN 番号/NN 通知/NN 票/XSC 」/SYM の/PN QR/NN コード/NN より/PS 携帯/VV サイト/NN に/PS ログイン/NN 。/SYM
+レジ/NN にて/PS 受け取る/NN 「/SYM プリペイド/NN 番号/NN 通知/NN 票/XSC 」/SYM の/PN QR/SP コード/NN より/PS 携帯/VV サイト/NN に/PS ログイン/NN 。/SYM
 通信教育/NN で/PS 挫折/NN し/XV た/AV ので/PC 資格/NN まで/PA とれる/NN の/PNB か/PF 心配/JN でし/XV た/AV が/PC 、/SYM 無事/NN 合格/VV し/XV 、/SYM 仕事/NN も/PK 決まり/NN まし/AV た/AV !/SYM
 試読/NN も/PK でき/VV ます/AV !/SYM
 南アフリカ/NN で/PS 開か/VV れる/AV サッカー/NN の/PN ワールドカップ/NN に/PS 合わせ/VV て/PC 、/SYM 旅行会社/NN で/PS は/PK 日本代表/NN の/PN 試合/NN を/PS 観戦/NN する/XV ツアー/NN を/PS 販売/VV し/XV て/PC い/AV ます/AV が/PC 、/SYM 現地/NN の/PN 治安/NN が/PS 悪い/JJ こと/NB など/PA を/PS 理由/NN に/PS 参加/NN を/PS 見送る/VV サポーター/NN も/PK 多く/JJ 、/SYM 開幕/NN まで/PA あと/NN 6/CD 日/XSC に/PS 迫っ/NN た/AV 今/NR も/PK ツアー/NN が/PS 売れ残る/NN 状況/NN が/PS 続い/VV て/PC い/AV ます/AV 。/SYM
-一方/CC 、/SYM BOφWY/NN 、/SYM JUDYANDMARY/NN など/PA 人気/NN バンド/NN が/PS 解散/NN し/VV て/PC いく/AV なか/NB で/PS 、/SYM こうした/JR バンド/NN の/PN ファン/NN が/PS 新た/JN に/XV コピー/NN バンド/NN を/PS 結成/VV する/XV ケース/NN も/PK 目立つ/NN ように/AV 各地/NN で/PS 活動/NN を/PS 継続/VV し/XV て/PC いる/AV 。/SYM
+一方/CC 、/SYM BOφWY/SP 、/SYM JUDYANDMARY/SP など/PA 人気/NN バンド/NN が/PS 解散/NN し/VV て/PC いく/AV なか/NB で/PS 、/SYM こうした/JR バンド/NN の/PN ファン/NN が/PS 新た/JN に/XV コピー/NN バンド/NN を/PS 結成/VV する/XV ケース/NN も/PK 目立つ/NN ように/AV 各地/NN で/PS 活動/NN を/PS 継続/VV し/XV て/PC いる/AV 。/SYM
 診察/NN を/PS し/VV ながら/PC さ/VV さっと/NN 診察/NN データ/NN を/PS 書き込ん/NN で/XV いる/AV ような/AV ので/PC 、/SYM 患者/NN と/PS 患者/NN の/PN 待ち/NN 時間/XSC は/PK 少ない/JJ ように/AV 思い/VV ます/AV 。/SYM
-10/CD 年/XSC W杯/NN 南アフリカ/NN 大会/NN 後/XS の/PN 昨/NN 夏/NR も/PK 獲得/NN に/PS 動い/VV た/AV Aマドリード/NN が/PC 、/SYM ここ/NP に/PS 来/VV て/PC 再び/RB 獲得/VV に/XV 乗り出し/NN て/PC いる/AV こと/NB が/PS 判明/VV 。/SYM
+10/CD 年/XSC W杯/SP 南アフリカ/NN 大会/NN 後/XS の/PN 昨/NN 夏/NR も/PK 獲得/NN に/PS 動い/VV た/AV Aマドリード/SP が/PC 、/SYM ここ/NP に/PS 来/VV て/PC 再び/RB 獲得/VV に/XV 乗り出し/NN て/PC いる/AV こと/NB が/PS 判明/VV 。/SYM
 この/JR 選考/NN について/PS 労働基準法/NN 違反/NN に/PS 抵触/NN する/XV 疑い/NN が/PS ある/VV と/PQ し/VV て/PC 、/SYM 厚生労働省/NN が/PS 調査/NN を/PS 開始/VV し/XV た/AV 。/SYM
 広大/NN で/PS 対象/NN と/PS なる/VV 亡者/NN も/PK 多い/JJ ため/PC 政令/NN 指定/NN 地獄/NN と/PS なっ/VV て/PC いる/AV が/PC 、/SYM 亡者/NN は/PK 地表/NN に/PX 落ちる/NN まで/PA 2000/CD 年/XSC 落下/NN し/XV 続ける/AV ため/PC 実際/NN に/PS 服役/NN する/XV 数/NN は/PK それ/NP ほど/PA で/PS も/PK なく/JJ 、/SYM 仕事/NN 自体/NB は/PK まだ/RB ヒマ/NN な/XV 方/NB である/AV 。/SYM
 内容/NN は/PK 、/SYM 下表/NN の/PN 通り/NB 。/SYM
@@ -182,8 +182,8 @@ _/NN 部下/NN は/PK ヘビー/NN ナイト/NN と/PS バッティ/NN 、/SYM �
 ホテル/NN ・/SYM コルテシア/NN 東京/NNP で/PS 挙式/NN 予定/NN の/PN 客/NN 。/SYM
 サクラ/NN も/PK 動員/VV さ/XV れ/AV て/PC い/AV た/AV ようだ/AV 。/SYM
 せまい/NN 待合室/NN の/PM 受付/NN で/PS 、/SYM 症状/NN を/PS 口頭/NN で/PS 言/NN わさ/NN れ/AV まし/AV た/AV 。/SYM
-KGB/NN の/PM 文書/NN に/PS は/PK 、/SYM 死因/NN は/PK 「/SYM 動脈硬化/NN に/PX 伴う/VV 循環器疾患/NN 」/SYM と/PQ 記録/VV さ/XV れ/AV て/PC いる/AV 。/SYM
-FBI/NN が/PS ポールセン/NN を/PS 追い/NN 始め/VV た/AV 時/NB 、/SYM 彼/NP は/PK 逃亡者/NN と/PQ し/VV て/PC 地下/NN に/PS 潜っ/NN て/PC い/AV た/AV 。/SYM
+KGB/SP の/PM 文書/NN に/PS は/PK 、/SYM 死因/NN は/PK 「/SYM 動脈硬化/NN に/PX 伴う/VV 循環器疾患/NN 」/SYM と/PQ 記録/VV さ/XV れ/AV て/PC いる/AV 。/SYM
+FBI/SP が/PS ポールセン/NN を/PS 追い/NN 始め/VV た/AV 時/NB 、/SYM 彼/NP は/PK 逃亡者/NN と/PQ し/VV て/PC 地下/NN に/PS 潜っ/NN て/PC い/AV た/AV 。/SYM
 再/XP 装填/NN は/PK 人力/NN である/AV 。/SYM
 スタッフ/NN の/PN 方/NB や/PH お/XP 店/XS の/PN 雰囲気/NN 良かっ/JJ た/AV です/AV 。/SYM
 現代/NN で/PS も/PK イラン/NNP や/PH パキスタン/NN で/PS は/PK この/JR ナスタアリーク/NN 体/XS が/PS 使わ/VV れ/AV て/PC いる/AV よう/AV です/AV 。/SYM
@@ -194,11 +194,11 @@ FBI/NN が/PS ポールセン/NN を/PS 追い/NN 始め/VV た/AV 時/NB 、/SY
 NBA/NNP の/PN コーチ/NN の/PN 中/NB に/PS は/PK 試合/NN 中/XS に/PS 大きな/JR 声/NN や/PH 身振り/NN 手振り/NN で/PS 選手/NN に/PS 指示/NN を/PS する/VV 者/NN も/PK 多い/JJ が/PC 、/SYM スコット/NN は/PK 腕組み/NN を/PS し/VV た/AV まま/NB 寡黙/JN に/XV 試合/NN の/PN 行方/NN を/PS 見守る/NN 。/SYM
 設立/NN は/PK 1965/CD 年/XSC 。/SYM
 彼女/NP の/PN 存在/NN は/PK 、/SYM ゲーテ/NN の/PN ほか/NB シラー/NN 、/SYM ヘルダー/NN など/PA 同時代/NN の/PN ヴァイマル/NN の/PN 文人/NN たち/XS に/PS 大きな/JR 影響/NN を/PS 与え/VV た/AV 。/SYM
-2500/NN 円/XSC の/PN コース/NN で/PS 、/SYM 私/NP は/PK お/XP 肉/NN ・/SYM 相方/NN が/PS お/XP 魚/NN を/PS 選び/VV まし/AV た/AV 。/SYM
+2500/S 円/XSC の/PN コース/NN で/PS 、/SYM 私/NP は/PK お/XP 肉/NN ・/SYM 相方/NN が/PS お/XP 魚/NN を/PS 選び/VV まし/AV た/AV 。/SYM
 その/JR ため/NB 人間界/NN で/PS の/PM 舞台/NN は/PK 里帰り/NN のみ/PA と/PS なる/VV 。/SYM
 ヴァイオリニスト/NN 。/SYM
 他の/JR 軍団/NN 員/XS と/PS 違っ/VV て/PC シュララ/NN 軍団/NN から/PS 足/NN を/PS 洗い/NN たい/AV と/PQ 思っ/VV て/PC おり/AV 、/SYM 登場/NN 目的/NN は/PK ケロロ/NN 小隊/NN に/PX 捕らえ/VV られ/AV た/AV 兄/NN を/PS 救う/VV こと/NB であっ/AV た/AV 。/SYM
-*/SYM 1902/NN 年/XSC -/SYM ドイツ/NNP 選手権/NN が/PS スタート/VV 。/SYM
+*/SYM 1902/S 年/XSC -/SYM ドイツ/NNP 選手権/NN が/PS スタート/VV 。/SYM
 週/NN に/PS 3/CD 回/XSC は/PK 行っ/VV て/PC ます/AV 。/SYM
 ノンビリ/NN キング/NN 十三/NN 世/XSC の/PN 部屋/NN 。/SYM
 現在/NR 、/SYM その/JR 名称/NN は/PK アトレティコ/NN の/PN 下部組織/NN の/PM 名前/NN と/PS し/VV て/PC 残っ/VV て/PC いる/AV 。/SYM
@@ -209,7 +209,7 @@ NBA/NNP の/PN コーチ/NN の/PN 中/NB に/PS は/PK 試合/NN 中/XS に/PS 
 2011/CD 年/XSC 1月/NR で/PS レギュラー/NN 放送/NN が/PS 終了/VV し/XV 、/SYM 今後/NR は/PK 特番/NN 前/XS の/PN 特別番組/NN と/PQ し/VV て/PC 放送/VV さ/XV れる/AV 。/SYM
 その後/NR 、/SYM 他の/JR 音楽番組/NN を/PS 担当/VV し/XV 、/SYM TBS/NNP を/PS 退職/NN 。/SYM
 これ/NP が/PS 無い/JJ 場合/NB 、/SYM 作業者/NN は/PK 死に/VV 至る/VV 致命傷/NN を/PS 負う/VV 場合/NB も/PK ある/XA 。/SYM
-SME/NN が/PC 、/SYM 生産性/NN の/PM 向上/NN と/PS 革新/NN を/PS 進め/VV 、/SYM 経済/NN の/PN 牽引/NN 役/XS と/PS なる/VV こと/NB を/PS 目的/NN と/PS し/VV て/PC いる/AV 。/SYM
+SME/SP が/PC 、/SYM 生産性/NN の/PM 向上/NN と/PS 革新/NN を/PS 進め/VV 、/SYM 経済/NN の/PN 牽引/NN 役/XS と/PS なる/VV こと/NB を/PS 目的/NN と/PS し/VV て/PC いる/AV 。/SYM
 当時/NR 3/CD 回/XSC 連続/NN で/PS オーダー/NN ミス/NN 。/SYM
 また/CC 、/SYM 香辛料/NN を/PS 輸入/VV する/XV ため/PC 、/SYM さかん/NN に/PX マカッサル/NN 王国/NN と/PS も/PK 交易/NN を/PS おこなっ/VV た/AV 。/SYM
 彼等/NN の/PM 遺体/NN は/PK 数日/NN 間/XS 晒さ/NN れ/AV て/PC 、/SYM 最終的/JN に/XV ノグ山/NN に/PX 埋葬/NN さ/XV れ/AV た/AV 。/SYM
@@ -223,18 +223,18 @@ SME/NN が/PC 、/SYM 生産性/NN の/PM 向上/NN と/PS 革新/NN を/PS 進�
 マイクスタンド/NN は/PK 彼/NP の/PN 背後/NN から/PS 伸び/VV 、/SYM 頭上/NN を/PS 通っ/VV て/PC 眼前/NN に/PX 降ろす/NN 可動/NN 式/XS の/PN もの/NB を/PS 使用/VV 、/SYM 必要/NN に/PS 応じ/VV て/PC 都度/NN 、/SYM ドラム/NN ・/SYM テク/NN が/PS マイクスタンド/NN を/PS 操作/VV し/XV て/PC いる/AV 。/SYM
 宗教法人/NN 格/XS の/PN 取り消し/NN 云々/NN は/PK ,/SYM 結局/NR の/PN ところ/NB ,/SYM その/JR 宗教/NN の/PN 持つ/VV 教義/NN そのもの/NN について/PS ,/SYM 善悪/NN の/PM 判断/NN を/PS 加える/NN こと/NB に/PS なる/VV だろ/AV う/AV 。/SYM
 同氏/NN は/PK ドジャース/NN で/PS 2/CD 度/XSC ワールドシリーズ/NN を/PS 制覇/NN 。/SYM
-男性/NN による/PS 、/SYM 番組/NN 名/XS ・/SYM 曲/NN 名/XS 等/XS の/PN 簡単/JN な/XV 英語/NN ナビゲート/NN が/PS あっ/VV た/AV が/PC 、/SYM WEB/NN 上/NB で/PS 情報/NN が/PS 一切/NR 公開/VV さ/XV れ/AV て/PC おら/AV ず/AV 、/SYM 氏名/NN 等/XS は/PK 一切/NR 不明/JN で/XV ある/XA 。/SYM
+男性/NN による/PS 、/SYM 番組/NN 名/XS ・/SYM 曲/NN 名/XS 等/XS の/PN 簡単/JN な/XV 英語/NN ナビゲート/NN が/PS あっ/VV た/AV が/PC 、/SYM WEB/SP 上/NB で/PS 情報/NN が/PS 一切/NR 公開/VV さ/XV れ/AV て/PC おら/AV ず/AV 、/SYM 氏名/NN 等/XS は/PK 一切/NR 不明/JN で/XV ある/XA 。/SYM
 そして/CC 回答/NN の/PN 最後/NN に/PS ,/SYM 週刊誌/NN の/PM 編集/NN 部/XS に対して/PS ,/SYM こんな/JR 一文/NN 。/SYM
 日本/NNP で/PS は/PK 江戸時代/NNP から/PS 昭和/NN にかけて/PS 、/SYM 主に/RB 農家/NN 以外/NB で/PS 飼い猫/NN の/PN 首輪/NN の/PN 喉/NN の/PM 部分/NN に/PS 鈴/NN を/PS 一/CD つ/XSC つける/NN こと/NB が/PS 行わ/VV れ/AV て/PC き/AV た/AV 。/SYM
 既に/RB 高麗/NN の/PN 太祖/NN の/PN 時期/NR から/PS 、/SYM 貴族/NN は/PK 王権/NN に対する/PS 強力/JN な/XV 挑戦者/NN だっ/AV た/AV 。/SYM
-1800/NN 年代/XSC は/PK 旧制/NN 高等学校/NN の/PN 医学部/NN 薬学/NN 科/XS と/PS し/VV て/PC 設置/VV さ/XV れ/AV た/AV が/PC 、/SYM 1900/NN 年代/XSC に/PS は/PK 旧制/NN 高等学校/NN から/PS 医学/NN 専門学校/NN が/PS 分離/VV さ/XV れ/AV た/AV 、/SYM また/CC 私立/NN の/PN 薬学/NN 専門学校/NN も/PK 設置/VV さ/XV れ/AV た/AV 。/SYM
+1800/S 年代/XSC は/PK 旧制/NN 高等学校/NN の/PN 医学部/NN 薬学/NN 科/XS と/PS し/VV て/PC 設置/VV さ/XV れ/AV た/AV が/PC 、/SYM 1900/S 年代/XSC に/PS は/PK 旧制/NN 高等学校/NN から/PS 医学/NN 専門学校/NN が/PS 分離/VV さ/XV れ/AV た/AV 、/SYM また/CC 私立/NN の/PN 薬学/NN 専門学校/NN も/PK 設置/VV さ/XV れ/AV た/AV 。/SYM
 店員/NN の/PN 教育/NN が/PS 残念/JN な/XV 店/NN 。/SYM
 昭和/NN が/PS 最も/RB 輝い/NN て/PC い/AV た/AV 昭和/XPC 30/CD 年代/XSC 中盤/NR 以降/NR の/PN 日用雑貨/NN 、/SYM 菓子/NN の/PN パッケージ/NN 、/SYM ビール瓶/NN や/PH 飲料水/NN の/PN 缶/NN 、/SYM そして/CC ポスター/NN に/PX パネル/NN など/PA 。/SYM
 後藤/NNP の/PN 事/NN が/PS 大好き/JN に/XV なっ/AV て/PC しまっ/AV た/AV 様々/JN な/XV 作戦/NN を/PS 使い/VV 嫌わ/NN れ/AV よう/AV という/PQ 企画/VV 。/SYM
 大き/NN さ/XV が/PC 全く/RB 違う/VV 海老/NN とか/PH 調理/NN 側/XS は/PK 何故/NN 平気/NN な/XV ん/AV だろ/AV 。/SYM
 でも/CC 、/SYM リユーアル/NN し/XV た/AV ゲストハウス/NN 風/XS の/PN ロビー/NN ?/SYM
 2008/CD 年/XSC に/PS 入り/VV 、/SYM 楽天/NN が/PS イーバンク銀行/NN と/PQ 資本提携/NN を/PS 行う/VV こと/NB と/PS なり/VV 、/SYM イーバンク銀行/NN が/PS 新規/NN に/PS 発行/VV する/XV 第三者/NN 割当/NN の/PN 優先株/NN を/PS 楽天/NN が/PS 引き受ける/NN こと/NB に/PS なり/VV 、/SYM 同/JR 年/XPC 9/CD 月/XSC 30/CD 日付/NN で/PS 社長/NN を/PS 含む/VV 一部/NN 経営陣/NN も/PK 楽天/NN の/PN 役員/NN から/PS 起用/VV さ/XV れ/AV た/AV 。/SYM
-導入/NN にあたって/PS は/PK 10/CD 回線/NN 以上/NB 299/NN 回線/NN 以下/NN が/PS 条件/NN であり/AV 2/CD 回線/NN から/PS 、/SYM および/CC 300/CD 回線/NN 以上/NB も/PK 導入/VV できる/AV ソフトバンクモバイル/NN オフィス/NN と/PS 比べる/VV と/PC 条件/NN を/PS 問わ/VV れる/AV 。/SYM
+導入/NN にあたって/PS は/PK 10/CD 回線/NN 以上/NB 299/S 回線/NN 以下/NN が/PS 条件/NN であり/AV 2/CD 回線/NN から/PS 、/SYM および/CC 300/CD 回線/NN 以上/NB も/PK 導入/VV できる/AV ソフトバンクモバイル/NN オフィス/NN と/PS 比べる/VV と/PC 条件/NN を/PS 問わ/VV れる/AV 。/SYM
 2007/CD 年/XSC から/PS は/PK 、/SYM 加藤/NNP ピン/NN の/PN 仕事/NN が/PS 多い/JJ 。/SYM
 突如/RB 、/SYM 臆病/NN な/XV 人格/NN と/PQ なっ/VV て/PC 弱体化/NN し/XV て/PC しまう/AV 負/NN の/PM 時間/NN と/PS 呼ば/VV れる/AV 一定/NN の/PN 時間/NN が/PS ある/VV の/PNB が/PS 、/SYM この/JR 種族/NN の/PN 最大/NN の/PN 弱点/NN 。/SYM
 昨年/NR の/PN 12月/NR 30/CD 日/XSC 、/SYM 日中/NN は/PK 病棟/NN 当番/NN だっ/AV た/AV 鈴木/NNP は/PK 、/SYM 夕方/NR 当直/NN 勤務/NN に/PS 入っ/VV た/AV 。/SYM
@@ -243,8 +243,8 @@ SME/NN が/PC 、/SYM 生産性/NN の/PM 向上/NN と/PS 革新/NN を/PS 進�
 同/JR 基金/NN で/PS は/PK 、/SYM ひとり/NN 親/NN 家庭/NN の/PN 就業/NN 支援/NN も/PK 新規/NN に/PS 実施/VV 。/SYM
 でも/CC 、/SYM まずは/CC ハーフ/NN ドリア/NN で/PS は/PK なく/JJ 1/CD 人/XSC 前/NR の/PN ドリア/NN を/PS お/XP 試し/NN 下さい/AV 。/SYM
 出場/NN 国/XS は/PK 6/CD カ国/XSC 。/SYM
-文字/NN を/PS 取り扱う/NN 範囲/NN は/PK 10/CD FFFF/NN まで/PA である/AV 。/SYM
-2010/CD 年/XSC 11月/NR 28/CD 日/XSC の/PN DDT/NN ・/SYM 後楽園/NN ホール/NN 大会/NN で/PS 首/NN を/PS 負傷/VV し/XV 「/SYM 後/NR 縦/NN 靱帯/SYM 骨化/NN 症/XS 」/SYM と/PQ 診断/VV さ/XV れる/AV 。/SYM
+文字/NN を/PS 取り扱う/NN 範囲/NN は/PK 10/CD FFFF/SP まで/PA である/AV 。/SYM
+2010/CD 年/XSC 11月/NR 28/CD 日/XSC の/PN DDT/SP ・/SYM 後楽園/NN ホール/NN 大会/NN で/PS 首/NN を/PS 負傷/VV し/XV 「/SYM 後/NR 縦/NN 靱帯/SYM 骨化/NN 症/XS 」/SYM と/PQ 診断/VV さ/XV れる/AV 。/SYM
 郡/XP 内/XS に/PS は/PK 自然/NN 湖/XS が/PS 無い/JJ が/PC 、/SYM 多く/NR の/PN 河川/NN が/PS ある/VV 。/SYM
 クラブ/NN の/PN 経営/NN を/PS 支える/VV 大きな/JR 柱/NN の/PN 一/CD つ/XSC である/AV 入場料/NN 収入/NN も/PK 、/SYM 2005/CD 年/XSC を/PS ピーク/NN に/PS 年々/NN 減少/VV し/XV て/PC おり/AV ます/AV 。/SYM
 福音書/NN は/PK ヘンリー/NN 8/CD 世/XSC の/PN 命令/NN による/PS 修道院/NN の/PN 解散/NN 時/XS に/PS ダラム/NN 大聖堂/NN から/PS 持ち出さ/NN れ/AV 、/SYM 17/CD 世紀/XSC 初頭/NN に/PS 英国/NNP 議会/NN の/PN 書記官/NN 、/SYM トーマス/NN ・/SYM ウォーカー/NNP から/PS ロバート/NN ・/SYM コットン/NN の/PN 手/NN に/PS 渡り/VV 、/SYM 18/CD 世紀/XSC に/PS は/PK 大英博物館/NN に/PX 納め/NN られ/AV 、/SYM 更に/RB そこ/NP から/PS ロンドン/NNP の/PN 大英/NN 図書館/NN に/PS 移さ/VV れ/AV た/AV 。/SYM
@@ -257,11 +257,11 @@ SME/NN が/PC 、/SYM 生産性/NN の/PM 向上/NN と/PS 革新/NN を/PS 進�
 ベン/NN が/PS 処刑/VV さ/XV れ/AV 、/SYM ウィラ/NN が/PS 地元/NN の/PN アイスクリーム/NN 屋/XS で/PS 働い/VV て/PC 生計/NN を/PS 立てる/NN ように/AV なっ/AV た/AV 或る/NN 日/XSC 、/SYM クリーサップ/NN の/PM 街/NN に/PS ハリー/NN が/PS 突然/RB あらわれ/VV た/AV 。/SYM
 徳島市/NN の/PM 東部/NN に/PS 位置/VV し/XV 、/SYM 吉野川/NN 下流/NN デルタ/NN 地帯/NN の/PN 一角/NN を/PS なす/VV 。/SYM
 地元/NN の/PN 農家/NN の/PN 方/NB が/PS 作っ/VV た/AV 野菜/NN の/PN コーナー/NN が/PS 好き/JN です/XV 。/SYM
-※/SYM GI/NN 昇格/NN 後/XS の/PN 年度/NN に/PS 限定/VV 。/SYM
-第/XPC 3/CD 次/XSC 以降/NR の/PN 平成/XPC 23/CD 年度/XSC 補正予算/NN 案/XS に/PS NEMIC/NN 整備/NN の/PN ため/NB の/PN 調査費/NN 計上/VV を/PS 目指し/VV て/PC いる/AV 。/SYM
+※/SYM GI/SP 昇格/NN 後/XS の/PN 年度/NN に/PS 限定/VV 。/SYM
+第/XPC 3/CD 次/XSC 以降/NR の/PN 平成/XPC 23/CD 年度/XSC 補正予算/NN 案/XS に/PS NEMIC/SP 整備/NN の/PN ため/NB の/PN 調査費/NN 計上/VV を/PS 目指し/VV て/PC いる/AV 。/SYM
 「/SYM ありがとう/UH ござい/VV ます/AV 」/SYM と/PQ お/XP 礼/NN を/PS 言い/VV 、/SYM 笑顔/NN で/PS 味わっ/VV て/PC い/AV た/AV 。/SYM
 主/JN な/XV 項目/NN に関する/PS 最終案/NN の/PM 内容/NN は/PK 以下/NN の/PN とおり/NB 。/SYM
-先/NN を/PS 歩い/VV て/PC い/AV た/AV ミニスカート/NN の/PM 女性/NN が/PS NK/NN プリント/NN の/PN 前/NB で/PS 自動車/NN に/PS はね/VV 飛ばさ/NN れる/AV 。/SYM
+先/NN を/PS 歩い/VV て/PC い/AV た/AV ミニスカート/NN の/PM 女性/NN が/PS NK/SP プリント/NN の/PN 前/NB で/PS 自動車/NN に/PS はね/VV 飛ばさ/NN れる/AV 。/SYM
 『/SYM ミューミューニャーニャー/NN 』/SYM は/PK NHK/NNP の/PN 幼児/NN 向け/XS 番組/NN 『/SYM おかあさんといっしょ/NN 』/SYM の/PN 人形劇/NN の/PM コーナー/NN 。/SYM
 同年/NN は/PK リザーブ/NN チーム/NN で/PS 6/CD 回/XSC プレー/VV し/XV た/AV 。/SYM
 女性/NN 教会/NN 員/XS が/PS 立候補/VV し/XV た/AV 松戸/NN 市議選/NN で/PS も/PK ,/SYM 足立/NNP 教会/NN の/PN 信者/NN が/PS 大量/JN 動員/VV さ/XV れ/AV て/PC い/AV た/AV 。/SYM
@@ -271,39 +271,39 @@ SME/NN が/PC 、/SYM 生産性/NN の/PM 向上/NN と/PS 革新/NN を/PS 進�
 水曜日/NN と/PQ 金曜日/NN に/PS 図書室/NN で/PS 貸し出し/NN の/PM 作業/NN を/PS し/VV て/PC いる/AV 。/SYM
 本/XP 作/XS の/PN 隠し/NN キャラクター/NN の/PN 1/CD 人/XSC 。/SYM
 セキュリティ/NN の/PN 点/NN で/PS も/PK 、/SYM 安心/JN し/XV て/PC 住/NN める/AV よう/AV 、/SYM オートロック/NN システム/NN を/PS はじめ/VV 、/SYM 防犯カメラ/NN 、/SYM ディンプルキー/NN ・/SYM 鎌/NN デッド/NN 錠/NN 、/SYM エレベータ/NN に/PX は/PK 防犯/NN モニタ/NN が/PS 設置/VV さ/XV れ/AV て/PC い/AV ます/AV 。/SYM
-超新星/NN の/PM 所属/NN 事務所/NN ,/SYM 株式会社/NN maroo/NN 企画/VV です/AV 。/SYM
-2012/CD 年/XSC 現在/NR 、/SYM 外車/NN だけ/PA で/PS も/PK ランボルギーニ/NNP ・/SYM ミウラ/NN P/NNP _/NN 400/CD SV/NN 、/SYM フェラーリ/NN ・/SYM F/NNP _/NN 512/NN M/NNP 、/SYM ベンツ/NN 、/SYM BMW/NN の/PN 4/CD 台/XSC を/PS 保有/VV し/XV 、/SYM 中でも/RB ランボルギーニ/NNP ・/SYM ミウラ/NN は/PK 1971/NN 年/XSC 生産/NN の/PN 車体/NN で/PS 41/CD 年/XSC が/PS 経過/VV し/XV た/AV 時点/NN で/PS も/PK 走行/NN 可能/JN と/PQ 、/SYM 極めて/RB 良好/JN な/XV コンディション/NN である/AV 。/SYM
+超新星/NN の/PM 所属/NN 事務所/NN ,/SYM 株式会社/NN maroo/S 企画/VV です/AV 。/SYM
+2012/CD 年/XSC 現在/NR 、/SYM 外車/NN だけ/PA で/PS も/PK ランボルギーニ/NNP ・/SYM ミウラ/NN P/NNP _/NN 400/CD SV/SP 、/SYM フェラーリ/NN ・/SYM F/NNP _/NN 512/S M/NNP 、/SYM ベンツ/NN 、/SYM BMW/SP の/PN 4/CD 台/XSC を/PS 保有/VV し/XV 、/SYM 中でも/RB ランボルギーニ/NNP ・/SYM ミウラ/NN は/PK 1971/S 年/XSC 生産/NN の/PN 車体/NN で/PS 41/CD 年/XSC が/PS 経過/VV し/XV た/AV 時点/NN で/PS も/PK 走行/NN 可能/JN と/PQ 、/SYM 極めて/RB 良好/JN な/XV コンディション/NN である/AV 。/SYM
 今後/NR とも/XS 超新星/NN を/PS 応援/VV いただき/AV ます/AV よう/AV ,/SYM よろしく/RB お/XP 願い/VV いたし/XV ます/AV 。/SYM
-山頂/NN まで/PA の/PN 距離/NN は/PK 、/SYM 4.8/NN km/NNP である/AV 。/SYM
+山頂/NN まで/PA の/PN 距離/NN は/PK 、/SYM 4.8/S km/NNP である/AV 。/SYM
 さっさと/NN 潰れろ/NN !/SYM
 台湾/NNP 守備/NN 混成/NN 第/XPC 2/CD 旅団/NN 長/XS を/PS 経/VV て/PC 、/SYM 日露戦争/NN に/PX 歩兵/NN 第/XPC 1/CD 旅団/NN 長/XS と/PS し/VV て/PC 出征/NN し/XV 、/SYM 南山/NN の/PM 戦い/NN に/PS 参戦/VV 。/SYM
-主/JN な/XV 内容/NN は/PK 本格的/JN な/XV 古典/NN 演奏/NN から/PS 和楽器/NN を/PS 使っ/VV た/AV ロック/NN や/PH ポップス/NN の/PM 紹介/NN と/PS 、/SYM DJ/NN による/PS 大学/NN 生活/NN や/PH 舞台/NN で/PS の/PM エピソード/NN トーク/NN 。/SYM
+主/JN な/XV 内容/NN は/PK 本格的/JN な/XV 古典/NN 演奏/NN から/PS 和楽器/NN を/PS 使っ/VV た/AV ロック/NN や/PH ポップス/NN の/PM 紹介/NN と/PS 、/SYM DJ/SP による/PS 大学/NN 生活/NN や/PH 舞台/NN で/PS の/PM エピソード/NN トーク/NN 。/SYM
 連合/NN は/PK 緒戦/NN の/PM 勢い/NN を/PS 失い/VV 、/SYM 双方/NN の/PN 首都/NN を/PS めぐり/VV バージニア州/NN で/PS 行わ/VV れ/AV て/PC い/AV た/AV 東部/NN 戦線/NN は/PK 膠着/NN 状態/NN に/PS 陥る/NN 一方/CC 、/SYM 南/NNP 軍/XS の/PN 西部/NN 戦線/NN に/PS ほころび/NN が/PS 生じ/VV た/AV 。/SYM
 とりわけ/RB バグダード/NN で/PS は/PK 神学/NN 教授/NN の/PN ガザーリー/NN など/PA が/PS 活躍/VV し/XV た/AV 。/SYM
 これ/NP にあたる/NN 語/XS と/PS し/VV て/PC は/PK ملك/NN が/PS あり/VV 、/SYM 字義/NN と/PQ し/VV て/PC は/PK 「/SYM 今/NR まさに/NN 持っ/VV て/PC いる/AV 」/SYM という/PQ 意味/VV 合い/AV に/PC なる/AV 。/SYM
-先日/NR ,/SYM 坂本/NNP 弁護士/NN 失踪/NN 事件/NN 直後/NN の/PN テレビ放送/NN の/PN VTR/NN や/PH 波野村/NN で/PS の/PM 反対/NN 集会/NN の/PN 映像/NN を/PS 観る/NN 機会/NN が/PS あっ/VV た/AV 。/SYM
+先日/NR ,/SYM 坂本/NNP 弁護士/NN 失踪/NN 事件/NN 直後/NN の/PN テレビ放送/NN の/PN VTR/SP や/PH 波野村/NN で/PS の/PM 反対/NN 集会/NN の/PN 映像/NN を/PS 観る/NN 機会/NN が/PS あっ/VV た/AV 。/SYM
 一部/NN を/PS 抜粋/NN し/XV ます/AV 。/SYM
 調子/NN に/PX 乗り/VV やすく/AJ 、/SYM 危険/JN な/XV 獣/NN 相手/NN に/PS ピンチ/NN に/PS 陥る/NN こと/NB も/PK 。/SYM
 白馬/NN に/PX 入る/VV 入り口/NN の/PN スキー場/NN で/PS も/PK あっ/VV て/PC とても/RB 奇麗/NN で/PS やる/VV こと/NB いっぱい/NN !/SYM
 普段/NN は/PK 成績/NN が/PS 悪く/JJ 遅刻/NN を/PS 繰り返す/VV 問題児/NN で/PS 、/SYM 第/XPC 1/CD 話/NN で/PS は/PK 喧嘩/NN で/PS 相手/NN を/PS 骨折/NN さ/XV せ/AV て/PC 自宅/NN 謹慎/NN まで/PA 受け/VV て/PC い/AV た/AV が/PC 、/SYM その/JR 反面/NN 、/SYM 正義感/NN が/PS 強く/JJ 仲間/NN から/PS の/PM 信頼/NN も/PK 厚い/JJ 。/SYM
-また/CC 、/SYM 同/JR ライブ/NN へ/PS 向け/VV 、/SYM 両/XP バンド/NN の/PN カップリング/NN 楽曲/NN と/PS 映像/NN を/PS 収録/VV し/XV た/AV CD/NN &/SYM DVD/NN パッケージ/NN 『/SYM Phoenix/NN Rising/NN 』/SYM が/PS 10月/NR 12/CD 日/XSC に/PS リリース/VV さ/XV れる/AV 。/SYM
+また/CC 、/SYM 同/JR ライブ/NN へ/PS 向け/VV 、/SYM 両/XP バンド/NN の/PN カップリング/NN 楽曲/NN と/PS 映像/NN を/PS 収録/VV し/XV た/AV CD/NN &/SYM DVD/NN パッケージ/NN 『/SYM Phoenix/SP Rising/SP 』/SYM が/PS 10月/NR 12/CD 日/XSC に/PS リリース/VV さ/XV れる/AV 。/SYM
 出演者/NN も/PK 特有/NN の/PN 風/NN と/PS 降りしきる/NN 雨/NN に/PS 悩ま/VV せ/AV られ/AV た/AV 。/SYM
 コダール/NN の/PM 完成/NN 型/XS である/AV コダール/NN i/NNP も/PK 『/SYM 揺れる/NN イン/NN トゥ/NN ・/SYM ザ/NNP ・/SYM ブルー/NN 』/SYM で/PS ビル/NN の/PN 倒壊/NN に対して/PS ラムダ/NN ・/SYM ドライバ/NN を/PS 発動/VV さ/XV せ/AV オーバーヒート/NN を/PS 起こし/VV て/PC いる/AV が/PC 、/SYM 検査/NN の/PN 結果/NN 何/NN の/PN 異常/NN も/PK 見/VV られ/AV なかっ/AV た/AV ため/PC 、/SYM こちら/NP は/PK ガウルン/NN による/PS ブラフ/NN と/PQ 見/VV られる/AV 。/SYM
 意識/NN を/PS 取り戻し/VV た/AV 友作/NN は/PK 階段/NN から/PS 落ち/VV た/AV 後/NB 、/SYM 危篤/NN 状態/NN だっ/AV た/AV 時間/NN と/PS 同じ/JR 57/CD 分/XSC 間/XS だけ/PA 他人/NN の/PN 心/NN の/PN 声/NN が/PS 聞こえる/NN 能力/NN を/PS 手に入れ/VV て/PC い/AV た/AV 。/SYM
 全国/NN 霊感商法/NN 対/XS 策/XS 弁護士/NN 連絡会/NN の/PN 渡辺博/NN 弁護士/NN は/PK 2009/CD 年/XSC 7月/NR ,/SYM 統一/NN 日報/NN の/PM 取材/NN に/PS “/SYM 統一教会/NNP は/PK 民団/NN や/PH 総/XP 連/NN といった/PQ 在日韓国人/NN 組織/NN の/PN 活動/NN に/PS も/PK 入り込み/NN ,/SYM 信者/NN 獲得/NN を/PS 進め/VV て/PC いる/AV ”/SYM と/PQ 語っ/VV て/PC いる/AV 。/SYM
-編成/NN 番号/NN は/PK 2/CD 両/XSC ・/SYM 3/CD 両/XSC 単位/NN で/PS 付/NN 番/NN さ/VV れ/AV 、/SYM 識別/NN 記号/NN 「/SYM HE/NN 」/SYM を/PS 冠し/VV 「/SYM HE/NN -/XPC 104/NN 」/SYM の/PN ように/AV 表す/VV 。/SYM
+編成/NN 番号/NN は/PK 2/CD 両/XSC ・/SYM 3/CD 両/XSC 単位/NN で/PS 付/NN 番/NN さ/VV れ/AV 、/SYM 識別/NN 記号/NN 「/SYM HE/SP 」/SYM を/PS 冠し/VV 「/SYM HE/SP -/XPC 104/S 」/SYM の/PN ように/AV 表す/VV 。/SYM
 信者/NN にとって/PP は/PK ありがたい/NN 存在/VV な/XV ので/PC あろ/NN う/AV が/PC ,/SYM 正直/JN カリスマ性/NN は/PK 感じ/VV られ/AV なかっ/AV た/AV 。/SYM
 単に/RB 「/SYM 属人主義/NN 」/SYM という/PQ 積極的/JN 属人主義/NN を/PS 指す/VV 場合/NB が/PS 多い/JJ 。/SYM
 この/JR 特別/NN 代表/NN は/PK 、/SYM 現在/NR 知ら/VV れ/AV て/PC いる/AV サイト/NN は/PK 日本/NNP や/PH 韓国/NNP の/PN 北朝鮮/NNP 支持者/NN が/PS 運営/VV し/XV て/PC いる/AV と/PQ 明らか/JN に/XV し/VV た/AV と/PQ いう/VV 。/SYM
 幸福/NN の/PN 科学/NN の/PN 広報/NN 担当者/NN に/PS よる/VV と/PC ,/SYM 今回/NR の/PN 広告/NN 掲載/NN は/PK “/SYM フライデー/NN 事件/NN ”/SYM 以来/NR ,/SYM 19/CD 年/XSC ぶり/XS と/PS の/PM こと/NB です/AV 。/SYM
 統一/NN 協会/NN 広報/NN に/PS 問い合わせ/NN た/AV 。/SYM
-PRACTICE/NN モード/NN は/PK ステージ/NN 3/CD で/PS 終了/VV だ/AV が/PC 、/SYM クリア/NN 時/XS に/PS ベル/NN を/PS 50/CD 個/XSC 以上/NB 保持/NN し/XV て/PC いれ/AV ば/PC ステージ/NN 4/CD 以降/NR に/PS 進める/VV 。/SYM
+PRACTICE/SP モード/NN は/PK ステージ/NN 3/CD で/PS 終了/VV だ/AV が/PC 、/SYM クリア/NN 時/XS に/PS ベル/NN を/PS 50/CD 個/XSC 以上/NB 保持/NN し/XV て/PC いれ/AV ば/PC ステージ/NN 4/CD 以降/NR に/PS 進める/VV 。/SYM
 主人公/NN の/PN 隣/NN の/PN アパート/NN に/PX 引っ越し/NN て/PC き/AV た/AV 幼稚園/NN の/PM 先生/NN 。/SYM
 アンジェロ/NN の/PN 一人娘/NN である/AV ジェニファー/NN は/PK 、/SYM 命/NN の/PN 危険/NN から/PS 遠ざける/NN ため/NB に/PS 、/SYM 幼い/JJ 頃/NB に/PS 養女/NN に/PX 出さ/VV れ/AV て/PC い/AV た/AV 。/SYM
 桜井/NN 高校/NN は/PK ランナー/NN 1.3/SYM 塁/NN から/PS 内野/NN ゴロ/NN で/PS 先制/VV し/XV ます/AV 。/SYM
 5/CD 人/XSC 以上/NB だ/AV と/PQ きつい/NN かもしれ/AV ない/AV けど/PC 、/SYM 少/XP 人数/NN の/PN 時/NB に/PS は/PK また/RB 使い/VV たいです/AV 。/SYM
 シーズン/NN 終了後/NN 球団/NN 社長/NN の/PN ジョン/NNP ・/SYM ショー/NN は/PK 辞任/VV し/XV 、/SYM 12月/NR 22/CD 日/XSC に/PS は/PK ジェイ/NN ・/SYM ジグムンド/NN に/PX 代わっ/VV て/PC ビリー/NNP ・/SYM ディバニー/NN が/PS ゼネラルマネージャー/NN と/PQ なっ/VV た/AV 。/SYM
-1462/NN 年/XSC 、/SYM アラゴン/NN 王/NN フアン/NN 2世/NN と/PS 、/SYM 最初/NN の/PN 妃/NN である/AV ナバラ/NN 女王/NN ブランカ/NN 1/CD 世/XSC と/PS の/PM 間/NB の/PN 王子/NN カルラス/NN が/PC 、/SYM ナバラ/NN 王位/NN を/PS 巡っ/VV て/PC 争う/VV こと/NB に/PS なっ/VV た/AV 。/SYM
+1462/S 年/XSC 、/SYM アラゴン/NN 王/NN フアン/NN 2世/NN と/PS 、/SYM 最初/NN の/PN 妃/NN である/AV ナバラ/NN 女王/NN ブランカ/NN 1/CD 世/XSC と/PS の/PM 間/NB の/PN 王子/NN カルラス/NN が/PC 、/SYM ナバラ/NN 王位/NN を/PS 巡っ/VV て/PC 争う/VV こと/NB に/PS なっ/VV た/AV 。/SYM
 大部分/NN が/PS 6/CD 車線/NN で/PS 、/SYM 品川/NN 埠頭/NN の/PM 連絡/NN 道/XS である/AV 。/SYM
 旅/NN の/PN 途中/NR で/PS 出会う/NN モンスター/NN を/PS 模し/NN た/AV 家具/NN を/PS 、/SYM マイハウス/NN に/PX 設置/VV 可能/JN 。/SYM
 さらに/RB その後/NR 、/SYM ビデオ/NN による/PS 撮影/VV が/PC 主流/NN と/PQ なる/VV に/XV 従い/NN 、/SYM ビデオ/NN 機材/NN を/PS 組み込ん/NN だ/AV 総合的/NN な/XV システム/NN と/PS し/VV て/PC の/PM スタジオ/NN が/PS 主流/NN と/PQ なっ/VV た/AV 。/SYM
@@ -328,7 +328,7 @@ PRACTICE/NN モード/NN は/PK ステージ/NN 3/CD で/PS 終了/VV だ/AV が
 お/XP 医者/NN さん/XS も/PK 、/SYM 日/XP 大/NN の/PN 大学病院/NN で/PS 脳神経外科/NN にて/PS 手術/NN など/PA の/PN 実績/NN が/PS 多数/NR あり/VV 、/SYM 脳神経外科/NN を/PS 経/VV て/PC 同じく/JJ 耳鼻科/NN の/PM 教授/NN に/PS スカウト/NN さ/VV れ/AV 脳/NN の/PN 近く/NR の/PN 部位/NN である/AV 耳鼻咽喉科/NN にて/PS 実績/NN を/PS 積ん/VV だ/AV 優秀/JN な/XV 先生/NN と/PS 聞い/VV て/PC い/AV ます/AV 。/SYM
 それに/CC ,/SYM 病気/NN を/PS 治す/NN 力/XS も/PK 知識/NN も/PK ない/JJ 人間/NN が/PS さも/NN 病気/NN を/PS 治/VV せる/AV か/PE の/PNB ように/AV 言っ/VV て/PC い/AV た/AV だけ/PA な/AV ので/PC あれ/VV ば/PC ,/SYM そもそも/NN 10/CD 円/XSC だ/AV って/PQ 払う/VV 筋合い/NN は/PK ない/JJ でしょ/AV う/AV 。/SYM
 若い/JJ 脳細胞/NN に/PX 与える/VV 傷/NN は/PK ,/SYM 一生/NR 消え/VV ない/AV でしょ/AV う/AV 。/SYM
-1225/NN 年/XSC に/PS バーベンベルク/NN 家/XS の/PN オーストリア/NNP 公/XS レオポルト/NN 6/CD 世/XSC の/PN 娘/NN マルガレーテ/NN と/PQ 結婚/VV 、/SYM ハインリヒ/NN 8/CD 世/XSC と/PS フリードリヒ/NN 4/CD 世/XSC を/PS 儲け/NN た/AV が/PC いずれ/NP も/PK 若く/JJ し/VV て/PC 早世/NN し/XV た/AV 。/SYM
+1225/S 年/XSC に/PS バーベンベルク/NN 家/XS の/PN オーストリア/NNP 公/XS レオポルト/NN 6/CD 世/XSC の/PN 娘/NN マルガレーテ/NN と/PQ 結婚/VV 、/SYM ハインリヒ/NN 8/CD 世/XSC と/PS フリードリヒ/NN 4/CD 世/XSC を/PS 儲け/NN た/AV が/PC いずれ/NP も/PK 若く/JJ し/VV て/PC 早世/NN し/XV た/AV 。/SYM
 午前中/NN の/PN 西光寺/NN と/PQ 違っ/VV て/PC ,/SYM かなり/NR 広大/NN な/XV 境内/NN だっ/AV た/AV ため/PC ,/SYM 門/NN の/PN 外/NN から/PS は/PK モニター/NN も/PK 見え/VV ず/AV スピーカー/NN から/PS の/PM 声/NN も/PK 聞き取/NN れ/AV ませ/AV ん/AV 。/SYM
 松濤/NN 本部/NN で/PS は/PK 拉致/NN 問題/NN 対/XS 策/XS 委員長/NN 補佐/NN を/PS 務め/VV て/PC いる/AV ようだ/AV 。/SYM
 この/JR 日/XSC は/PK 、/SYM 被害者/NN の/PN 会/NN の/PN 14/CD 人/XSC と/PS 弁護士/NN 3/CD 人/XSC が/PS 市役所/NN を/PS 訪れ/VV 、/SYM 福地/NN 直樹/NN 弁護士/NN が/PS 「/SYM 真相/NN 究明/NN と/PQ 被害/NN 救済/NN の/PN ため/NB 、/SYM 必要/JN な/XV 措置/NN を/PS 講じ/NN て/PC 欲しい/AJ 」/SYM と/PQ 述べ/VV て/PC 要請書/NN を/PS 提出/VV 。/SYM
@@ -339,18 +339,18 @@ PRACTICE/NN モード/NN は/PK ステージ/NN 3/CD で/PS 終了/VV だ/AV が
 スタンディング/NN で/PS わいわい/RB も/PK 2/CD F/NNP テーブル/NN 席/XS で/PS まったり/NN でも/CC 楽し/VV める/AV 泡/NN な/XV ドリンク/NN 専門/NN の/PN スタンディング/NN バー/NN 。/SYM
 ところが/CC 2/CD ちゃん/XS ねる/NN の/PM 幸福/NN の/PN 科学/NN 統合/NN スレッド/NN で/PS は/PK ,/SYM この/JR “/SYM 主催者/NN 発表/NN 数/XS ”/SYM に/PS 疑問/NN の/PN 声/NN が/PS 挙がり/NN まし/AV た/AV 。/SYM
 実験室/NN を/PS 1/CD カ所/XSC に/PS 集め/VV た/AV オープン/NN ラボ/NN 方式/NN を/PS 採用/VV し/XV た/AV 。/SYM
-JR東日本/NNP の/PN クモハ/NN 123-1/NN と/PQ は/PK 種/NN 車/XS が/PS 同じ/JN で/XV 、/SYM 番号/NN も/PK 続/NN 番/XSC と/PS なっ/VV て/PC いる/AV が/PC 、/SYM 外観/NN は/PK 大きく/JJ 異なる/VV 。/SYM
+JR東日本/NNP の/PN クモハ/NN 123-1/S と/PQ は/PK 種/NN 車/XS が/PS 同じ/JN で/XV 、/SYM 番号/NN も/PK 続/NN 番/XSC と/PS なっ/VV て/PC いる/AV が/PC 、/SYM 外観/NN は/PK 大きく/JJ 異なる/VV 。/SYM
 十六/NN 日/XSC の/PN 卒業式/NN が/PS 中止/NN に/PS なっ/VV た/AV 文教大学/NN 越谷/NN 校舎/NN の/PN 四/CD 年生/XSC ら/XS 学生/NN 有志/NN 約/XPC 二百/NN 人/XSC が/PS 越谷市/NN 内/XS の/PN 駅/NN や/PH スーパー/NN の/PN 前/NB など/PA に/PS 立ち/VV 、/SYM 被災者/NN 救援/NN の/PN ため/NB に/PS 募金/NN を/PS 呼び掛け/NN た/AV 。/SYM
 東京都/NNP 生まれ/XS 。/SYM
 幸福/NN の/PN 科学/NN の/PN 教え/NN を/PS 信じ/VV お/XP 布施/NN を/PS し/VV ,/SYM さらに/RB 今回/NR の/PN デモ/NN に/PS 参加/VV し/XV た/AV に/PS も/PK かかわら/VV ず/AV ,/SYM 教団/NN に/PS 守っ/NN て/PC もらえ/AV ない/AV の/PNB で/PS は/PK ,/SYM 信者/NN が/PS 気の毒/NN です/AV 。/SYM
 大阪駅/NNP から/PS 徒歩/NN 10/CD 分/XSC 圏内/NN の/PN スパホテル/NN で/PS 、/SYM 一/CD 人/XSC 旅行/NN で/PS も/PK 利用/VV できる/VV し/XV 友達/NN と/PS も/PK 利用/VV し/XV た/AV カプセルホテル/NN です/AV 。/SYM
 今回/NR 、/SYM アメリカ/NNP 側/XS は/PK 6/CD カ国/XSC 協議/NN の/PN 再開/NN に/PX 必要/JN な/XV 条件/NN を/PS 示す/VV ため/NB の/PN 「/SYM 予備的/NN な/XV 米朝/NN 協議/VV だ/AV 」/SYM と/PQ し/VV て/PC い/AV て/PC 、/SYM 北朝鮮/NNP の/PN 出方/NN を/PS 慎重/NN に/PX 見極める/NN 方針/NN です/AV 。/SYM
 1985/CD 年/XSC 8月/NR 28/CD 日/XSC 生/XS 。/SYM
-オハイオ州/NN 政府/NN の/PN コンピュータ/NN に/PS SETI@home/NN を/PS インストール/NN し/XV て/PC 使用/VV し/XV た/AV ため/NB に/PS 解雇/NN さ/VV れ/AV た/AV 例/NN が/PS ある/VV 。/SYM
+オハイオ州/NN 政府/NN の/PN コンピュータ/NN に/PS SETI@home/SP を/PS インストール/NN し/XV て/PC 使用/VV し/XV た/AV ため/NB に/PS 解雇/NN さ/VV れ/AV た/AV 例/NN が/PS ある/VV 。/SYM
 大震災/NN に/PS 対応/VV し/XV た/AV 特措法/NN の/PM 議論/NN も/PK 行っ/VV て/PC おり/AV 、/SYM しかる/NN べく/AV 対応/VV し/XV たい/AV 」/SYM と/PQ 答え/VV まし/AV た/AV 。/SYM
 それ/NP に対し/PS 、/SYM ヨハンネス/NN の/PM 要求/NN は/PK 「/SYM 奴隷/NN 500/CD 人/XSC 、/SYM 牛/NN 5/CD 万/CD 頭/XSC 、/SYM 馬/NN 1,000/CD 頭/XSC の/PN 貢物/NN と/PC 、/SYM メネリク/NN を/PS 上半身/NN 裸/NN に/PX し/VV た/AV 上/NB で/PS 罪人/NN の/PN 首枷/NN を/PS つ/VV け/AV て/PC 謝罪/VV さ/XV せる/AV 」/SYM という/PQ もの/NB だっ/AV た/AV 。/SYM
 以来/NR 、/SYM 約/XPC 10/CD カ月/XSC ぶり/XS に/PS 横田/NN が/PS 復活/VV 。/SYM
-MTX/NN の/PN 適応/NN が/PS 無い/JJ 患者/NN に対する/PS 第/XPC 二/CD 選択/NN 薬/NN と/PS し/VV て/PC 用い/VV られる/AV こと/NB が/PS 多い/JJ 。/SYM
+MTX/SP の/PN 適応/NN が/PS 無い/JJ 患者/NN に対する/PS 第/XPC 二/CD 選択/NN 薬/NN と/PS し/VV て/PC 用い/VV られる/AV こと/NB が/PS 多い/JJ 。/SYM
 体力/NN と/PQ ボール/NN パワー/NN が/PS 高い/JJ が/PC 、/SYM 素早/NN さ/NB が/PS 低い/JJ 。/SYM
 しかし/CC 彼/NP の/PN ホームレス/NN 支援/NN 活動/NN が/PS 悪い/JJ こと/NB だ/AV と/PQ は/PK 思/VV え/AV ませ/AV ん/AV 。/SYM
 その日/NR は/PK たまたま/RB サービス/NN で/PS 生肉/NN を/PS 出し/VV て/PC 頂い/AV た/AV が/PC 、/SYM 味/NN 、/SYM 食感/NN とも/XS に/PS 大した/NN 事/NN は/PK なかっ/JJ た/AV 。/SYM
@@ -364,12 +364,12 @@ MTX/NN の/PN 適応/NN が/PS 無い/JJ 患者/NN に対する/PS 第/XPC 二/C
 日本/NNP に/PS 馴染み/NN 、/SYM 短い/JJ 間/NB に/PS 日本語/NN を/PS 覚え/VV た/AV セルギイ/NN は/PK 、/SYM 日露戦争/NN の/PM 結果/NN 、/SYM 日本/NNP が/PS 獲得/VV し/XV た/AV 樺太/NN で/PS 没収/VV さ/XV れ/AV た/AV 資産/NN を/PS 信徒/NN に/PX 返還/NN する/VV ため/PC 、/SYM 正/XP 教徒/NN の/PN スポークスマン/NN と/PQ し/VV て/PC 活動/VV し/XV た/AV 。/SYM
 ちなみに/CC 、/SYM 大阪市/NNP は/PK 現在/NR の/PN 長居公園/NN に/PX 1951/CD 年/XSC 11月/NR 、/SYM 大阪/NNP 競馬場/NN を/PS 利用/VV し/XV て/PC 、/SYM 市営/NN の/PM 長居/NN オートレース/NN 場/XS も/PK 開設/VV し/XV た/AV が/PC 、/SYM 爆音/NN に/PX かかる/VV 周辺/NN 環境問題/NN や/PH 経営/NN 不振/NN を/PS 理由/NN に/PS 、/SYM わずか/RB 5/CD ヶ月/XSC で/PS 廃止/VV し/XV た/AV 。/SYM
 幸福実現党/NNP で/PS は/PK ,/SYM 唯一/NN の/PN 国会議員/NN であっ/AV た/AV 大江/NNP 康弘/NN 参議院議員/NN も/PK 昨年/NR 末/XS に/PS 離党/NN し/VV て/PC い/AV ます/AV 。/SYM
-この/JR 後/NB 結成/VV し/XV た/AV 「/SYM アテナ&ロビケロッツ/NN 」/SYM 「/SYM ガーディアンズ4/NN 」/SYM 、/SYM また/CC 2009/CD 年/XSC 6月/NR に/PS チャンプルユニット/NN と/PQ し/VV て/PC 結成/VV さ/XV れ/AV た/AV タンポポ#/NN ・/SYM プッチモニV/NN ・/SYM ZYX-α/NN ・/SYM 続・美勇伝/NN に/PX も/PK 選抜/NN 参加/VV し/XV た/AV メンバー/NN が/PS いる/VV 。/SYM
+この/JR 後/NB 結成/VV し/XV た/AV 「/SYM アテナ&ロビケロッツ/NN 」/SYM 「/SYM ガーディアンズ4/NN 」/SYM 、/SYM また/CC 2009/CD 年/XSC 6月/NR に/PS チャンプルユニット/NN と/PQ し/VV て/PC 結成/VV さ/XV れ/AV た/AV タンポポ#/NN ・/SYM プッチモニV/NN ・/SYM ZYX-α/SP ・/SYM 続・美勇伝/NN に/PX も/PK 選抜/NN 参加/VV し/XV た/AV メンバー/NN が/PS いる/VV 。/SYM
 玉子/NN チリソース/NN も/PK 気/NN に/PS なっ/VV た/AV 。/SYM
 その後/NR 、/SYM 1948/CD 年/XSC 8月/NR 25/CD 日/XSC の/PN 代議員/NN 選挙/NN によって/PS 北朝鮮/NNP 最高人民会議/NN が/PS 設立/VV さ/XV れ/AV 、/SYM 9月/NR 3/CD 日/XSC に/PS は/PK 北朝鮮/NNP 憲法/NN が/PS 公式/JN 採択/NN さ/XV れ/AV た/AV 。/SYM
 最後/NN に/PS 穀物/NN の/PM 珈琲/NN と/PS デザート/NN まで/PA 付い/VV て/PC くる/AV の/PNB です/AV 。/SYM
 ディスク/NN を/PS 取り外し/NN 可能/JN な/XV ハードディスク/NN の/PN こと/NB 。/SYM
-NPTL/NN は/PK RedHat/NN Enterprise/NN Linux/NNP の/PN バージョン/NN 3/CD から/PS 搭載/VV さ/XV れ/AV 、/SYM 現在/NN で/PS は/PK GNUC/NN ライブラリ/NN の/PM 一部/NN と/PS なっ/VV て/PC いる/AV 。/SYM
+NPTL/SP は/PK RedHat/SP Enterprise/SP Linux/NNP の/PN バージョン/NN 3/CD から/PS 搭載/VV さ/XV れ/AV 、/SYM 現在/NN で/PS は/PK GNUC/SP ライブラリ/NN の/PM 一部/NN と/PS なっ/VV て/PC いる/AV 。/SYM
 フェレット/NN 装甲車/NN の/PM 設計/NN と/PS 形状/NN は/PK 前任/NN の/PN ダイムラー/NN 偵察/NN 車/XS と/PS の/PM 共通点/NN が/PS 多い/JJ が/PC 、/SYM フェレット/NN 装甲車/NN は/PK ダイムラー/NN 偵察/NN 車/XS より/PS も/PK 戦闘/NN 区画/NN が/PS 広く/JJ 小さな/JR 機関銃/NN 付/XS の/PN 砲塔/NN を/PS 装備/VV し/XV て/PC いる/AV 。/SYM
 作中/NN で/PS は/PK 、/SYM 皇/NN 一心/NN や/PH 率いる/VV 集団/NN の/PN 社会階級/NN の/PM 明確/JN な/XV 描写/NN は/PK さ/VV れ/AV て/PC い/AV ない/AV 。/SYM
 また/CC “/SYM 名/NN 進/NN 信徒/NN 会/XS ”/SYM の/PN 所在地/NN について/PS も/PK “/SYM わかり/VV ませ/AV ん/AV ”/SYM 。/SYM
@@ -381,12 +381,12 @@ NPTL/NN は/PK RedHat/NN Enterprise/NN Linux/NNP の/PN バージョン/NN 3/CD 
 アメリカ/NNP の/PN 研究者/NN や/PH 中国/NNP の/PN 臨床試験/NN で/PS ,/SYM 免疫/NN システム/NN の/PN 病気/NN である/AV リューマチ/NN に/PS も/PK 効果/NN が/PS すぐれ/VV て/PC いる/AV という/PQ こと/NB も/PK 証明/VV さ/XV れ/AV まし/AV た/AV 。/SYM
 新宿/NNP の/PN 高速バス/NN を/PS 利用/VV する/XV とき/NB は/PK 必ず/RB 足/NN を/PS 運ん/VV で/XV しまう/AV 。/SYM
 お/XP 店/XS の/PN 雰囲気/NN も/PK 活気/NN が/PS ある/VV 感じ/NN が/PS 気に入っ/VV て/PC い/AV ます/AV 。/SYM
-1979/CD 年/XSC 、/SYM DEC/NN を/PS 辞め/NN て/PC 作家/NN 専業/NN と/PQ なり/VV 、/SYM フロリダ州/NNP オーランド/NNP に/PS 移住/NN し/XV た/AV 。/SYM
+1979/CD 年/XSC 、/SYM DEC/SP を/PS 辞め/NN て/PC 作家/NN 専業/NN と/PQ なり/VV 、/SYM フロリダ州/NNP オーランド/NNP に/PS 移住/NN し/XV た/AV 。/SYM
 板門店/NN 内/XS および/CC 共同/NN 警備/NN 区域/NN において/PP は/PK 、/SYM 韓国軍/NN を/PS 中心/NN と/PS し/VV た/AV 国連軍/NN と/PC 、/SYM 北朝鮮軍/NN の/PN 両軍/NN が/PS 境界線/NN を/PS 隔て/NN て/PC 顔/NN を/PS 合わせ/VV 警備/NN に/PS つい/VV て/PC いる/AV 。/SYM
 以上/NN の/PN 方面/NN は/PK 、/SYM 当/XP 駅/XS は/PK 途中/NR バス停/NN である/AV 。/SYM
 子ども/NN が/PS 熱/NN を/PS だし/VV とても/RB 親切/JN に/XV 診/VV て/PC いただき/AV まし/AV た/AV 。/SYM
 そこ/NP で/PS 今月/NR 19/CD 日/XSC に/PS 開か/VV れ/AV た/AV “/SYM 家系/NN の/PN お/XP はな/NN し/XV ”/SYM 講演会/NN に/PS 参加/VV し/XV た/AV 。/SYM
-当初/NR は/PK 2008/CD 年/XSC 4月/NR 1/CD 日/XSC から/PS 2011/CD 年/XSC 3月/NR 31/CD 日/XSC まで/PA の/PN 3/CD 年間/XSC の/PN 契約/NN で/PS 命名/NN 権/XS が/PS 売却/VV さ/XV れ/AV た/AV が/PC 、/SYM 2010/CD 年/XSC 12月/NR -/XPC 2011/CD 年/XSC 1月/NR にかけて/PS 実施/VV さ/XV れ/AV た/AV 同/JR ホール/NN の/PN 命名/NN 権/XS 募集/NN に/PS 穴吹興産/NN 1/CD 社/XSC しか/PK 応募/VV が/PC なかっ/AV た/AV ため/PC 、/SYM 同社/NN と/PS の/PM 間/NB で/PS 2011/CD 年/XSC 4月/NR 1/CD 日/XSC から/PS 2016/NN 年/XSC 3月/NR 31/CD 日/XSC の/PN 5/CD 年間/XSC の/PN 契約/NN で/PS 命名/NN 権/XS が/PS 売却/VV さ/XV れ/AV た/AV 。/SYM
+当初/NR は/PK 2008/CD 年/XSC 4月/NR 1/CD 日/XSC から/PS 2011/CD 年/XSC 3月/NR 31/CD 日/XSC まで/PA の/PN 3/CD 年間/XSC の/PN 契約/NN で/PS 命名/NN 権/XS が/PS 売却/VV さ/XV れ/AV た/AV が/PC 、/SYM 2010/CD 年/XSC 12月/NR -/XPC 2011/CD 年/XSC 1月/NR にかけて/PS 実施/VV さ/XV れ/AV た/AV 同/JR ホール/NN の/PN 命名/NN 権/XS 募集/NN に/PS 穴吹興産/NN 1/CD 社/XSC しか/PK 応募/VV が/PC なかっ/AV た/AV ため/PC 、/SYM 同社/NN と/PS の/PM 間/NB で/PS 2011/CD 年/XSC 4月/NR 1/CD 日/XSC から/PS 2016/S 年/XSC 3月/NR 31/CD 日/XSC の/PN 5/CD 年間/XSC の/PN 契約/NN で/PS 命名/NN 権/XS が/PS 売却/VV さ/XV れ/AV た/AV 。/SYM
 昔話/NN を/PS 聞く/VV と/PC 興奮/NN し/VV て/PC 発砲/NN する/XV 。/SYM
 由来/NN は/PK ヤコブ/NN から/PS 。/SYM
 ブルジョア/NN 教育/NN を/PS 最も/RB 推進/VV し/XV て/PC いる/AV の/PNB は/PK ,/SYM 日本共産党/NN である/AV 。/SYM
@@ -395,7 +395,7 @@ NPTL/NN は/PK RedHat/NN Enterprise/NN Linux/NNP の/PN バージョン/NN 3/CD 
 その/JR ほか/NB の/PN 主要/NN 任務/NN と/PS し/VV て/PC は/PK 「/SYM レーベンスボルン/NN 」/SYM と/PQ 「/SYM アーネンエルベ/NN 」/SYM の/PN 実質的/JN な/XV 運営/NN が/PS あっ/VV た/AV 。/SYM
 警視庁/NN や/PH 証券取引/NN 等/XS 監視/NN 委員会/NN と/PS 合同/VV で/XV 一斉/NN 捜索/NN する/AV 見通し/NN 。/SYM
 2005/CD 年/XSC に/PS オランダ/NN の/PN スパルタ/NN ・/SYM ロッテルダム/NN へ/PS 移籍/VV し/XV た/AV 。/SYM
-2013/CD 年/XSC 、/SYM 栃木/NN SC/NN の/PN シニア/NN アドバイザー/NN に/PS 就任/VV 。/SYM
+2013/CD 年/XSC 、/SYM 栃木/NN SC/SP の/PN シニア/NN アドバイザー/NN に/PS 就任/VV 。/SYM
 元々/NN は/PK 、/SYM 済美/NN 女子/NN 高等学校/NN であっ/AV た/AV が/PC 、/SYM 2004/CD 年/XSC 4月/NR から/PS 男女共学/NN 部/XS 普通科/NN を/PS 設置/VV し/XV 、/SYM 名称/NN が/PS 済美/NN 高等学校/NN と/PS なっ/VV た/AV 。/SYM
 ハーダー/NN は/PK 第二次世界大戦/NN の/PN 戦功/NN で/PS 6/CD 個/XSC の/PN 従軍/NN 星/XS 章/NN を/PS 受章/NN し/XV た/AV 。/SYM
 かつて/RB は/PK 、/SYM 塩山/NN -/XPC 丹波/NN -/XPC 奥多摩/NN 駅/XS という/PQ 形/NN で/PS 山梨交通/NN と/PQ の/PM 相互乗り入れ/NN を/PS 行っ/VV て/PC い/AV た/AV が/PC 、/SYM 利用客/NN の/PM 減少/NN など/PA により/PS 、/SYM 1972/CD 年/XSC で/PS 廃止/NN に/PS なっ/VV て/PC いる/AV 。/SYM
@@ -403,17 +403,17 @@ NPTL/NN は/PK RedHat/NN Enterprise/NN Linux/NNP の/PN バージョン/NN 3/CD 
 狭い/JJ お/XP 店/XS だ/AV けど/PC 、/SYM パン/NN だけ/PA じゃ/PS なく/JJ 結構/RB 変わっ/VV た/AV かりんとう/NN なんか/PA も/PK 売っ/NN て/PC まし/AV た/AV 。/SYM
 拉致/NN 監禁/NN 強制/NN 改宗/VV は/PK 犯罪/NN だ/AV !/SYM
 京成本線/NN 町屋/NN 駅/XS -/XPC 千住大橋/NN 駅/XS の/PN 間/NB に/PS 存在/VV し/XV て/PC い/AV た/AV 。/SYM
-製品/NN 生産者/NN たち/XS は/PK まだ/RB 自ら/NR の/PN ウェブ/NN サイト/NN で/PS 広告/VV する/XV という/PQ 手段/NN を/PS 持っ/VV て/PC おら/AV ず/AV 、/SYM 宣伝/NN に/PS は/PK 「/SYM AOLKeywords/NN 」/SYM を/PS 利用/VV し/XV て/PC い/AV た/AV 。/SYM
-1819/NN 年/XSC から/PS 1821/NN 年/XSC まで/PA の/PN 間/NB に/PS ヴィルヘルムス/NN 運河/NN が/PS 造ら/NN れ/AV 、/SYM 特に/RB ハイルブロンナー/NN 製紙/NN によって/PS 発展/VV し/XV た/AV 工業地域/NN の/PM 立地/NN に/PS 寄与/VV し/XV た/AV 。/SYM
+製品/NN 生産者/NN たち/XS は/PK まだ/RB 自ら/NR の/PN ウェブ/NN サイト/NN で/PS 広告/VV する/XV という/PQ 手段/NN を/PS 持っ/VV て/PC おら/AV ず/AV 、/SYM 宣伝/NN に/PS は/PK 「/SYM AOLKeywords/SP 」/SYM を/PS 利用/VV し/XV て/PC い/AV た/AV 。/SYM
+1819/S 年/XSC から/PS 1821/S 年/XSC まで/PA の/PN 間/NB に/PS ヴィルヘルムス/NN 運河/NN が/PS 造ら/NN れ/AV 、/SYM 特に/RB ハイルブロンナー/NN 製紙/NN によって/PS 発展/VV し/XV た/AV 工業地域/NN の/PM 立地/NN に/PS 寄与/VV し/XV た/AV 。/SYM
 教団/NN 内/XS で/PS は/PK “/SYM 科学技術/NN 省/XS 次官/NN ”/SYM の/PN 地位/NN に/PS あり/VV まし/AV た/AV 。/SYM
 強い/JJ 香り/NN を/PS 持つ/VV 植物/NN である/AV 。/SYM
 女性/NN も/PK 大丈夫/NN です/AV 。/SYM
 従来/NR 予想/NN は/PK 微増/NN の/PN 19/CD 億/CD 円/XSC 。/SYM
-この方/NN は/PK ,/SYM 本紙/NN </NN 沖縄/NNP 知事選/NN めぐり/VV 大江/NNP 議員/NN と/PS 幸福実現党/NNP が/PS 対立/VV 登場/VV さ/XV れ/AV た/AV 方/NB です/AV 。/SYM
-1708/NN 年/XSC に/PS カルロ/NN が/PS 死ぬ/VV と/PC 、/SYM マントヴァ/NN 公位/NN は/PK 廃位/NN さ/XV れ/AV 、/SYM ゴンザーガ/NN 家/XS は/PK 永久/NN に/PX マントヴァ/NN を/PS 失い/VV 、/SYM 以後/NR ハプスブルク家/NN 支配/NN と/PS なっ/VV た/AV 。/SYM
+この方/NN は/PK ,/SYM 本紙/NN </S 沖縄/NNP 知事選/NN めぐり/VV 大江/NNP 議員/NN と/PS 幸福実現党/NNP が/PS 対立/VV 登場/VV さ/XV れ/AV た/AV 方/NB です/AV 。/SYM
+1708/S 年/XSC に/PS カルロ/NN が/PS 死ぬ/VV と/PC 、/SYM マントヴァ/NN 公位/NN は/PK 廃位/NN さ/XV れ/AV 、/SYM ゴンザーガ/NN 家/XS は/PK 永久/NN に/PX マントヴァ/NN を/PS 失い/VV 、/SYM 以後/NR ハプスブルク家/NN 支配/NN と/PS なっ/VV た/AV 。/SYM
 ちょっと/RB し/VV た/AV 遊具/NN も/PK ある/VV ので/PC 小さな/JR 子ども/NN さん/XS も/PK いい/JJ と/PQ 思い/VV ます/AV 。/SYM
-SEX/NN が/PS 強/JJ すぎる/AV の/PNB かも知れ/AV ない/AV 。/SYM
-所属/NN 事務所/NN は/PK Breath/NN 。/SYM
+SEX/SP が/PS 強/JJ すぎる/AV の/PNB かも知れ/AV ない/AV 。/SYM
+所属/NN 事務所/NN は/PK Breath/SP 。/SYM
 紳助/NN さん/XS は/PK 、/SYM 先月/NR 23/CD 日/XSC の/PN 引退/NN 記者会見/NN で/PS 、/SYM 十/CD 数/CD 年/XSC 前/NR に/PS あっ/VV た/AV トラブル/NN を/PS 解決/VV し/XV て/PC くれ/AV た/AV の/PNB が/PS 、/SYM 暴力団/NN 関係者/NN だっ/AV た/AV こと/NB を/PS 明らか/JN に/XV し/VV た/AV 。/SYM
 自分/NN の/PN 身/NN は/PK 自分/NN で/PS 守ろ/VV う/AV !/SYM
 清/NNP 代/XS は/PK 湖北省/NN が/PS 置か/VV れ/AV 、/SYM その/JR まま/NB 現代/NN の/PN 行政区分/NN に/PX なっ/VV て/PC いる/AV 。/SYM
@@ -432,7 +432,7 @@ SEX/NN が/PS 強/JJ すぎる/AV の/PNB かも知れ/AV ない/AV 。/SYM
 治療/NN は/PK ステロイド/NN の/PN 内服/NN が/PS 中心/NN だ/AV と/PQ いう/VV 。/SYM
 彼女/NP は/PK 、/SYM ロサンゼルス/NN で/XV の/PNB より/PS 高い/JJ ステータス/NN を/PS 得/VV られる/AV 仕事/NN の/PN オファー/NN を/PS 受け入れ/VV た/AV の/PNB だっ/AV た/AV 。/SYM
 「/SYM 唯識三十頌/NN 」/SYM で/PS は/PK 上述/NN の/PN 八識説/NN を/PS 唱え/NN 、/SYM 部分的/NN に/PX 深層心理学/NN 的/JN 傾向/NN や/PH 生物学/NN 的/JN 傾向/NN を/PS 示し/VV た/AV 。/SYM
-1928/NN 年/XSC 10月/NR から/PS 1929/NN 年/XSC 11月/NR にかけて/PS 初代/NN 駐/XP トルコ/NNP 大使/NN である/AV 小幡/NN 酉吉/NN の/PN 帰朝/NN に/PX と/PQ も/PK ない/JJ 臨時/NN 代理/NN 大使/NN を/PS 務め/VV 、/SYM この/JR 間/NB に/PS 参事官/NN へ/PS と/PQ 昇格/VV し/XV た/AV 。/SYM
+1928/S 年/XSC 10月/NR から/PS 1929/S 年/XSC 11月/NR にかけて/PS 初代/NN 駐/XP トルコ/NNP 大使/NN である/AV 小幡/NN 酉吉/NN の/PN 帰朝/NN に/PX と/PQ も/PK ない/JJ 臨時/NN 代理/NN 大使/NN を/PS 務め/VV 、/SYM この/JR 間/NB に/PS 参事官/NN へ/PS と/PQ 昇格/VV し/XV た/AV 。/SYM
 彼女たち/NN は/PK 「/SYM 負け犬/NN 」/SYM を/PS 自称/NN し/VV ながら/PC 、/SYM その実/NN オタク/NN を/PS 恋愛/VV 対象/NN に/PS し/VV よう/AV と/PC せ/AV ず/AV ヒエラルキー/NN の/PM 下位/NN に/PS おき/VV 、/SYM 自己/NN の/PN 精神的/JN 安寧/NN を/PS 得/VV て/PC いる/AV に/PC 過ぎ/AV ず/AV 、/SYM その/JR オタク/NN を/PS 否定/VV する/XV 価値観/NN も/PK 「/SYM 恋愛/NN 資本主義/NN 」/SYM に/PS 洗脳/NN さ/XV れ/AV て/PC いる/AV に/PC 過ぎ/AV ない/AV と/PQ 主張/VV し/XV た/AV 。/SYM
 民主党/NNP 公約/NN が/PS あて/VV に/XV なら/XA ない/AV の/PNB は/PK まだ/RB ある/VV 。/SYM
 だが/CC 、/SYM 最後/NN は/PK 仲間/NN 達/XS の/PN 願い/NN を/PS 受け/VV て/PC 復活/VV し/XV た/AV メビウス/NN の/PN メビュームシュート/NN と/PQ ウルトラ/NN 兄弟/NN の/PN 合体/NN 光線/NN を/PS 受け/VV て/PC 再び/RB 消滅/VV し/XV た/AV 。/SYM
@@ -447,11 +447,11 @@ SEX/NN が/PS 強/JJ すぎる/AV の/PNB かも知れ/AV ない/AV 。/SYM
 好物/NN は/PK マシュマロ/NN 。/SYM
 私/NP は/PK ,/SYM 幸福/NN の/PN 施設/NN しか/PK 知ら/VV なく/AV て/PC 恐縮/NN です/AV が/PC ,/SYM 安心/JN し/XV て/PC 過ご/NN せる/AV 所/NN だ/AV と/PQ 思う/VV 。/SYM
 こじんまりし/NN た/AV 、/SYM アットホーム/JN な/XV 良い/JJ 雰囲気/NN で/PS 食事/NN が/PS 出来/VV ます/AV 。/SYM
-クアラルンプール/NN で/PS 開催/VV さ/XV れる/AV マラソン/NN は/PK この/JR ほか/NB 「/SYM KL/NN マラソン/NN 」/SYM など/PA 、/SYM 複数/NN の/PN 大会/NN が/PS ある/VV 。/SYM
+クアラルンプール/NN で/PS 開催/VV さ/XV れる/AV マラソン/NN は/PK この/JR ほか/NB 「/SYM KL/SP マラソン/NN 」/SYM など/PA 、/SYM 複数/NN の/PN 大会/NN が/PS ある/VV 。/SYM
 SF/NN 作品/NN など/PA で/PS 、/SYM 宇宙船/NN の/PN 航行/NN が/PS 著しく/JJ 困難/JN な/XV 空間/NN に/PS 「/SYM サルガッソ/NN 」/SYM の/PN 名/NN が/PS 冠さ/NN れる/AV こと/NB が/PS ある/VV 。/SYM
 英語/NN の/PN 公用語/NN 化/XS 云々/NN より/PS も/PK 、/SYM まずは/CC 国際/NN 感覚/NN を/PS 身/NN に/PS つ/VV ける/AV 社員教育/NN の/PN 方/NB が/PS 優先/VV す/XV べき/AV だろ/AV う/AV 。/SYM
-本/XP 作/XS より/PS 昔/NR の/PN 話/NN である/AV 『/SYM ドラゴンクエスト/NN III/NN 』/SYM の/PN 時代/NN で/PS は/PK 魔物/NN に/PS 滅ぼさ/NN れ/AV て/PC おら/AV ず/AV 活気/NN の/PNB ある/XA 町/XS と/PS し/VV て/PC 存在/VV し/XV て/PC い/AV た/AV 。/SYM
-2009/CD 年/XSC 11月/NR 28/CD 日/XSC 、/SYM サード/NN アルバム/NN 、/SYM 『/SYM Hell/NN Chose/SYM Me/NN 』/SYM の/PN レコーディング/NN を/PS 終える/NN 。/SYM
+本/XP 作/XS より/PS 昔/NR の/PN 話/NN である/AV 『/SYM ドラゴンクエスト/NN III/SP 』/SYM の/PN 時代/NN で/PS は/PK 魔物/NN に/PS 滅ぼさ/NN れ/AV て/PC おら/AV ず/AV 活気/NN の/PNB ある/XA 町/XS と/PS し/VV て/PC 存在/VV し/XV て/PC い/AV た/AV 。/SYM
+2009/CD 年/XSC 11月/NR 28/CD 日/XSC 、/SYM サード/NN アルバム/NN 、/SYM 『/SYM Hell/SP Chose/SYM Me/SP 』/SYM の/PN レコーディング/NN を/PS 終える/NN 。/SYM
 今年/NR 7月/NR から/PS 、/SYM 宝塚歌劇/NN の/PN 専門チャンネル/NN 「/SYM タカラヅカ/NN ・/SYM スカイ/NN ・/SYM ステージ/NN 」/SYM の/PN 案内役/NN スカイ/NN ・/SYM フェアリーズ/NN を/PS 務め/VV て/PC いる/AV 。/SYM
 取締/NN 機/XS によって/PS 撮影/VV さ/XV れる/AV と/PC 、/SYM 数日/NN から/PS 遅くとも/NN 30/CD 日/XSC 以内/NN に/PS 警察/NN から/PS 当該/JR 車両/NN の/PN 所有者/NN に/PS 出頭/NN 通知/NN が/PS 送付/VV さ/XV れる/AV 。/SYM
 享年/NN 84/CD 。/SYM
@@ -474,7 +474,7 @@ SF/NN 作品/NN など/PA で/PS 、/SYM 宇宙船/NN の/PN 航行/NN が/PS �
 2010/CD 年/XSC 10月/NR 17/CD 日/XSC に/PS インディアナ州/NN で/PS 前立腺がん/NN で/PS 亡くなっ/VV た/AV 。/SYM
 劉裕/NN の/PN 異母/NN 弟/NN に/PS あたる/VV 。/SYM
 看護師/NN 不足/NN が/PS 問題/NN と/PS なる/VV 中/NB 、/SYM 高梁市/NN が/PS 看護師/NN を/PS 目指す/VV 学生/NN を/PS 対象/NN に/PS し/VV た/AV 看護師/NN 養成/NN 奨学金制度/NN を/PS つく/VV り/NN 、/SYM 4月/NR から/PS 奨学生/NN の/PM 募集/NN を/PS 始める/VV 。/SYM
-1821/NN 年/XSC から/PS 1867/NN 年/XSC まで/PA の/PN 長き/JJ に/PS 亘っ/VV て/PC モスクワ/NN 府/XS 主教/NN 位/XSC に/PS あっ/VV た/AV 。/SYM
+1821/S 年/XSC から/PS 1867/S 年/XSC まで/PA の/PN 長き/JJ に/PS 亘っ/VV て/PC モスクワ/NN 府/XS 主教/NN 位/XSC に/PS あっ/VV た/AV 。/SYM
 でも/CC 重症/NN じゃ/AV ない/AV ので/PC 絶対/RB に/PX 治る/NN と/PQ 信じ/VV て/PC 治療/NN に/PS 専念/NN し/XV 、/SYM きれい/JN な/XV 女性/NN に/PS なり/VV たい/AV と/PQ の/PM 想い/NN を/PS 込め/NN 、/SYM 決断/NN し/VV まし/AV た/AV 。/SYM
 この/JR 風景/NN を/PS 学生/NN が/PS 見/VV たら/AV 大喜び/NN を/PS する/VV に/XV 違い/VV ない/AV 。/SYM
 現在/NR の/PN 書店/NN 「/SYM 丸善/NN 」/SYM だ/AV 。/SYM
@@ -493,9 +493,9 @@ X線/NN 新星/NN の/PM 特徴/NN である/AV 、/SYM 数/CD ヶ月/XSC かけ
 3月/NR 20/CD 日/XSC に/PS 発売/VV 開始/NN 。/SYM
 今/NR 上大岡/NN に/PX 住ん/VV で/XV い/AV て/PC 、/SYM 毎週/NR 行っ/VV て/PC い/AV ます/AV 。/SYM
 千/CD 月/XSC 学園/NN に/PS 通い/VV つつ/PC 弥勒/NN 院/XS を/PS サポート/NN する/VV 有能/NN な/XV 助手/NN で/PS は/PK ある/VV が/PC 、/SYM 謎/NN も/PK 多い/JJ 不思議/JN な/XV 少女/NN 。/SYM
-旧/XP 松山/NN 藩/NN 領/NN 東部/NN に当たる/NN 西条/NN 6/CD 万/CD 8600/NN 石/XSC は/PK 、/SYM 伊勢/NN 国/XS 神戸/NNP 藩主/NN 一柳/NN 直盛/NN に/PX 与え/VV られ/AV た/AV が/PC 、/SYM 加増/NN の/PN うえ/NB 転封/NN する/XV こと/NB と/PS なっ/VV た/AV 直盛/NN は/PK 、/SYM 采地/NN に/PX 赴く/VV 途中/NR の/PN 大坂/NNP で/PS 没し/NN た/AV 。/SYM
+旧/XP 松山/NN 藩/NN 領/NN 東部/NN に当たる/NN 西条/NN 6/CD 万/CD 8600/S 石/XSC は/PK 、/SYM 伊勢/NN 国/XS 神戸/NNP 藩主/NN 一柳/NN 直盛/NN に/PX 与え/VV られ/AV た/AV が/PC 、/SYM 加増/NN の/PN うえ/NB 転封/NN する/XV こと/NB と/PS なっ/VV た/AV 直盛/NN は/PK 、/SYM 采地/NN に/PX 赴く/VV 途中/NR の/PN 大坂/NNP で/PS 没し/NN た/AV 。/SYM
 霊芝/NN に/PS は/PK 毛細血管/NN の/PM 血液/NN 循環/NN を/PS 促進/NN する/AV 働き/NN が/PS あり/VV ます/AV 。/SYM
-『/SYM 第/XPC 2/CD 次/XSC OG/NN 』/SYM で/PS コウタ/NNP と共に/PP 帰還/VV し/XV 、/SYM 海上/NN で/PS ヒリュウ/NN 改/NN を/PS 襲撃/VV し/XV た/AV イグニス/NN を/PS 撃破/VV 後/NB に/PS 鋼/NN 龍/NNP 戦隊/NN に/PX 合流/VV 。/SYM
+『/SYM 第/XPC 2/CD 次/XSC OG/SP 』/SYM で/PS コウタ/NNP と共に/PP 帰還/VV し/XV 、/SYM 海上/NN で/PS ヒリュウ/NN 改/NN を/PS 襲撃/VV し/XV た/AV イグニス/NN を/PS 撃破/VV 後/NB に/PS 鋼/NN 龍/NNP 戦隊/NN に/PX 合流/VV 。/SYM
 2/CD 位/XSC の/PN 天草/NN 本渡/NN クラブ/NN と/PS 3/CD 位/XSC の/PN 菊池/NNP クラブ/NN は/PK 10月/NR に/PS 宮崎県/NN で/PS 行わ/VV れる/AV 九州/NNP 大会/NN に/PS 出場/VV する/XV 。/SYM
 財務相/NN の/PN ヘルムート/NN ・/SYM シュミット/NN に/PX 連邦首相/NN の/PM 座/NN を/PS 譲っ/NN た/AV 。/SYM
 2008/CD 年/XSC 4月/NR 6/CD 日/XSC 午前/NR 11/CD 時/XSC に/PS 子供/NN が/PS 生まれる/VV と/PQ し/VV ます/AV 。/SYM
