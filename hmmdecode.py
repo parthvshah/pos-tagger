@@ -36,13 +36,13 @@ def fix_tag(word, tag, tag_prob):
     word = str(word)
     tag = str(tag)
 
-    most_prob = take(2, tag_prob)[1:]
+    most_prob = take(4, tag_prob)[1:]
     if len(tag) == 0:
         if is_english(word[0]):
             if word[0].isupper():
-                tag = "SP"
+                tag = most_prob[0]
             else:
-                tag = "S"
+                tag = most_prob[2]
         else:
             tag = most_prob[0]
 
@@ -111,9 +111,6 @@ def viterbi_algorithm():
             start = "<s>"
             counter = 0
 
-            first_avg = [0, 0]
-            second_avg = [0, 0]
-
             for observation in tokens:
                 temp_dict = dict()
                 if counter == 0:
@@ -131,8 +128,6 @@ def viterbi_algorithm():
                             probability_value = math.log(
                                 transmission_probability, 10
                             ) + math.log(observation_probability, 10)
-                            first_avg[0] += probability_value
-                            first_avg[1] += 1
 
                             previous_word[
                                 tuple([observation, current_tag, index])
@@ -145,8 +140,6 @@ def viterbi_algorithm():
                                 previous_word[
                                     tuple([observation, key[1], index])
                                 ] = math.log(transition_matrix[key], 10)
-                                second_avg[0] += math.log(transition_matrix[key], 10)
-                                second_avg[1] += 1
                 # counter not 0
                 else:
                     if observation in word_tags:
@@ -166,17 +159,13 @@ def viterbi_algorithm():
                                     emission_matrix[observation_tuple]
                                 )
 
-                                if (
-                                    transmission_probability == 0.0
-                                    or emission_probability == 0.0
-                                ):
-                                    probability_value = float(previous_word[k])
-                                else:
-                                    probability_value = (
-                                        (math.log(transmission_probability, 10))
-                                        + math.log(emission_probability, 10)
-                                        + float(previous_word[k])
-                                    )
+                                probability_value = (
+                                    (math.log(transmission_probability, 10))
+                                    + math.log(emission_probability, 10)
+                                    + float(previous_word[k])
+                                )
+                                # print("in", probability_value)
+
                                 if probability_value > max_probability:
                                     max_probability = probability_value
                                     temp_1 = current_tag
