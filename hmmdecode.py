@@ -1,3 +1,4 @@
+from lib2to3.pgen2.parse import ParseError
 import sys
 import os
 import math
@@ -10,12 +11,12 @@ def default_value():
     return 1
 
 
-transition = defaultdict(default_value)
-emission = defaultdict(default_value)
-tagcountemit = defaultdict(default_value)
+transition_matrix = defaultdict(default_value)
+emission_matrix = defaultdict(default_value)
+transition_tag_count = defaultdict(default_value)
 
-tagsofword = dict()
-listoftags = list()
+word_tags = dict()
+tags_list = list()
 
 
 def take(n, iterable):
@@ -33,180 +34,200 @@ def fix_tag(word, tag, tag_prob):
     return word, tag
 
 
-def store(line, c):
-    token = line.strip("\n").split(" ")
-    if c == 1:
-        t = (token[0], token[1])
-        emission[t] = float(token[2])
-    elif c == 2:
-        t = (token[0], token[1])
-        transition[t] = float(token[2])
-    elif c == 3:
-        tagsofword[token[0]] = set()
-        for i in token[1].split(","):
-            tagsofword[token[0]].add(i)
-    elif c == 4:
-        tagcountemit[token[0]] = float(token[1])
+def load(line, read_flag):
+    tokens = line.strip("\n").split(" ")
+    if read_flag == 1:
+        t = (tokens[0], tokens[1])
+        emission_matrix[t] = float(tokens[2])
+    elif read_flag == 2:
+        t = (tokens[0], tokens[1])
+        transition_matrix[t] = float(tokens[2])
+    elif read_flag == 3:
+        word_tags[tokens[0]] = set()
+        for i in tokens[1].split(","):
+            word_tags[tokens[0]].add(i)
+    elif read_flag == 4:
+        transition_tag_count[tokens[0]] = float(tokens[1])
+    else:
+        raise ParseError
 
 
-def writetoFile1(bp, prevtag, index, line, ans):
-    f1 = open("hmmoutput.txt", "a")
+def output(previous_state, previous_tag, index, line):
+    f = open("hmmoutput.txt", "a")
     k = index
+
     for i in range(k):
         if index == 0:
             break
-        listoftags.append(bp[index][prevtag])
+        tags_list.append(previous_state[index][previous_tag])
         index -= 1
-        prevtag = bp[index + 1][prevtag]
+        previous_tag = previous_state[index + 1][previous_tag]
+
     if index == 0:
-        listoftags.reverse()
-        lines = []
-        lines = line.split(" ")
+        tags_list.reverse()
+        lines = list(line.split(" "))
         x = len(lines)
         tempans = ""
-        for i in range(0, x):
-            fixed_word, fixed_tag = fix_tag(lines[i], listoftags[i], tagcountemit)
+        for i in range(x):
+            fixed_word, fixed_tag = fix_tag(
+                lines[i], tags_list[i], transition_tag_count
+            )
             tempans = tempans + " " + fixed_word.rstrip() + "/" + fixed_tag
-        f1.write(tempans.lstrip().rstrip())
-        f1.write("\n")
-        f1.close()
+        f.write(tempans.lstrip().rstrip().strip())
+        f.write("\n")
+        f.close()
 
 
-def findlasttag(bp, pw, line, ans):
-    lasttag = max(pw, key=lambda k: pw[k])
-    listoftags.append(lasttag[1])
-    ans.append(lasttag[0] + "/" + lasttag[1])
-    writetoFile1(bp, lasttag[1], lasttag[2], line, ans)
+def last_tag(previous_state, previous_word, line):
+    max_last_tag = max(previous_word, key=lambda k: previous_word[k])
+    tags_list.append(max_last_tag[1])
+
+    output(previous_state, max_last_tag[1], max_last_tag[2], line)
 
 
-def Viterbi():
+def viterbi_algorithm():
     with open(sys.argv[1]) as f:
         for line in f:
-            previousword = {}
-            backpointer = dict()
-            ans = []
+            previous_word = dict()
+            previous_state = dict()
             index = 0
+
             tokens = line.strip().split(" ")
             start = "<s>"
             counter = 0
+
             first_avg = [0, 0]
             second_avg = [0, 0]
+
             for observation in tokens:
-                tmplist = {}
+                temp_dict = dict()
                 if counter == 0:
-                    if observation in tagsofword:
-                        for currtag in tagsofword[observation]:
-                            t = (start, currtag)
-                            tprob = transition[t]
-                            t1 = (observation, currtag)
-                            if float(tprob) == 0.0 or float(emission[t1]) == 0.0:
-                                # probval = -6
-                                try:
-                                    probval = first_avg[0] / first_avg[1]
-                                except ZeroDivisionError:
-                                    probval = -2.5
-                            else:
-                                probval = math.log(float(tprob), 10) + math.log(
-                                    float(emission[t1]), 10
-                                )
-                                first_avg[0] += probval
-                                first_avg[1] += 1
-                            previousword[tuple([observation, currtag, index])] = probval
+                    if observation in word_tags:
+                        for current_tag in word_tags[observation]:
+                            transition_tuple = (start, current_tag)
+                            transmission_probability = float(
+                                transition_matrix[transition_tuple]
+                            )
+                            observation_tuple = (observation, current_tag)
+                            observation_probability = float(
+                                emission_matrix[observation_tuple]
+                            )
+
+                            probability_value = math.log(
+                                transmission_probability, 10
+                            ) + math.log(observation_probability, 10)
+                            first_avg[0] += probability_value
+                            first_avg[1] += 1
+
+                            previous_word[
+                                tuple([observation, current_tag, index])
+                            ] = probability_value
+
+                    # observation not in word_tags
                     else:
-                        for k in transition:
-                            if k[0] == "<s>" and k[1] != "<s>":
-                                if transition[k] == 0:
-                                    try:
-                                        previousword[
-                                            tuple([observation, k[1], index])
-                                        ] = (second_avg[0] / second_avg[1])
-                                    except ZeroDivisionError:
-                                        previousword[
-                                            tuple([observation, k[1], index])
-                                        ] = second_avg[0]
-
-                                else:
-                                    previousword[
-                                        tuple([observation, k[1], index])
-                                    ] = math.log(transition[k], 10)
-                                    second_avg[0] += math.log(transition[k], 10)
-                                    second_avg[1] += 1
-
+                        for key in transition_matrix:
+                            if key[0] == "<s>" and key[1] != "<s>":
+                                previous_word[
+                                    tuple([observation, key[1], index])
+                                ] = math.log(transition_matrix[key], 10)
+                                second_avg[0] += math.log(transition_matrix[key], 10)
+                                second_avg[1] += 1
+                # counter not 0
                 else:
-                    if observation in tagsofword:
-                        tempD = {}
-                        temp1 = ""
-                        temp2 = ""
-                        for currtag in tagsofword[observation]:
-                            max = -float("inf")
-                            for k in previousword:
-                                t = (k[1], currtag)
-                                tprob = transition[t]
-                                t1 = (observation, currtag)
-                                if float(tprob) == 0.0 or float(emission[t1]) == 0.0:
-                                    probval = float(previousword[k])
-                                else:
-                                    probval = (
-                                        (math.log(float(tprob), 10))
-                                        + math.log(float(emission[t1]), 10)
-                                        + float(previousword[k])
-                                    )
-                                if probval > max:
-                                    max = probval
-                                    temp1 = currtag
-                                    temp2 = k
-                            tempD[tuple([observation, temp1, index])] = max
-                            tmplist[temp1] = temp2[1]
-                    else:
-                        tempdict = {}
-                        tempD = {}
-                        for k1 in previousword:
-                            for keys in transition:
-                                if k1[1] == keys[0]:
-                                    if transition[keys] == 0.0:
-                                        val2 = float(previousword[k1])
-                                    else:
-                                        val2 = math.log(transition[keys], 10) + float(
-                                            previousword[k1]
-                                        )
-                                    tempdict[tuple([keys[0], keys[1], index])] = val2
+                    if observation in word_tags:
+                        counter_dict = dict()
+                        temp_1 = ""
+                        temp_2 = ""
+                        for current_tag in word_tags[observation]:
+                            max_probability = -float(1e9)
 
-                        tempdictsorted = dict(
+                            for k in previous_word:
+                                transition_tuple = (k[1], current_tag)
+                                transmission_probability = float(
+                                    transition_matrix[transition_tuple]
+                                )
+                                observation_tuple = (observation, current_tag)
+                                emission_probability = float(
+                                    emission_matrix[observation_tuple]
+                                )
+
+                                if (
+                                    transmission_probability == 0.0
+                                    or emission_probability == 0.0
+                                ):
+                                    probability_value = float(previous_word[k])
+                                else:
+                                    probability_value = (
+                                        (math.log(transmission_probability, 10))
+                                        + math.log(emission_probability, 10)
+                                        + float(previous_word[k])
+                                    )
+                                if probability_value > max_probability:
+                                    max_probability = probability_value
+                                    temp_1 = current_tag
+                                    temp_2 = k
+
+                            counter_dict[
+                                tuple([observation, temp_1, index])
+                            ] = max_probability
+                            temp_dict[temp_1] = temp_2[1]
+                    else:
+                        tempdict = dict()
+                        counter_dict = dict()
+
+                        for word in previous_word:
+                            for keys in transition_matrix:
+                                if word[1] == keys[0]:
+                                    if transition_matrix[keys] == 0.0:
+                                        probability_value = float(previous_word[word])
+                                    else:
+                                        probability_value = math.log(
+                                            transition_matrix[keys], 10
+                                        ) + float(previous_word[word])
+                                    tempdict[
+                                        tuple([keys[0], keys[1], index])
+                                    ] = probability_value
+
+                        sorted_dict = dict(
                             sorted(tempdict.items(), key=lambda x: x[1], reverse=True)
                         )
-                        tempdict2 = {}
-                        tagdict = {}
-                        for k in tempdictsorted:
-                            if k[1] not in tagdict:
-                                tempdict2[k] = tempdictsorted[k]
-                            tagdict[k[1]] = 1
+                        temp_dict_2 = dict()
+                        tags_dict = dict()
+                        for key in sorted_dict:
+                            if key[1] not in tags_dict:
+                                temp_dict_2[key] = sorted_dict[key]
+                            tags_dict[key[1]] = 1
 
-                        for k1 in tempdict2:
-                            tempD[tuple([observation, k1[1], index])] = tempdict2[k1]
-                            tmplist[k1[1]] = k1[0]
+                        for temp_key in temp_dict_2:
+                            counter_dict[
+                                tuple([observation, temp_key[1], index])
+                            ] = temp_dict_2[temp_key]
+                            temp_dict[temp_key[1]] = temp_key[0]
+
                 counter += 1
-                backpointer[index] = tmplist
+                previous_state[index] = temp_dict
                 if counter > 1:
-                    previousword = tempD
+                    previous_word = counter_dict
                 index += 1
-            findlasttag(backpointer, previousword, line, ans)
+            last_tag(previous_state, previous_word, line)
 
 
 if __name__ == "__main__":
-    count = 0
+    read_flag = 0
     if os.path.exists("hmmoutput.txt"):
         os.remove("hmmoutput.txt")
 
     with open("hmmmodel.txt") as f:
         for line in f:
             if line.startswith("*Emission Probabilities"):
-                count = 1
+                read_flag = 1
             elif line.startswith("*Transition Probabilites"):
-                count = 2
+                read_flag = 2
             elif line.startswith("*Tags"):
-                count = 3
+                read_flag = 3
             elif line.startswith("*Tag Counts"):
-                count = 4
+                read_flag = 4
             else:
-                store(line, count)
-        Viterbi()
+                load(line, read_flag)
+
+        viterbi_algorithm()
